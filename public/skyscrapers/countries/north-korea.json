@@ -1,0 +1,1212 @@
+[
+  {
+    "name": "Chongnyon Hotel",
+    "year": "1989",
+    "height": 107.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chongnyon%20Hotel.jpg",
+    "latitude": 39.0258,
+    "longitude": 125.6813,
+    "state": null,
+    "wikidata": "Q905079"
+  },
+  {
+    "name": "Ryugyong Hotel",
+    "year": null,
+    "height": 323.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pr%C3%A1zdn%C3%A9%20slnice%20a%20rozestav%C4%9Bn%C3%BD%20hotel%20Ryugyong%20-%20panoramio.jpg",
+    "latitude": 39.036666666,
+    "longitude": 125.730833333,
+    "state": null,
+    "wikidata": "Q29272"
+  },
+  {
+    "name": "Yanggakdo International Hotel",
+    "year": "1995",
+    "height": 170.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dprk-hotel-yanggakdo.jpg",
+    "latitude": 38.998933333,
+    "longitude": 125.751152777,
+    "state": null,
+    "wikidata": "Q700636"
+  },
+  {
+    "name": "Koryo Hotel",
+    "year": "1985",
+    "height": 148.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dprk-hotel-koryo.jpg",
+    "latitude": 39.00874,
+    "longitude": 125.73658,
+    "state": null,
+    "wikidata": "Q702322"
+  },
+  {
+    "name": "Pyongyang General Hospital",
+    "year": "2020",
+    "height": null,
+    "image": null,
+    "latitude": 39.028611111,
+    "longitude": 125.771666666,
+    "state": null,
+    "wikidata": "Q96400526"
+  },
+  {
+    "name": "Sosan Hotel",
+    "year": "1989",
+    "height": 103.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%EC%84%9C%EC%82%B0%ED%98%B8%ED%85%94-Sosan%20Hotel%2020161203%200826.jpg",
+    "latitude": 39.010555555,
+    "longitude": 125.692222222,
+    "state": null,
+    "wikidata": "Q16014223"
+  },
+  {
+    "name": "Mirae Unha Tower",
+    "year": "2015",
+    "height": 210.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mirae%20Unha%20Tower%20in%202018%20on%20Mirae%20Scientists%20Street%2C%20Pyongyang.jpg",
+    "latitude": 38.9939,
+    "longitude": 125.73045,
+    "state": null,
+    "wikidata": "Q25389789"
+  },
+  {
+    "name": "Ryomyong Tower 50 floors 200 m (660 ft)",
+    "year": "2017",
+    "height": 200.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryomyong%20Street%2C%20north%20round%20towers.jpg",
+    "latitude": 39.06158,
+    "longitude": 125.76049,
+    "state": null,
+    "wikidata": "Q118583580"
+  },
+  {
+    "name": "Ryomyong Tower 40 floors 150 m (502 ft)",
+    "year": "2017",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryomyong%20south%20towers.jpg",
+    "latitude": 39.05851,
+    "longitude": 125.7572,
+    "state": null,
+    "wikidata": "Q118583581"
+  },
+  {
+    "name": "Ryomyong Tower 35 floors 140 m (460 ft)",
+    "year": "2017",
+    "height": 130.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryomyong%20Street%2C%20north%20round%20towers.jpg",
+    "latitude": 39.06169,
+    "longitude": 125.76104,
+    "state": null,
+    "wikidata": "Q118583582"
+  },
+  {
+    "name": "Ryomyong Tower 70 floors 240 m (790 ft)",
+    "year": "2017",
+    "height": 240.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryomyong%20south%20towers.jpg",
+    "latitude": 39.05872,
+    "longitude": 125.75769,
+    "state": null,
+    "wikidata": "Q118583861"
+  },
+  {
+    "name": "KISU Residential Tower 1",
+    "year": "2013",
+    "height": 153.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20apartment%20buildings%20in%20Pyongyang%20%2815917634429%29.jpg",
+    "latitude": 39.06072,
+    "longitude": 125.75389,
+    "state": null,
+    "wikidata": "Q118584603"
+  },
+  {
+    "name": "KISU Residential Tower 2",
+    "year": "2013",
+    "height": 131.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20apartment%20buildings%20in%20Pyongyang%20%2815917634429%29.jpg",
+    "latitude": 39.06046,
+    "longitude": 125.75335,
+    "state": null,
+    "wikidata": "Q118584623"
+  },
+  {
+    "name": "Kim Chaek University of Technology Tower 1",
+    "year": "2014",
+    "height": 165.0,
+    "image": null,
+    "latitude": 38.99601,
+    "longitude": 125.73823,
+    "state": null,
+    "wikidata": "Q118587809"
+  },
+  {
+    "name": "Kim Chaek University of Technology Tower 2",
+    "year": "2014",
+    "height": 158.0,
+    "image": null,
+    "latitude": 38.99624,
+    "longitude": 125.73883,
+    "state": null,
+    "wikidata": "Q118587818"
+  },
+  {
+    "name": "Secretariat Housing",
+    "year": "1987",
+    "height": 122.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20from%20the%20Monument%20to%20Victorious%20Fatherland%20Liberation%20War.jpg",
+    "latitude": 39.03826,
+    "longitude": 125.73674,
+    "state": null,
+    "wikidata": "Q118807739"
+  },
+  {
+    "name": "KWP Scientists Apartment",
+    "year": "1986",
+    "height": 150.6,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KWP%20Scientists%20Apartment%20in%20Pyongyang.jpg",
+    "latitude": 39.03271,
+    "longitude": 125.72874,
+    "state": null,
+    "wikidata": "Q118824787"
+  },
+  {
+    "name": "Artists Housing",
+    "year": "1986",
+    "height": 132.6,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyongyang%20Information%20Center%20in%20Pyongyang%2C%20North%20Korea.jpg",
+    "latitude": 39.03583,
+    "longitude": 125.72758,
+    "state": null,
+    "wikidata": "Q118825030"
+  },
+  {
+    "name": "Kwangbok Street 1",
+    "year": "1989",
+    "height": 144.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Kwangbok%20Street%2C%20Pyongyang.JPG",
+    "latitude": 39.01824,
+    "longitude": 125.65944,
+    "state": null,
+    "wikidata": "Q118825816"
+  },
+  {
+    "name": "Kwangbok Street 3",
+    "year": "1985",
+    "height": 122.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyongyang%20apartments.jpg",
+    "latitude": 39.0303,
+    "longitude": 125.68401,
+    "state": null,
+    "wikidata": "Q118826602"
+  },
+  {
+    "name": "Kwangbok Street 2",
+    "year": "1985",
+    "height": 122.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Streets%20in%20Pyongyang%2001.JPG",
+    "latitude": 39.02914,
+    "longitude": 125.68166,
+    "state": null,
+    "wikidata": "Q118827441"
+  },
+  {
+    "name": "Kwangbok Street 4",
+    "year": "1985",
+    "height": 122.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Korea-Pyongyang-Kwangbok%20Street-01.jpg",
+    "latitude": 39.03148,
+    "longitude": 125.6864,
+    "state": null,
+    "wikidata": "Q118827625"
+  },
+  {
+    "name": "Mansudae Apartment 2#",
+    "year": "2012",
+    "height": 146.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%202%20view%20from%20Grand%20People%27s%20Study%20House.jpg",
+    "latitude": 39.02579,
+    "longitude": 125.75478,
+    "state": null,
+    "wikidata": "Q118829785"
+  },
+  {
+    "name": "Mansudae Apartment 1#",
+    "year": "2012",
+    "height": 146.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%201%20view%20from%20juche%20tower.jpg",
+    "latitude": 39.02557,
+    "longitude": 125.75572,
+    "state": null,
+    "wikidata": "Q118829811"
+  },
+  {
+    "name": "Mansudae Apartment 3#",
+    "year": "2012",
+    "height": 130.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%203%20view%20from%20the%20other%20side%20of%20the%20Taedong%20river.jpg",
+    "latitude": 39.02648,
+    "longitude": 125.75608,
+    "state": null,
+    "wikidata": "Q118829834"
+  },
+  {
+    "name": "Mansudae Apartment 4#",
+    "year": "2012",
+    "height": 103.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%204%20view%20from%20the%20ground%20near%20Juche%20Tower.jpg",
+    "latitude": 39.02632,
+    "longitude": 125.75683,
+    "state": null,
+    "wikidata": "Q118829894"
+  },
+  {
+    "name": "Mansudae Apartment 5#",
+    "year": "2012",
+    "height": 103.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%205%20from%20the%20other%20side%20of%20Taedong%20river.jpg",
+    "latitude": 39.02545,
+    "longitude": 125.75654,
+    "state": null,
+    "wikidata": "Q118829927"
+  },
+  {
+    "name": "Mansudae Apartment 8#A",
+    "year": "2012",
+    "height": 106.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%208A%208B%209A%209B%2010A%2010B%2011%20from%20street.jpg",
+    "latitude": 39.02611,
+    "longitude": 125.75401,
+    "state": null,
+    "wikidata": "Q118830149"
+  },
+  {
+    "name": "Mansudae Apartment 9#A",
+    "year": "2012",
+    "height": 100.9,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%208A%208B%209A%209B%2010A%2010B%2011%20from%20street.jpg",
+    "latitude": 39.02626,
+    "longitude": 125.75352,
+    "state": null,
+    "wikidata": "Q118830175"
+  },
+  {
+    "name": "Taedong Residences 3",
+    "year": "2015",
+    "height": 120.0,
+    "image": null,
+    "latitude": 38.99466,
+    "longitude": 125.73196,
+    "state": null,
+    "wikidata": "Q118847708"
+  },
+  {
+    "name": "Mirae Blue Tower 1",
+    "year": "2016",
+    "height": 125.0,
+    "image": null,
+    "latitude": 38.99576,
+    "longitude": 125.73382,
+    "state": null,
+    "wikidata": "Q118849557"
+  },
+  {
+    "name": "Mirae Blue Tower 2",
+    "year": "2016",
+    "height": 100.0,
+    "image": null,
+    "latitude": 38.99522,
+    "longitude": 125.73354,
+    "state": null,
+    "wikidata": "Q118849581"
+  },
+  {
+    "name": "Mirae Blue Tower 3",
+    "year": "2016",
+    "height": 100.0,
+    "image": null,
+    "latitude": 38.99582,
+    "longitude": 125.73446,
+    "state": null,
+    "wikidata": "Q118849589"
+  },
+  {
+    "name": "Green Tower 1",
+    "year": "2016",
+    "height": 130.0,
+    "image": null,
+    "latitude": 38.99581,
+    "longitude": 125.73759,
+    "state": null,
+    "wikidata": "Q118849610"
+  },
+  {
+    "name": "Green Tower 2",
+    "year": "2016",
+    "height": 130.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Green%20Tower%202%20on%20Mirae%20Scientists%20Street.jpg",
+    "latitude": 38.99652,
+    "longitude": 125.73954,
+    "state": null,
+    "wikidata": "Q118849613"
+  },
+  {
+    "name": "Songhwa Street Main Tower",
+    "year": "2022",
+    "height": 273.0,
+    "image": null,
+    "latitude": 38.99953,
+    "longitude": 125.80086,
+    "state": null,
+    "wikidata": "Q118849690"
+  },
+  {
+    "name": "Mansudae Apartment 8#B",
+    "year": "2012",
+    "height": 106.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%208A%208B%20from%20the%20street.jpg",
+    "latitude": 39.02588,
+    "longitude": 125.75409,
+    "state": null,
+    "wikidata": "Q118835356"
+  },
+  {
+    "name": "Mansudae Apartment 9#B",
+    "year": "2012",
+    "height": 100.9,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mansudae%20Apartment%208A%208B%209A%209B%2010A%2010B%20from%20the%20other%20side%20of%20Taedong%20river.jpg",
+    "latitude": 39.02601,
+    "longitude": 125.75361,
+    "state": null,
+    "wikidata": "Q118835364"
+  },
+  {
+    "name": "Tongan Apartment 1",
+    "year": "2012",
+    "height": 103.0,
+    "image": null,
+    "latitude": 39.00283,
+    "longitude": 125.74469,
+    "state": null,
+    "wikidata": "Q118847483"
+  },
+  {
+    "name": "Tongan Apartment 2",
+    "year": "2013",
+    "height": 122.0,
+    "image": null,
+    "latitude": 39.00393,
+    "longitude": 125.74354,
+    "state": null,
+    "wikidata": "Q118847491"
+  },
+  {
+    "name": "Kim Chaek University Residence 3",
+    "year": "2016",
+    "height": 120.0,
+    "image": null,
+    "latitude": 38.99504,
+    "longitude": 125.73592,
+    "state": null,
+    "wikidata": "Q118847645"
+  },
+  {
+    "name": "Kim Chaek University Residence 4",
+    "year": "2016",
+    "height": 120.0,
+    "image": null,
+    "latitude": 38.99393,
+    "longitude": 125.73313,
+    "state": null,
+    "wikidata": "Q118847662"
+  },
+  {
+    "name": "Othan-Kangan Apartment",
+    "year": "2014",
+    "height": 109.0,
+    "image": null,
+    "latitude": 39.0067,
+    "longitude": 125.75053,
+    "state": null,
+    "wikidata": "Q118847674"
+  },
+  {
+    "name": "Taedong Residences 1",
+    "year": "2015",
+    "height": 172.0,
+    "image": null,
+    "latitude": 38.99482,
+    "longitude": 125.73236,
+    "state": null,
+    "wikidata": "Q118847703"
+  },
+  {
+    "name": "Taedong Residences 2",
+    "year": "2015",
+    "height": 148.0,
+    "image": null,
+    "latitude": 38.99446,
+    "longitude": 125.7316,
+    "state": null,
+    "wikidata": "Q118847707"
+  },
+  {
+    "name": "Chonu-dong Blue Twin 1",
+    "year": "2020",
+    "height": 91.9,
+    "image": null,
+    "latitude": 39.05383,
+    "longitude": 125.7552,
+    "state": null,
+    "wikidata": "Q118849910"
+  },
+  {
+    "name": "Chonu-dong Blue Twin 2",
+    "year": "2020",
+    "height": 104.1,
+    "image": null,
+    "latitude": 39.05327,
+    "longitude": 125.75533,
+    "state": null,
+    "wikidata": "Q118850020"
+  },
+  {
+    "name": "Tongan Residential 1",
+    "year": "2017",
+    "height": 120.0,
+    "image": null,
+    "latitude": 39.00144,
+    "longitude": 125.74374,
+    "state": null,
+    "wikidata": "Q118850260"
+  },
+  {
+    "name": "Tongan Residential 2",
+    "year": "2017",
+    "height": 119.0,
+    "image": null,
+    "latitude": 39.00164,
+    "longitude": 125.7442,
+    "state": null,
+    "wikidata": "Q118850273"
+  },
+  {
+    "name": "Tongan Residential 3",
+    "year": "2020",
+    "height": 139.3,
+    "image": null,
+    "latitude": 39.00175,
+    "longitude": 125.74351,
+    "state": null,
+    "wikidata": "Q118850281"
+  },
+  {
+    "name": "Tongan Residential 4",
+    "year": "2021",
+    "height": 139.3,
+    "image": null,
+    "latitude": 39.00209,
+    "longitude": 125.74392,
+    "state": null,
+    "wikidata": "Q118850284"
+  },
+  {
+    "name": "Tongan Apartment 3",
+    "year": "2013",
+    "height": 122.0,
+    "image": null,
+    "latitude": 39.00357,
+    "longitude": 125.74271,
+    "state": null,
+    "wikidata": "Q118850698"
+  },
+  {
+    "name": "Kyongrim Residential 1",
+    "year": "2017",
+    "height": 124.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%201%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.0159,
+    "longitude": 125.75312,
+    "state": null,
+    "wikidata": "Q118851888"
+  },
+  {
+    "name": "Kyongrim Residential 2",
+    "year": "2017",
+    "height": 110.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%202%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.01604,
+    "longitude": 125.75338,
+    "state": null,
+    "wikidata": "Q118851889"
+  },
+  {
+    "name": "Kyongrim Residential 3",
+    "year": "2017",
+    "height": 69.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%203%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.01774,
+    "longitude": 125.75437,
+    "state": null,
+    "wikidata": "Q118851890"
+  },
+  {
+    "name": "Kyongrim Residential 4",
+    "year": "2018",
+    "height": 76.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%204%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.02137,
+    "longitude": 125.75536,
+    "state": null,
+    "wikidata": "Q118851892"
+  },
+  {
+    "name": "Kyongrim Residential 5",
+    "year": "2017",
+    "height": 90.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%205%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.01629,
+    "longitude": 125.7537,
+    "state": null,
+    "wikidata": "Q118851894"
+  },
+  {
+    "name": "Kyongrim Residential 6",
+    "year": "2017",
+    "height": 90.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%206%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.01707,
+    "longitude": 125.75414,
+    "state": null,
+    "wikidata": "Q118851895"
+  },
+  {
+    "name": "Kyongrim Residential 7",
+    "year": "2017",
+    "height": 83.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%207%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.01672,
+    "longitude": 125.7537,
+    "state": null,
+    "wikidata": "Q118851896"
+  },
+  {
+    "name": "Kyongrim Residential 8",
+    "year": "2017",
+    "height": 83.0,
+    "image": null,
+    "latitude": 39.0166,
+    "longitude": 125.75341,
+    "state": null,
+    "wikidata": "Q118851897"
+  },
+  {
+    "name": "Kaesong Industrial Complex Support Center",
+    "year": "2009",
+    "height": 70.0,
+    "image": null,
+    "latitude": 37.93345,
+    "longitude": 126.62194,
+    "state": null,
+    "wikidata": "Q118852729"
+  },
+  {
+    "name": "Sinuiju Circular Apartment",
+    "year": "2020",
+    "height": null,
+    "image": null,
+    "latitude": 40.10919,
+    "longitude": 124.39745,
+    "state": null,
+    "wikidata": "Q118854222"
+  },
+  {
+    "name": "Cheyukchon Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 38.72791,
+    "longitude": 125.37634,
+    "state": null,
+    "wikidata": "Q118854232"
+  },
+  {
+    "name": "Kaeson-dong Tower 2",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 39.16693,
+    "longitude": 127.4322,
+    "state": null,
+    "wikidata": "Q118868157"
+  },
+  {
+    "name": "Kaeson-dong Tower 1",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 39.168,
+    "longitude": 127.4333,
+    "state": null,
+    "wikidata": "Q118868178"
+  },
+  {
+    "name": "Wonsan Soldier Hotel",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 39.20037,
+    "longitude": 127.47477,
+    "state": null,
+    "wikidata": "Q118868187"
+  },
+  {
+    "name": "New Day Hotel",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 39.19732,
+    "longitude": 127.46922,
+    "state": null,
+    "wikidata": "Q118868202"
+  },
+  {
+    "name": "Songdowon Hotel",
+    "year": "1983",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dongmyong%20Hotel%20%2814722053397%29.jpg",
+    "latitude": 39.17316,
+    "longitude": 127.43122,
+    "state": null,
+    "wikidata": "Q118868210"
+  },
+  {
+    "name": "Mirae Taedong Residences 3",
+    "year": "2015",
+    "height": null,
+    "image": null,
+    "latitude": 38.99656,
+    "longitude": 125.73589,
+    "state": null,
+    "wikidata": "Q118869221"
+  },
+  {
+    "name": "Palgol-dong Apartment 2",
+    "year": "1989",
+    "height": 124.0,
+    "image": null,
+    "latitude": 39.03472,
+    "longitude": 125.67871,
+    "state": null,
+    "wikidata": "Q118869361"
+  },
+  {
+    "name": "Palgol-dong Apartment 3",
+    "year": "1989",
+    "height": 124.0,
+    "image": null,
+    "latitude": 39.03457,
+    "longitude": 125.68063,
+    "state": null,
+    "wikidata": "Q118869362"
+  },
+  {
+    "name": "Yokjon Apartment 1",
+    "year": "2010",
+    "height": 115.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yokjon%20Apartment%201%20from%20the%20Yanggakdo%20Hotel.JPG",
+    "latitude": 38.99976,
+    "longitude": 125.74236,
+    "state": null,
+    "wikidata": "Q118869495"
+  },
+  {
+    "name": "Yokjon Apartment 2",
+    "year": "2010",
+    "height": 115.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yokjon%20Apartment%202%20from%20the%20Yanggakdo%20Hotel.JPG",
+    "latitude": 38.99937,
+    "longitude": 125.74298,
+    "state": null,
+    "wikidata": "Q118869504"
+  },
+  {
+    "name": "Chongryu Tower 2",
+    "year": "2017",
+    "height": 130.0,
+    "image": null,
+    "latitude": 39.05856,
+    "longitude": 125.76087,
+    "state": null,
+    "wikidata": "Q118869523"
+  },
+  {
+    "name": "Tongan Tower 1",
+    "year": "2020",
+    "height": null,
+    "image": null,
+    "latitude": 39.00164,
+    "longitude": 125.74534,
+    "state": null,
+    "wikidata": "Q118869594"
+  },
+  {
+    "name": "Tongan Tower 2",
+    "year": "2021",
+    "height": null,
+    "image": null,
+    "latitude": 39.00133,
+    "longitude": 125.74522,
+    "state": null,
+    "wikidata": "Q118869596"
+  },
+  {
+    "name": "Pyongyang Apartment Tower 1",
+    "year": "1979",
+    "height": 105.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118869667"
+  },
+  {
+    "name": "Pyongyang Apartment Tower 2",
+    "year": "1979",
+    "height": 105.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118869669"
+  },
+  {
+    "name": "Sci-Tech Complex Tower",
+    "year": "2016",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyongyang%20Sci-Tech%20Complex%20Tower.jpg",
+    "latitude": 38.99007,
+    "longitude": 125.71118,
+    "state": null,
+    "wikidata": "Q118869687"
+  },
+  {
+    "name": "Tonghung-dong Building",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 39.00829,
+    "longitude": 125.7384,
+    "state": null,
+    "wikidata": "Q118869747"
+  },
+  {
+    "name": "Sinyang Tower",
+    "year": "1985",
+    "height": 102.0,
+    "image": null,
+    "latitude": 39.02496,
+    "longitude": 125.74234,
+    "state": null,
+    "wikidata": "Q118869774"
+  },
+  {
+    "name": "Cheonlima Tower",
+    "year": "1982",
+    "height": 100.0,
+    "image": null,
+    "latitude": 39.01236,
+    "longitude": 125.72815,
+    "state": null,
+    "wikidata": "Q118869813"
+  },
+  {
+    "name": "Changgwang Apartment Tower 1",
+    "year": "1985",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118869832"
+  },
+  {
+    "name": "Changgwang Apartment Tower 2",
+    "year": "1985",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118869833"
+  },
+  {
+    "name": "Changgwang Apartment Tower 3",
+    "year": "1985",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118869834"
+  },
+  {
+    "name": "Changgwang Apartment Tower 4",
+    "year": "1985",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118869835"
+  },
+  {
+    "name": "Changgwangsan Hotel",
+    "year": "1975",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Changgwangsan%20Hotel%20in%20Pyongyang.jpg",
+    "latitude": 39.01996,
+    "longitude": 125.73274,
+    "state": null,
+    "wikidata": "Q118869924"
+  },
+  {
+    "name": "Kim Il-sung University Campus 2nd Building",
+    "year": "1972",
+    "height": null,
+    "image": null,
+    "latitude": 39.05899,
+    "longitude": 125.77023,
+    "state": null,
+    "wikidata": "Q118870146"
+  },
+  {
+    "name": "Chongryun Housing 1",
+    "year": "1987",
+    "height": null,
+    "image": null,
+    "latitude": 39.03664,
+    "longitude": 125.7503,
+    "state": null,
+    "wikidata": "Q118870485"
+  },
+  {
+    "name": "Chongryun Housing 2",
+    "year": "1987",
+    "height": null,
+    "image": null,
+    "latitude": 39.03677,
+    "longitude": 125.75071,
+    "state": null,
+    "wikidata": "Q118870497"
+  },
+  {
+    "name": "Chongryun Housing 3",
+    "year": "1987",
+    "height": null,
+    "image": null,
+    "latitude": 39.0364,
+    "longitude": 125.75112,
+    "state": null,
+    "wikidata": "Q118870730"
+  },
+  {
+    "name": "Sunflower high-rise House",
+    "year": "1985",
+    "height": null,
+    "image": null,
+    "latitude": 39.02309,
+    "longitude": 125.74583,
+    "state": null,
+    "wikidata": "Q118870905"
+  },
+  {
+    "name": "Ponghwasan Hotel",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 39.0414,
+    "longitude": 125.74932,
+    "state": null,
+    "wikidata": "Q118872673"
+  },
+  {
+    "name": "Ryusong Residential 2",
+    "year": "2017",
+    "height": 100.0,
+    "image": null,
+    "latitude": 39.00108,
+    "longitude": 125.74001,
+    "state": null,
+    "wikidata": "Q118873900"
+  },
+  {
+    "name": "Ansas Residential A",
+    "year": "2018",
+    "height": 124.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118873915"
+  },
+  {
+    "name": "Ansas Residential B",
+    "year": "2018",
+    "height": 110.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118873916"
+  },
+  {
+    "name": "Yeongheung Apartment 1",
+    "year": "2017",
+    "height": 105.0,
+    "image": null,
+    "latitude": 39.05978,
+    "longitude": 125.75746,
+    "state": null,
+    "wikidata": "Q118874018"
+  },
+  {
+    "name": "Yeongheung Apartment 2",
+    "year": "2017",
+    "height": 105.0,
+    "image": null,
+    "latitude": 39.06019,
+    "longitude": 125.75885,
+    "state": null,
+    "wikidata": "Q118874019"
+  },
+  {
+    "name": "Ryusong Residential 3",
+    "year": "2018",
+    "height": 100.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118874086"
+  },
+  {
+    "name": "Ryusong Residential 4",
+    "year": "2018",
+    "height": 100.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q118874087"
+  },
+  {
+    "name": "200 Residential Apartments",
+    "year": "1988",
+    "height": 83.9,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/200%20Residential%20Apartments%20in%20Pyongyang%2C%20North%20Korea%2C%20from%20Yanggakdo%20Hotel.jpg",
+    "latitude": 39.0361,
+    "longitude": 125.73672,
+    "state": null,
+    "wikidata": "Q118876443"
+  },
+  {
+    "name": "Sail-Shaped Tower",
+    "year": null,
+    "height": 79.0,
+    "image": null,
+    "latitude": 39.00984,
+    "longitude": 125.76101,
+    "state": null,
+    "wikidata": "Q118876458"
+  },
+  {
+    "name": "Mirae Green Tower",
+    "year": "2016",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mirae%20Green%20Tower.jpg",
+    "latitude": 38.997791278,
+    "longitude": 125.740113258,
+    "state": null,
+    "wikidata": "Q118949967"
+  },
+  {
+    "name": "Kyongrim Residential 9",
+    "year": "2017",
+    "height": 90.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%209%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.02165,
+    "longitude": 125.75573,
+    "state": null,
+    "wikidata": "Q118958216"
+  },
+  {
+    "name": "Kyongrim Residential 10",
+    "year": "2019",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyongrim%20Residential%2010%20view%20from%20Juche%20Tower.jpg",
+    "latitude": 39.02243,
+    "longitude": 125.75511,
+    "state": null,
+    "wikidata": "Q118958233"
+  },
+  {
+    "name": "Kyongrim Residential 11",
+    "year": "2020",
+    "height": null,
+    "image": null,
+    "latitude": 39.02252,
+    "longitude": 125.75541,
+    "state": null,
+    "wikidata": "Q118958247"
+  },
+  {
+    "name": "Ryomyong Tower 55 floors 210 m (690 ft)",
+    "year": "2017",
+    "height": 210.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryomyong%20Street%2C%20buildings%20-%2003.jpg",
+    "latitude": 39.06074,
+    "longitude": 125.75826,
+    "state": null,
+    "wikidata": "Q30752674"
+  },
+  {
+    "name": "Ryomyong Tower 82 floors 270 m (890 ft)",
+    "year": "2017",
+    "height": 270.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryomyong%20Street%2082-Storey%20Building.jpg",
+    "latitude": 39.06103,
+    "longitude": 125.75885,
+    "state": null,
+    "wikidata": "Q30752681"
+  },
+  {
+    "name": "Pyongyang Maternity Hospital",
+    "year": "1980",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Korea-Pyongyang%20Maternity%20Hospital-01.jpg",
+    "latitude": 39.024444444,
+    "longitude": 125.780555555,
+    "state": null,
+    "wikidata": "Q3851485"
+  },
+  {
+    "name": "Ryonghung-Dong Apartment",
+    "year": "2011",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryonghung-Dong%20Apartment%20in%202017%20on%20Ryomyong%20Street.jpg",
+    "latitude": 39.06038,
+    "longitude": 125.75558,
+    "state": null,
+    "wikidata": "Q31176701"
+  },
+  {
+    "name": "Pukmang Tower",
+    "year": "1984",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pukmang%20Tower%201%20-%20Wonsan.jpg",
+    "latitude": 39.15966,
+    "longitude": 127.43082,
+    "state": null,
+    "wikidata": "Q31176762"
+  },
+  {
+    "name": "Sosong Apartment",
+    "year": "2013",
+    "height": 101.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sosong%20Apartment%20view%20from%20Yanggakdo%20Hotel.jpg",
+    "latitude": 39.02722,
+    "longitude": 125.73342,
+    "state": null,
+    "wikidata": "Q31176768"
+  },
+  {
+    "name": "Chongryu Tower 1",
+    "year": "2017",
+    "height": 150.0,
+    "image": null,
+    "latitude": 39.05915,
+    "longitude": 125.76049,
+    "state": null,
+    "wikidata": "Q31177372"
+  },
+  {
+    "name": "Yeongheung Tower",
+    "year": null,
+    "height": 105.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q31177458"
+  },
+  {
+    "name": "Ryongnam Tower",
+    "year": "2017",
+    "height": 110.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q31177459"
+  },
+  {
+    "name": "Nampo Tower",
+    "year": "1985",
+    "height": 101.3,
+    "image": null,
+    "latitude": 38.73709,
+    "longitude": 125.36729,
+    "state": null,
+    "wikidata": "Q31177460"
+  },
+  {
+    "name": "Chonsung Tower",
+    "year": "2017",
+    "height": 105.0,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q31177461"
+  },
+  {
+    "name": "Palgol-dong Apartment 1",
+    "year": "1989",
+    "height": 124.0,
+    "image": null,
+    "latitude": 39.03485,
+    "longitude": 125.67653,
+    "state": null,
+    "wikidata": "Q31177935"
+  },
+  {
+    "name": "Gold-Clad Tower",
+    "year": "2015",
+    "height": 100.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryugyong%20Market%20in%20Pyongyang%20-%2001.jpg",
+    "latitude": 38.98279,
+    "longitude": 125.73325,
+    "state": null,
+    "wikidata": "Q55727481"
+  },
+  {
+    "name": "Ryusong Residential 1",
+    "year": "2017",
+    "height": 115.0,
+    "image": null,
+    "latitude": 39.00072,
+    "longitude": 125.74031,
+    "state": null,
+    "wikidata": "Q55729462"
+  },
+  {
+    "name": "Oesong Residences Tower 1",
+    "year": "2016",
+    "height": 116.0,
+    "image": null,
+    "latitude": 39.01109,
+    "longitude": 125.74988,
+    "state": null,
+    "wikidata": "Q55732204"
+  }
+]

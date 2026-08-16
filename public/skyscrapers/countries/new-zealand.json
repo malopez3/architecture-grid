@@ -1,0 +1,202 @@
+[
+  {
+    "name": "ANZ Centre",
+    "year": "1991",
+    "height": 151.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ANZ%20Centre%2C%20Auckland%20237%20%28cropped%29.JPG",
+    "latitude": -36.845684,
+    "longitude": 174.764419,
+    "state": null,
+    "wikidata": "Q4653107"
+  },
+  {
+    "name": "80 Queen Street",
+    "year": "2009",
+    "height": 100.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Street%20View%2010%20%285642795114%29%20%28cropped%29.jpg",
+    "latitude": -36.84617,
+    "longitude": 174.76661,
+    "state": null,
+    "wikidata": "Q5254307"
+  },
+  {
+    "name": "Elliot Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q5365571"
+  },
+  {
+    "name": "State Insurance Building",
+    "year": "1984",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BNZ%20Tower.jpg",
+    "latitude": -41.2867,
+    "longitude": 174.776,
+    "state": null,
+    "wikidata": "Q7603387"
+  },
+  {
+    "name": "The Pacifica",
+    "year": "2020",
+    "height": 178.7,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Pacifica%2C%20Auckland%20%28cropped%29.jpg",
+    "latitude": -36.84566,
+    "longitude": 174.76795,
+    "state": null,
+    "wikidata": "Q95158872"
+  },
+  {
+    "name": "The CAB",
+    "year": "1966",
+    "height": 71.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20City%20Council%20Main%20Building.jpg",
+    "latitude": -36.85289,
+    "longitude": 174.76197,
+    "state": null,
+    "wikidata": "Q103265891"
+  },
+  {
+    "name": "Majestic Centre",
+    "year": "1991",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Majestic%20Centre%20Wellington%20Bond%20Street.jpg",
+    "latitude": -41.2884,
+    "longitude": 174.774,
+    "state": null,
+    "wikidata": "Q10323215"
+  },
+  {
+    "name": "FAI Building",
+    "year": "1962",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fai%20Building%20in%20Auckland%20%28cropped%29.jpg",
+    "latitude": -36.84936,
+    "longitude": 174.7656,
+    "state": null,
+    "wikidata": "Q111353683"
+  },
+  {
+    "name": "SAP Tower",
+    "year": "1988",
+    "height": 104.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Buildings%205%20%2832045589026%29%20%28cropped%29.jpg",
+    "latitude": -36.84701,
+    "longitude": 174.7655,
+    "state": null,
+    "wikidata": "Q111362834"
+  },
+  {
+    "name": "QBE Centre",
+    "year": "1986",
+    "height": 106.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Auckland%20from%20Sky%20Tower%20%28cropped%29.jpg",
+    "latitude": -36.84647,
+    "longitude": 174.76566,
+    "state": null,
+    "wikidata": "Q111362850"
+  },
+  {
+    "name": "1 Queen Street",
+    "year": "2002",
+    "height": 138.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1-NZ-Auckland%2C-HSBC%20%28cropped%29.jpg",
+    "latitude": -36.84346,
+    "longitude": 174.76661,
+    "state": null,
+    "wikidata": "Q111362942"
+  },
+  {
+    "name": "National Bank Tower",
+    "year": "1987",
+    "height": 104.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Phillips%20fox%20tower%20auckland.jpg",
+    "latitude": -36.84927,
+    "longitude": 174.76471,
+    "state": null,
+    "wikidata": "Q111366021"
+  },
+  {
+    "name": "Aon Centre",
+    "year": "1980",
+    "height": 92.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AMP%20Tower%20Auckland.jpg",
+    "latitude": -36.84402,
+    "longitude": 174.76513,
+    "state": null,
+    "wikidata": "Q111366469"
+  },
+  {
+    "name": "290 Queen Street",
+    "year": null,
+    "height": 60.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TSB%20Bank%20ATM%20Auckland.jpg",
+    "latitude": -36.85075,
+    "longitude": 174.7648,
+    "state": null,
+    "wikidata": "Q111367407"
+  },
+  {
+    "name": "Voco Hotel & Holiday Inn",
+    "year": "2021",
+    "height": 135.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Holiday%20Inn%20Express%20Voco%20Auckland%20from%20Wyndham%20Street%2001%20May%202022.jpg",
+    "latitude": -36.84685,
+    "longitude": 174.76471,
+    "state": null,
+    "wikidata": "Q111367428"
+  },
+  {
+    "name": "Quay West",
+    "year": "1997",
+    "height": 120.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Quay%20West%2C%20Auckland.jpeg",
+    "latitude": -36.84496,
+    "longitude": 174.76542,
+    "state": null,
+    "wikidata": "Q111383047"
+  },
+  {
+    "name": "Crombie Lockwood Tower",
+    "year": "1986",
+    "height": 92.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Crombie%20Lockwood%20Tower%2079.jpg",
+    "latitude": -36.84859,
+    "longitude": 174.7652,
+    "state": null,
+    "wikidata": "Q111397980"
+  },
+  {
+    "name": "Jarden House",
+    "year": null,
+    "height": 71.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zurich%20building%20near%20Auckland%20Ferry%20Terminal.jpg",
+    "latitude": -36.84425,
+    "longitude": 174.76655,
+    "state": null,
+    "wikidata": "Q111398075"
+  },
+  {
+    "name": "HSBC Tower Auckland",
+    "year": "2002",
+    "height": 138.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pwc%20covers%20the%20waterfront%20%28cropped%29.jpg",
+    "latitude": -36.84332,
+    "longitude": 174.7654,
+    "state": null,
+    "wikidata": "Q28054341"
+  },
+  {
+    "name": "Fujitsu Tower",
+    "year": "1985",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujitsu%20Tower%20%28cropped%29.jpg",
+    "latitude": -41.284,
+    "longitude": 174.7745,
+    "state": null,
+    "wikidata": "Q122851842"
+  }
+]

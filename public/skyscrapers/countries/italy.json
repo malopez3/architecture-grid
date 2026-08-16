@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Palazzo Lombardia",
+    "year": "2011",
+    "height": 161.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Lombardia%20%2817165328959%29.jpg",
+    "latitude": 45.4866,
+    "longitude": 9.1961,
+    "state": null,
+    "wikidata": "Q616863"
+  },
+  {
+    "name": "Pirelli Tower",
+    "year": "1960",
+    "height": 110.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mi-Milano-1959-Grattacielo-Pirelli.jpg",
+    "latitude": 45.484801,
+    "longitude": 9.201167,
+    "state": null,
+    "wikidata": "Q920809"
+  },
+  {
+    "name": "UniCredit Tower",
+    "year": "2014",
+    "height": 152.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20skyline%20with%20Unicredit%20Tower%20and%20Bosco%20Verticale.jpg",
+    "latitude": 45.483844444,
+    "longitude": 9.189877777,
+    "state": null,
+    "wikidata": "Q963111"
+  },
+  {
+    "name": "Torre Velasca",
+    "year": "1961",
+    "height": 106.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Velasca%2001.jpg",
+    "latitude": 45.459938,
+    "longitude": 9.190665,
+    "state": null,
+    "wikidata": "Q1156274"
+  },
+  {
+    "name": "Corviale",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CORVIALE10a.jpg",
+    "latitude": 41.850555555,
+    "longitude": 12.411666666,
+    "state": null,
+    "wikidata": "Q678110"
+  },
+  {
+    "name": "Matitone",
+    "year": "1992",
+    "height": 109.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porto%20di%20Genova%2C%20Matitone%2C%20vista.jpg",
+    "latitude": 44.411372,
+    "longitude": 8.90663,
+    "state": null,
+    "wikidata": "Q2219285"
+  },
+  {
+    "name": "Turati Tower",
+    "year": "1968",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milano%20torre%20Turati.JPG",
+    "latitude": 45.477,
+    "longitude": 9.19622,
+    "state": null,
+    "wikidata": "Q17638799"
+  },
+  {
+    "name": "Centro Diaz",
+    "year": "1957",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MI-Milano-1964-piazza-Diaz-terrazza-Martini-notturno.jpg",
+    "latitude": 45.461952,
+    "longitude": 9.189742,
+    "state": null,
+    "wikidata": "Q88114766"
+  },
+  {
+    "name": "Grattacielo Marinella",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gratticielo%20Marinella%20-%20vista%20frontale.jpg",
+    "latitude": 44.275819,
+    "longitude": 12.347088,
+    "state": null,
+    "wikidata": "Q98545390"
+  },
+  {
+    "name": "Q16593926",
+    "year": "2008",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20skyline%20with%20Unicredit%20Tower%20and%20Bosco%20Verticale.jpg",
+    "latitude": 45.50515889,
+    "longitude": 9.25291833,
+    "state": null,
+    "wikidata": "Q16593926"
+  },
+  {
+    "name": "Piacentini Tower",
+    "year": "1940",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Centro%20dei%20Liguri%20Genova.jpg",
+    "latitude": 44.4056,
+    "longitude": 8.93583,
+    "state": null,
+    "wikidata": "Q2571475"
+  },
+  {
+    "name": "Turati Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 45.477294,
+    "longitude": 9.195475,
+    "state": null,
+    "wikidata": "Q101403951"
+  },
+  {
+    "name": "Torre Azzurra",
+    "year": "1962",
+    "height": 73.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Azzurra%20Follonica.jpg",
+    "latitude": 42.920619359,
+    "longitude": 10.757946031,
+    "state": null,
+    "wikidata": "Q107137313"
+  },
+  {
+    "name": "A2A Tower",
+    "year": "2026",
+    "height": 144.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Faro%20Milano.jpg",
+    "latitude": 45.446539314,
+    "longitude": 9.202387266,
+    "state": null,
+    "wikidata": "Q107552561"
+  },
+  {
+    "name": "Hybrid Tower Mestre",
+    "year": "2016",
+    "height": 81.38,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hybrid%20Tower%20Mestre%2002.jpg",
+    "latitude": 45.4814657,
+    "longitude": 12.2412904,
+    "state": null,
+    "wikidata": "Q28737666"
+  },
+  {
+    "name": "Grattacielo Europa",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 45.412091273,
+    "longitude": 11.877023791,
+    "state": null,
+    "wikidata": "Q114002287"
+  },
+  {
+    "name": "grattacielo L'Edera",
+    "year": "1968",
+    "height": 90.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grattacielo%20-%20panoramio.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q115045376"
+  },
+  {
+    "name": "I Portali",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/I%20Portali%20Milano%20in%20costruzione%20marzo%202025.jpg",
+    "latitude": 45.484669981,
+    "longitude": 9.196176308,
+    "state": null,
+    "wikidata": "Q116386446"
+  },
+  {
+    "name": "Torrione INA",
+    "year": "1932",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20in%20Piazza%20della%20Vittoria%20Brescia.jpg",
+    "latitude": 45.53852,
+    "longitude": 10.21887,
+    "state": null,
+    "wikidata": "Q16616997"
+  },
+  {
+    "name": "CityWave",
+    "year": null,
+    "height": 100.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CityWave%20%28IMG%2020260429%20134450%29.jpg",
+    "latitude": 45.479440367,
+    "longitude": 9.15789537,
+    "state": null,
+    "wikidata": "Q122840099"
+  },
+  {
+    "name": "Centro Svizzero Milano",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milano%20-%20Centro%20Svizzero.JPG",
+    "latitude": 45.472523,
+    "longitude": 9.196683,
+    "state": null,
+    "wikidata": "Q3664769"
+  },
+  {
+    "name": "Intesa Sanpaolo Building",
+    "year": "2015",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grattacielo%20Intesa%20San%20Paolo%20-%20panoramio%20%283%29.jpg",
+    "latitude": 45.069507,
+    "longitude": 7.662801,
+    "state": null,
+    "wikidata": "Q3775871"
+  },
+  {
+    "name": "Grattacielo Ina Assitalia",
+    "year": "1955",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grattacielo%20Ina%20Assitalia%5E1%20-%20Flickr%20-%20Rino%20Porrovecchio.jpg",
+    "latitude": 38.121378,
+    "longitude": 13.354939,
+    "state": null,
+    "wikidata": "Q3775872"
+  },
+  {
+    "name": "Piedmont Region Headquarters",
+    "year": "2022",
+    "height": 209.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torino%2C%20grattacielo%20della%20Regione%20Piemonte%20%2803%29.jpg",
+    "latitude": 45.025,
+    "longitude": 7.66167,
+    "state": null,
+    "wikidata": "Q3775875"
+  },
+  {
+    "name": "Torre Aquileia",
+    "year": "2009",
+    "height": 73.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Aquileia%20%2817521%29.jpg",
+    "latitude": 45.4984,
+    "longitude": 12.6188,
+    "state": null,
+    "wikidata": "Q3995129"
+  },
+  {
+    "name": "Breda Tower",
+    "year": "1954",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MI-Milano-1959-piazza-della-Repubblica-grattacielo.jpg",
+    "latitude": 45.48036,
+    "longitude": 9.19947,
+    "state": null,
+    "wikidata": "Q3995141"
+  },
+  {
+    "name": "Torre Diamante",
+    "year": "2012",
+    "height": 140.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Diamante%20Milano.jpg",
+    "latitude": 45.48105444,
+    "longitude": 9.19624861,
+    "state": null,
+    "wikidata": "Q3995174"
+  },
+  {
+    "name": "Torre Europarco",
+    "year": "2012",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2012-07-19%20Roma%20Torre%20Europarco.jpg",
+    "latitude": 41.8172,
+    "longitude": 12.4561,
+    "state": null,
+    "wikidata": "Q3995181"
+  },
+  {
+    "name": "Torre Eurosky",
+    "year": "2013",
+    "height": 155.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rom%202015%20by-RaBoe%20009.jpg",
+    "latitude": 41.8196,
+    "longitude": 12.4576,
+    "state": null,
+    "wikidata": "Q3995184"
+  },
+  {
+    "name": "Galfa Tower",
+    "year": "1959",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milano%20-%20torre%20Galfa.jpg",
+    "latitude": 45.486418,
+    "longitude": 9.198783,
+    "state": null,
+    "wikidata": "Q3995192"
+  },
+  {
+    "name": "Generali Tower",
+    "year": "2017",
+    "height": 177.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Hadid.png",
+    "latitude": 45.47832,
+    "longitude": 9.15521,
+    "state": null,
+    "wikidata": "Q3995195"
+  },
+  {
+    "name": "Allianz Tower",
+    "year": "2015",
+    "height": 207.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Isozaki%20Milano.jpg",
+    "latitude": 45.477608333,
+    "longitude": 9.157288888,
+    "state": null,
+    "wikidata": "Q3995200"
+  },
+  {
+    "name": "Libeskind Tower",
+    "year": "2020",
+    "height": 175.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Libeskind%20-%20ottobre%202019.jpg",
+    "latitude": 45.47882,
+    "longitude": 9.15687,
+    "state": null,
+    "wikidata": "Q3995204"
+  },
+  {
+    "name": "Net Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Net%20Tower.jpg",
+    "latitude": 45.4158,
+    "longitude": 11.9193,
+    "state": null,
+    "wikidata": "Q3995233"
+  },
+  {
+    "name": "Torre Pontina",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Pontina%20a%20Latina.jpg",
+    "latitude": 41.466218,
+    "longitude": 12.893389,
+    "state": null,
+    "wikidata": "Q3995246"
+  },
+  {
+    "name": "Torre Servizi Tecnici Comunali",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milano%2C%20Centro%20Direzionale%2001.jpg",
+    "latitude": 45.484011,
+    "longitude": 9.194701,
+    "state": null,
+    "wikidata": "Q3995281"
+  },
+  {
+    "name": "Skyline Tower",
+    "year": "2011",
+    "height": 80.0,
+    "image": null,
+    "latitude": 39.31762,
+    "longitude": 16.24536,
+    "state": null,
+    "wikidata": "Q3995282"
+  },
+  {
+    "name": "New Olivetti Office Building",
+    "year": "1988",
+    "height": 80.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Palazzo_degli_uffici_di_Ivrea.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "latitude": 39.31762,
+    "longitude": 16.24536,
+    "state": null,
+    "wikidata": "NA859022026"
+  },
+  {
+    "name": "Torre Snia Viscosa",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milano%2C%20Torre%20Snia%20Viscosa%2001%20%28mono%20crop%29.jpg",
+    "latitude": 45.46699528,
+    "longitude": 9.19715389,
+    "state": null,
+    "wikidata": "Q3995283"
+  },
+  {
+    "name": "Torre Solaria",
+    "year": "2014",
+    "height": null,
+    "image": null,
+    "latitude": 45.48219028,
+    "longitude": 9.19380222,
+    "state": null,
+    "wikidata": "Q3995285"
+  },
+  {
+    "name": "Telecom Italia Tower",
+    "year": "1994",
+    "height": 129.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Telecom%20Napoli.jpg",
+    "latitude": 40.8582,
+    "longitude": 14.2797,
+    "state": null,
+    "wikidata": "Q3995301"
+  },
+  {
+    "name": "Torre di Porta Romana",
+    "year": "1959",
+    "height": 90.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20di%20Porta%20Romana%20Milano%201.jpg",
+    "latitude": 45.451485,
+    "longitude": 9.20085,
+    "state": null,
+    "wikidata": "Q3995592"
+  },
+  {
+    "name": "Torre Unipol",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T%20Unipol%20SAI%20giugno%2022%20T000124.jpg",
+    "latitude": 45.482645,
+    "longitude": 9.191855,
+    "state": null,
+    "wikidata": "Q30881055"
+  },
+  {
+    "name": "Hotel Scacciapensieri",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Scacciapensieri%2C%20hotel%20in%20Nettuno%2C%20Italy%202012-04-14.jpg",
+    "latitude": 41.45666219,
+    "longitude": 12.673825076,
+    "state": null,
+    "wikidata": "Q124413102"
+  },
+  {
+    "name": "Torre NC71",
+    "year": "1993",
+    "height": null,
+    "image": null,
+    "latitude": 45.454532571,
+    "longitude": 10.966200924,
+    "state": null,
+    "wikidata": "Q124424478"
+  },
+  {
+    "name": "Torri Giume",
+    "year": "1958",
+    "height": 42.0,
+    "image": null,
+    "latitude": 45.545735873,
+    "longitude": 9.227765596,
+    "state": null,
+    "wikidata": "Q131905286"
+  },
+  {
+    "name": "Torri di Fuksas",
+    "year": "2005",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q134530478"
+  },
+  {
+    "name": "Q134620277",
+    "year": null,
+    "height": 54.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Matitino%20-%20panoramio.jpg",
+    "latitude": 44.301432,
+    "longitude": 8.474193,
+    "state": null,
+    "wikidata": "Q134620277"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nest One",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 41.3121,
+    "longitude": 69.2519,
+    "state": null,
+    "wikidata": "Q97658661"
+  },
+  {
+    "name": "Q125378416",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NBU11111.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q125378416"
+  }
+]

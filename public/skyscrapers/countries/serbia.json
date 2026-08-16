@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ušće Tower",
+    "year": "1964",
+    "height": 115.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/U%C5%A1%C4%87e.JPG",
+    "latitude": 44.816111111,
+    "longitude": 20.436944444,
+    "state": null,
+    "wikidata": "Q1262622"
+  },
+  {
+    "name": "West 65",
+    "year": "2021",
+    "height": 155.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tower%20West%2065%20in%20Belgrade.jpg",
+    "latitude": 44.812472222,
+    "longitude": 20.401527777,
+    "state": null,
+    "wikidata": "Q16879578"
+  },
+  {
+    "name": "Beograđanka",
+    "year": "1974",
+    "height": 101.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beogradjanka%2C%20Belgrade%2C%20Serbia.jpg",
+    "latitude": 44.807360173,
+    "longitude": 20.463382697,
+    "state": null,
+    "wikidata": "Q818589"
+  },
+  {
+    "name": "Belgrade Tower",
+    "year": "2022",
+    "height": 168.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgrade%20Waterfront%202.jpg",
+    "latitude": 44.805621765,
+    "longitude": 20.446790704,
+    "state": null,
+    "wikidata": "Q28224747"
+  }
+]

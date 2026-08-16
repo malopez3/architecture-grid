@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Transport Tower",
+    "year": "2003",
+    "height": 155.15,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Transport%20Tower%2C%20Astana.jpg",
+    "latitude": 51.131356,
+    "longitude": 71.416518,
+    "state": null,
+    "wikidata": "Q1516792"
+  },
+  {
+    "name": "Hotel Kazakhstan",
+    "year": "1977",
+    "height": 129.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Habitaci%C3%B3n%20en%20el%20Hotel%20Kjazajst%C3%A1n.jpg",
+    "latitude": 43.245,
+    "longitude": 76.9575,
+    "state": null,
+    "wikidata": "Q707379"
+  },
+  {
+    "name": "Grand Alatau 3",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q15707453"
+  },
+  {
+    "name": "Nurly Tau Tower 1",
+    "year": null,
+    "height": 108.69,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q105958544"
+  },
+  {
+    "name": "Abu Dhabi Plaza Residential Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q24036614"
+  }
+]

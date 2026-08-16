@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Parsian Azadi Hotel",
+    "year": "1978",
+    "height": 90.02,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D9%86%D8%B7%D9%82%D9%87%20%D8%A7%D9%88%DB%8C%D9%86%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86.jpg",
+    "latitude": 35.789916666,
+    "longitude": 51.389916666,
+    "state": null,
+    "wikidata": "Q7139977"
+  },
+  {
+    "name": "Bank Markazi Tower (Davudiyeh)",
+    "year": "1999",
+    "height": 71.62,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bank%20Markazi%20Tower%200208.jpg",
+    "latitude": 35.758055555,
+    "longitude": 51.435,
+    "state": null,
+    "wikidata": "Q4855941"
+  },
+  {
+    "name": "Tehran International Tower",
+    "year": "2007",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A8%D8%B1%D8%AC%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86%201%20-%20panoramio.jpg",
+    "latitude": 35.742611111,
+    "longitude": 51.398944444,
+    "state": null,
+    "wikidata": "Q2037099"
+  },
+  {
+    "name": "Shahran Tower",
+    "year": "2013",
+    "height": null,
+    "image": null,
+    "latitude": 38.037121,
+    "longitude": 46.361146,
+    "state": null,
+    "wikidata": "Q18922871"
+  },
+  {
+    "name": "Sepehr Tower",
+    "year": "1990",
+    "height": 120.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sepehr%20Tower%202019%201.jpg",
+    "latitude": 35.706166666,
+    "longitude": 51.427305555,
+    "state": null,
+    "wikidata": "Q7451857"
+  },
+  {
+    "name": "Fars Tower",
+    "year": "2020",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fars%20hotel%20tower%20and%20persian%20gulf%20complex.jpg",
+    "latitude": 29.757777777,
+    "longitude": 52.44,
+    "state": null,
+    "wikidata": "Q105077323"
+  },
+  {
+    "name": "Alton Tower (Mashhad)",
+    "year": "2009",
+    "height": 75.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AltonTower-14.jpg",
+    "latitude": 36.294166666,
+    "longitude": 59.593888888,
+    "state": null,
+    "wikidata": "Q105575992"
+  },
+  {
+    "name": "Plasco Building",
+    "year": "1962",
+    "height": 42.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/0%20Plasco%20Building%20in%20March%202021%2001.jpg",
+    "latitude": 35.694722222,
+    "longitude": 51.420833333,
+    "state": null,
+    "wikidata": "Q5711011"
+  },
+  {
+    "name": "Parsian Esteghlal International Hotel",
+    "year": "1962",
+    "height": 57.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Hilton%20Hotel%2C%20Tehran%20%281970s%29.jpg",
+    "latitude": 35.790361111,
+    "longitude": 51.413194444,
+    "state": null,
+    "wikidata": "Q5735208"
+  },
+  {
+    "name": "Vanak Park Residential Complex",
+    "year": "2001",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vanak%20Park.jpg",
+    "latitude": 35.750166666,
+    "longitude": 51.39825,
+    "state": null,
+    "wikidata": "Q5859975"
+  },
+  {
+    "name": "El-Goli Pars Hotel",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ShahGoli-Tabriz.JPG",
+    "latitude": 38.020589,
+    "longitude": 46.368077,
+    "state": null,
+    "wikidata": "Q5910765"
+  },
+  {
+    "name": "Saman Twin Towers",
+    "year": "1970",
+    "height": 72.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saman%20Twin%20Towers%20and%20Keshavarzi%20Tower%20from%20Laleh%20International%20Hotel.jpg",
+    "latitude": 35.709944444,
+    "longitude": 51.398666666,
+    "state": null,
+    "wikidata": "Q20109768"
+  },
+  {
+    "name": "Third Millennium Tower",
+    "year": null,
+    "height": 120.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tehran%2025.11.2009%2011-52-06.jpg",
+    "latitude": 35.748111111,
+    "longitude": 51.3975,
+    "state": null,
+    "wikidata": "Q20111281"
+  },
+  {
+    "name": "Fereshteh Pasargad Hotel",
+    "year": "2024",
+    "height": 188.0,
+    "image": null,
+    "latitude": 35.784111111,
+    "longitude": 51.429888888,
+    "state": null,
+    "wikidata": "Q20987795"
+  },
+  {
+    "name": "Chamran Grand Hotel",
+    "year": "2011",
+    "height": 109.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chamran%20from%20tasnim.jpg",
+    "latitude": 29.651388888,
+    "longitude": 52.496111111,
+    "state": null,
+    "wikidata": "Q2671422"
+  },
+  {
+    "name": "Zist-e Khavar",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 36.29,
+    "longitude": 59.5844,
+    "state": null,
+    "wikidata": "Q8072816"
+  },
+  {
+    "name": "A.S.P. Towers",
+    "year": "1976",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A.S.P%20Tehran%201969.jpg",
+    "latitude": 35.744444444,
+    "longitude": 51.399444444,
+    "state": null,
+    "wikidata": "Q10857889"
+  },
+  {
+    "name": "Negar Tower (Tehran)",
+    "year": "2002",
+    "height": 114.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Negar%20Tower%20Perspective%20from%20below%20-%20panoramio.jpg",
+    "latitude": 35.760138888,
+    "longitude": 51.409861111,
+    "state": null,
+    "wikidata": "Q25425156"
+  },
+  {
+    "name": "Ghoghnoos Tower",
+    "year": null,
+    "height": 110.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AC%D8%AA%D9%85%D8%B9%20%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C%20%D9%82%D9%82%D9%86%D9%88%D8%B3%20%D8%B3%D9%85%D9%86%D8%A7%D9%86%20-%20panoramio.jpg",
+    "latitude": 35.581666666,
+    "longitude": 53.371944444,
+    "state": null,
+    "wikidata": "Q27988500"
+  },
+  {
+    "name": "Bank Markazi Tower (Abbas Abad)",
+    "year": "2021",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20Iran%27s%20Treasury%20of%20National%20Jewels%200153.jpg",
+    "latitude": 35.756583333,
+    "longitude": 51.429305555,
+    "state": null,
+    "wikidata": "Q117070507"
+  },
+  {
+    "name": "Eskan Towers (Tehran)",
+    "year": "1978",
+    "height": 90.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eskan%201974%203.jpg",
+    "latitude": 35.763555555,
+    "longitude": 51.41125,
+    "state": null,
+    "wikidata": "Q5704885"
+  },
+  {
+    "name": "Q30753026",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30753026"
+  },
+  {
+    "name": "Mahestan A1 Tower",
+    "year": "1994",
+    "height": 81.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bank%20Sina%20and%20Mahestan%20Towers%20-%20panoramio.jpg",
+    "latitude": 35.761694444,
+    "longitude": 51.3805,
+    "state": null,
+    "wikidata": "Q124327230"
+  },
+  {
+    "name": "Mahestan A2 Tower",
+    "year": "1999",
+    "height": 92.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahestan%20Towers%20-%20panoramio%20%281%29.jpg",
+    "latitude": 35.761611111,
+    "longitude": 51.381388888,
+    "state": null,
+    "wikidata": "Q124327254"
+  },
+  {
+    "name": "Mahestan A3 Tower",
+    "year": "2002",
+    "height": 92.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahestan%20Towers%20-%20panoramio%20%281%29.jpg",
+    "latitude": 35.762,
+    "longitude": 51.381138888,
+    "state": null,
+    "wikidata": "Q124327255"
+  },
+  {
+    "name": "Mahestan B3 Tower",
+    "year": "2007",
+    "height": 122.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/High-rises%20in%20Shahrak%20Gharb.jpg",
+    "latitude": 35.759555555,
+    "longitude": 51.381027777,
+    "state": null,
+    "wikidata": "Q124327714"
+  },
+  {
+    "name": "Mahestan B1 Tower",
+    "year": "1994",
+    "height": 81.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1397020812401144013977764%20%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF.jpg",
+    "latitude": 35.761055555,
+    "longitude": 51.3815,
+    "state": null,
+    "wikidata": "Q124327886"
+  },
+  {
+    "name": "Mahestan B2 Tower",
+    "year": "2000",
+    "height": 92.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/High-rises%20in%20Shahrak%20Gharb.jpg",
+    "latitude": 35.759138888,
+    "longitude": 51.381111111,
+    "state": null,
+    "wikidata": "Q124327887"
+  },
+  {
+    "name": "Iran Zamin Residential Complex (Shahrak-e Gharb)",
+    "year": "2007",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iran%20Zamin%20Residential%20-%20panoramio%20%282%29.jpg",
+    "latitude": 35.767916666,
+    "longitude": 51.380583333,
+    "state": null,
+    "wikidata": "Q124333354"
+  },
+  {
+    "name": "Elahiyeh Twin Towers",
+    "year": "2013",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iran%2020130323-IMG%202415%20%289177904514%29.jpg",
+    "latitude": 35.784111111,
+    "longitude": 51.428027777,
+    "state": null,
+    "wikidata": "Q124144728"
+  }
+]

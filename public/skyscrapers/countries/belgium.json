@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Zaveltoren",
+    "year": "1968",
+    "height": 80.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20050918BruxellisationA.jpg",
+    "latitude": 50.84111,
+    "longitude": 4.3525,
+    "state": null,
+    "wikidata": "Q14525619"
+  },
+  {
+    "name": "South Tower",
+    "year": "1967",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20du%20midi.jpg",
+    "latitude": 50.83806,
+    "longitude": 4.33778,
+    "state": null,
+    "wikidata": "Q1816400"
+  },
+  {
+    "name": "Arteveldetoren",
+    "year": "2012",
+    "height": 118.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20120226%20Leie%20and%20Arteveldetoren.jpg",
+    "latitude": 51.021412784,
+    "longitude": 3.686617857,
+    "state": null,
+    "wikidata": "Q1845802"
+  },
+  {
+    "name": "Astro Tower",
+    "year": "1976",
+    "height": 107.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20180907%20Astro%20Tower.jpg",
+    "latitude": 50.851111111,
+    "longitude": 4.369722222,
+    "state": null,
+    "wikidata": "Q1965818"
+  },
+  {
+    "name": "Albertcentrum",
+    "year": "1966",
+    "height": 82.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charleroi%20-%20Centre%20Albert.jpg",
+    "latitude": 50.4082,
+    "longitude": 4.4408,
+    "state": null,
+    "wikidata": "Q2047813"
+  },
+  {
+    "name": "Antwerp Tower",
+    "year": "1974",
+    "height": 87.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antwerp%20Tower%20%282011%29.png",
+    "latitude": 51.21819,
+    "longitude": 4.41639,
+    "state": null,
+    "wikidata": "Q2317800"
+  },
+  {
+    "name": "Proximus Towers",
+    "year": "1996",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgium%20-%20Brussels%20-%20Belgacom%20Towers%20-%2001.jpg",
+    "latitude": 50.859722222,
+    "longitude": 4.358333333,
+    "state": null,
+    "wikidata": "Q2363386"
+  },
+  {
+    "name": "Rogier Tower",
+    "year": "2006",
+    "height": 137.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgium%20-%20Brussels%20-%20Rogier%20Tower%20-%2001.jpg",
+    "latitude": 50.856388888,
+    "longitude": 4.359166666,
+    "state": null,
+    "wikidata": "Q2377122"
+  },
+  {
+    "name": "Rogier International Centre",
+    "year": "1960",
+    "height": 117.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolkenkrabber%20te%20Brussel%2C%20Bestanddeelnr%20914-9434.jpg",
+    "latitude": 50.856417,
+    "longitude": 4.359286,
+    "state": null,
+    "wikidata": "Q2545996"
+  },
+  {
+    "name": "Keukentoren Elishout",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elishout%20Tower%20%281%29.jpg",
+    "latitude": 50.815452,
+    "longitude": 4.294906,
+    "state": null,
+    "wikidata": "Q104961419"
+  },
+  {
+    "name": "Q107365540",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SKY%20Tower%20September%202021.jpg",
+    "latitude": 51.227371,
+    "longitude": 2.9242301,
+    "state": null,
+    "wikidata": "Q107365540"
+  },
+  {
+    "name": "Madou Plaza Tower",
+    "year": "1965",
+    "height": 120.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Madou%20Plaza.JPG",
+    "latitude": 50.84944,
+    "longitude": 4.37,
+    "state": null,
+    "wikidata": "Q2636175"
+  },
+  {
+    "name": "North Galaxy Towers",
+    "year": "2005",
+    "height": 107.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20North%20Galaxy%20Towers%20-%2000.jpg",
+    "latitude": 50.861388888,
+    "longitude": 4.359166666,
+    "state": null,
+    "wikidata": "Q2788570"
+  },
+  {
+    "name": "Finance Tower",
+    "year": "1983",
+    "height": 145.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Tour%20des%20Finances%20-%2002.jpg",
+    "latitude": 50.852777777,
+    "longitude": 4.364444444,
+    "state": null,
+    "wikidata": "Q3533638"
+  },
+  {
+    "name": "Triomphe 172",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 50.817937,
+    "longitude": 4.403015,
+    "state": null,
+    "wikidata": "Q135919660"
+  },
+  {
+    "name": "Delta Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 50.817937,
+    "longitude": 4.403015,
+    "state": null,
+    "wikidata": "Q135919762"
+  }
+]

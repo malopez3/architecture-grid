@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Confinanzas Financial Center",
+    "year": "1994",
+    "height": 171.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Centro%20Financiero%20Confinanzas%20Chavez%20Vive%202014.jpg",
+    "latitude": 10.50527778,
+    "longitude": -66.89888889,
+    "state": null,
+    "wikidata": "Q1054303"
+  },
+  {
+    "name": "Mercantil Tower",
+    "year": "1984",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1.%20Sede%20Actual.JPG",
+    "latitude": 10.505361111,
+    "longitude": -66.899666666,
+    "state": null,
+    "wikidata": "Q6818005"
+  },
+  {
+    "name": "Torre Phelps",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Phelps%2C%20Caracas.jpg",
+    "latitude": 10.4978,
+    "longitude": -66.8853,
+    "state": null,
+    "wikidata": "Q16641566"
+  },
+  {
+    "name": "Isla Multiespacio",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20diego%20-%20panoramio.jpg",
+    "latitude": 10.208972222,
+    "longitude": -67.964805555,
+    "state": null,
+    "wikidata": "Q5921775"
+  },
+  {
+    "name": "Torre Domus",
+    "year": "1994",
+    "height": 110.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Domus-1-.jpg",
+    "latitude": 10.4956,
+    "longitude": -66.882,
+    "state": null,
+    "wikidata": "Q6150116"
+  },
+  {
+    "name": "Parque Central Torre Este",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Caracas%20Central%20Park%202.jpg",
+    "latitude": 10.49788,
+    "longitude": -66.8995,
+    "state": null,
+    "wikidata": "Q120998444"
+  },
+  {
+    "name": "Hotel Plaza Merú",
+    "year": null,
+    "height": 70.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Plaza%20Mer%C3%BA%2001.jpg",
+    "latitude": 8.2949744,
+    "longitude": -62.7372428,
+    "state": null,
+    "wikidata": "Q137204810"
+  }
+]

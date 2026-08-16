@@ -1,0 +1,712 @@
+[
+  {
+    "name": "Tuntex Sky Tower",
+    "year": "1997",
+    "height": 323.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaohsiung%2085%20Sky%20Tower%2001.jpg",
+    "latitude": 22.611666666,
+    "longitude": 120.3,
+    "state": null,
+    "wikidata": "Q337631"
+  },
+  {
+    "name": "Taipei Twins",
+    "year": null,
+    "height": 360.0,
+    "image": null,
+    "latitude": 25.0487,
+    "longitude": 121.5127,
+    "state": null,
+    "wikidata": "Q1495752"
+  },
+  {
+    "name": "Taipei 101",
+    "year": "2005",
+    "height": 2.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taipei%20101%20from%20Xiangshan%2020250731.jpg",
+    "latitude": 25.033611111,
+    "longitude": 121.564722222,
+    "state": null,
+    "wikidata": "Q83101"
+  },
+  {
+    "name": "Royal Landmark Tower",
+    "year": null,
+    "height": 158.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%B8%BD%E5%A4%AA%E6%9D%B1%E6%96%B9%E5%B8%9D%E5%9C%8B%28%E4%B8%AD%29.jpg",
+    "latitude": 24.1581638,
+    "longitude": 120.64579821,
+    "state": null,
+    "wikidata": "Q16673763"
+  },
+  {
+    "name": "Daan International Building",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%BF%A0%E6%98%8E%E5%8D%97%E8%B7%AF%E5%9C%B0%E4%B8%8B%E9%81%93.jpg",
+    "latitude": 24.123279541,
+    "longitude": 120.659912702,
+    "state": null,
+    "wikidata": "Q16690309"
+  },
+  {
+    "name": "City Center Plaza",
+    "year": null,
+    "height": 168.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B1%90%E9%82%91%E5%B8%82%E6%94%BF%E9%83%BD%E5%BF%83%E5%BB%A3%E5%A0%B4.JPG",
+    "latitude": 24.1593,
+    "longitude": 120.6397,
+    "state": null,
+    "wikidata": "Q16691073"
+  },
+  {
+    "name": "Lih-Rong An Imperial Crown Building",
+    "year": "2000",
+    "height": 148.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B0%B8%E8%B1%90%E9%8A%80%E8%A1%8C%E5%9F%BA%E9%9A%86%E5%88%86%E8%A1%8C%20%E9%BA%97%E6%A6%AE%E7%9A%87%E5%86%A0%E5%A4%A7%E6%A8%93%2020070226.jpg",
+    "latitude": 25.130833333,
+    "longitude": 121.744722222,
+    "state": null,
+    "wikidata": "Q17032785"
+  },
+  {
+    "name": "Chang-Gu World Trade Center",
+    "year": "1992",
+    "height": 222.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chang-Gu%20WTC.jpg",
+    "latitude": 22.643125,
+    "longitude": 120.31491389,
+    "state": null,
+    "wikidata": "Q697076"
+  },
+  {
+    "name": "Shin Kong Life Tower",
+    "year": "1993",
+    "height": 244.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taipei.shinkong01.altonthompson.jpg",
+    "latitude": 25.045939,
+    "longitude": 121.515336,
+    "state": null,
+    "wikidata": "Q704778"
+  },
+  {
+    "name": "HongWell i-Tower",
+    "year": null,
+    "height": 180.6,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HonHui%20i-Tower%2020240114.jpg",
+    "latitude": 25.058082,
+    "longitude": 121.459229,
+    "state": null,
+    "wikidata": "Q67934747"
+  },
+  {
+    "name": "Peace Palace",
+    "year": "2014",
+    "height": 144.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peace%20Palace%2020230304.jpg",
+    "latitude": 25.026986111,
+    "longitude": 121.5264,
+    "state": null,
+    "wikidata": "Q85877619"
+  },
+  {
+    "name": "Kee Tai Zhongxiao",
+    "year": "2019",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%9F%BA%E6%B3%B0%E5%BF%A0%E5%AD%9D%E5%8F%B3%E5%81%B4%2020191227.jpg",
+    "latitude": 25.04669,
+    "longitude": 121.51359,
+    "state": null,
+    "wikidata": "Q85877988"
+  },
+  {
+    "name": "Taichung Condominium Tower",
+    "year": null,
+    "height": 163.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%8C%E9%82%A6%E6%96%B0%E5%B8%82%E6%94%BF%28%E5%B7%A6%29%E8%81%AF%E8%81%9A%E4%BF%9D%E5%92%8C%E5%A4%A7%E6%A8%93%28%E5%8F%B3%29.jpg",
+    "latitude": 24.155,
+    "longitude": 120.645555555,
+    "state": null,
+    "wikidata": "Q85878966"
+  },
+  {
+    "name": "Continental Engineering Corporation Tower",
+    "year": null,
+    "height": 140.0,
+    "image": null,
+    "latitude": 25.031991898,
+    "longitude": 121.550078978,
+    "state": null,
+    "wikidata": "Q85880307"
+  },
+  {
+    "name": "Sunland 41",
+    "year": "2020",
+    "height": 160.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A3%AE%E8%81%AF%E6%91%A9%E5%A4%A941.jpg",
+    "latitude": 25.0675,
+    "longitude": 121.360833333,
+    "state": null,
+    "wikidata": "Q85881509"
+  },
+  {
+    "name": "55 Timeless",
+    "year": null,
+    "height": 127.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/55%20Timeless%20%E7%90%A2%E7%99%BD.jpg",
+    "latitude": 25.033361111,
+    "longitude": 121.596247222,
+    "state": null,
+    "wikidata": "Q85882694"
+  },
+  {
+    "name": "Oman TiT",
+    "year": null,
+    "height": 130.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taipei%20Taiwan%20TiT%20Tower%20Square-01.jpg",
+    "latitude": 25.044444444,
+    "longitude": 121.506666666,
+    "state": null,
+    "wikidata": "Q85885033"
+  },
+  {
+    "name": "La Bella Vita",
+    "year": "2020",
+    "height": 128.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BA%97%E6%A0%BC.jpg",
+    "latitude": 24.161666666,
+    "longitude": 120.644444444,
+    "state": null,
+    "wikidata": "Q85885449"
+  },
+  {
+    "name": "Shangri-La's Far Eastern Plaza Hotel Tainan",
+    "year": "2008",
+    "height": 140.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shangri-La%27s%20Far%20Eastern%20Plaza%20Hotel%20Tainan%2020090906.jpg",
+    "latitude": 22.9964,
+    "longitude": 120.2137,
+    "state": null,
+    "wikidata": "Q15914584"
+  },
+  {
+    "name": "Windsor Hotel Taichung",
+    "year": "2005",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Windsor%20Hotel.JPG",
+    "latitude": 24.17980026,
+    "longitude": 120.623956054,
+    "state": null,
+    "wikidata": "Q15927616"
+  },
+  {
+    "name": "Taiwan Power Company Headquarters",
+    "year": null,
+    "height": 114.54,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taipower%20Headquarters%2020221127.jpg",
+    "latitude": 25.01722222,
+    "longitude": 121.53055556,
+    "state": null,
+    "wikidata": "Q15933302"
+  },
+  {
+    "name": "Le Meridien Taichung",
+    "year": "2022",
+    "height": 178.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sunset%20at%20Le%20Meridien%20Taichung%20May%202020.jpg",
+    "latitude": 24.13666667,
+    "longitude": 120.68305556,
+    "state": null,
+    "wikidata": "Q5579712"
+  },
+  {
+    "name": "Taipei City Hall Bus Station",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taipei%20city%20hall%20bus%20station%20north%20side.jpg",
+    "latitude": 25.0404999,
+    "longitude": 121.5648166,
+    "state": null,
+    "wikidata": "Q7676283"
+  },
+  {
+    "name": "Taichung Time Square CBD",
+    "year": null,
+    "height": 149.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%88%88%E5%AF%8C%E7%99%BCCBD%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4.jpg",
+    "latitude": 24.16218,
+    "longitude": 120.63564,
+    "state": null,
+    "wikidata": "Q104830683"
+  },
+  {
+    "name": "Fubon Sky Tree",
+    "year": null,
+    "height": 155.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fubon%20Sky%20Tree%20%E5%AF%8C%E9%82%A6%E5%A4%A9%E7%A9%BA%E6%A8%B9.jpg",
+    "latitude": 24.139444444,
+    "longitude": 120.659444444,
+    "state": null,
+    "wikidata": "Q104880932"
+  },
+  {
+    "name": "Kingtown King Park",
+    "year": null,
+    "height": 154.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%27s%20Residence%20%28%E4%BA%AC%E5%9F%8E%E4%BA%AC%E5%9F%8E%29.jpg",
+    "latitude": 22.657828848,
+    "longitude": 120.300740168,
+    "state": null,
+    "wikidata": "Q104902480"
+  },
+  {
+    "name": "Caesar Park Hotel Banqiao",
+    "year": null,
+    "height": 141.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%BF%E6%A9%8B%E5%87%B1%E6%92%92%E5%A4%A7%E9%A3%AF%E5%BA%97.jpg",
+    "latitude": 25.011958333,
+    "longitude": 121.462977777,
+    "state": null,
+    "wikidata": "Q105100303"
+  },
+  {
+    "name": "Plato Palace",
+    "year": null,
+    "height": 172.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%81%AF%E8%81%9A%E7%91%9E%E5%92%8C%E5%A4%A7%E5%BB%88%20Plato%20Palace.jpg",
+    "latitude": 24.166878566,
+    "longitude": 120.638027369,
+    "state": null,
+    "wikidata": "Q105227265"
+  },
+  {
+    "name": "Savoy Palace",
+    "year": null,
+    "height": 157.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%8C%E9%82%A6%E6%96%B0%E5%B8%82%E6%94%BF%28%E5%B7%A6%29%E8%81%AF%E8%81%9A%E4%BF%9D%E5%92%8C%E5%A4%A7%E6%A8%93%28%E5%8F%B3%29.jpg",
+    "latitude": 24.155641293,
+    "longitude": 120.644344652,
+    "state": null,
+    "wikidata": "Q105320217"
+  },
+  {
+    "name": "Cosmos",
+    "year": null,
+    "height": 149.65,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%B6%E7%92%BD%E5%A4%A9%E7%9D%BF.jpg",
+    "latitude": 24.159740427,
+    "longitude": 120.644481897,
+    "state": null,
+    "wikidata": "Q105334125"
+  },
+  {
+    "name": "Ding Sheng BHW Taiwan Central Plaza",
+    "year": null,
+    "height": 158.9,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BC%8E%E7%9B%9BBHW%28%E5%B7%A6%29NTC%E5%9C%8B%E5%AE%B6%E5%95%86%E8%B2%BF%E4%B8%AD%E5%BF%83%28%E5%8F%B3%29.jpg",
+    "latitude": 24.163852732,
+    "longitude": 120.637666841,
+    "state": null,
+    "wikidata": "Q105628590"
+  },
+  {
+    "name": "Highwealth - City of Leadership",
+    "year": null,
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%88%88%E5%AF%8C%E7%99%BC%E8%8F%AF%E4%BA%BA%E5%8C%AF.jpg",
+    "latitude": 22.660011403,
+    "longitude": 120.29497861,
+    "state": null,
+    "wikidata": "Q105962646"
+  },
+  {
+    "name": "Financial Star Building",
+    "year": null,
+    "height": 123.7,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimao%20Caixing%20Plaza%202018%2012%2022.jpg",
+    "latitude": 24.95875296,
+    "longitude": 121.220380141,
+    "state": null,
+    "wikidata": "Q19851626"
+  },
+  {
+    "name": "Long-Bang Trade Plaza",
+    "year": "1993",
+    "height": 160.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BE%8D%E9%82%A6%E4%B8%96%E8%B2%BF%E5%A4%A7%E5%BB%88.jpg",
+    "latitude": 24.1521,
+    "longitude": 120.669,
+    "state": null,
+    "wikidata": "Q20723479"
+  },
+  {
+    "name": "Xin-Fu-Hwa",
+    "year": null,
+    "height": 149.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xin-Fu-Hwa%20%28%E9%A6%A8%E9%A6%A5%E8%8F%AF%29.jpg",
+    "latitude": 22.627777777,
+    "longitude": 120.300555555,
+    "state": null,
+    "wikidata": "Q2598246"
+  },
+  {
+    "name": "Taipei World Trade Centre International Trade Building",
+    "year": null,
+    "height": 142.92,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taipei%20World%20Trade%20Center%20International%20Trade%20Building%2020090617.jpg",
+    "latitude": 25.03416667,
+    "longitude": 121.56111111,
+    "state": null,
+    "wikidata": "Q10914092"
+  },
+  {
+    "name": "Tuntex Highrise Building",
+    "year": null,
+    "height": 153.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuntex%20High%20Rise%20%E6%91%A9%E5%A4%A9%E6%9D%B1%E5%B8%9D%E5%A3%AB.jpg",
+    "latitude": 24.9924706,
+    "longitude": 121.5163339,
+    "state": null,
+    "wikidata": "Q11078418"
+  },
+  {
+    "name": "Tuntex Tower",
+    "year": null,
+    "height": 143.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuntex%20Tower.jpg",
+    "latitude": 25.02888889,
+    "longitude": 121.54916667,
+    "state": null,
+    "wikidata": "Q11079345"
+  },
+  {
+    "name": "Glory Tower",
+    "year": null,
+    "height": 128.28,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%B1%E6%96%B9%E5%B8%9D%E6%99%AF%E5%A4%A7%E6%A8%93.jpg",
+    "latitude": 25.128,
+    "longitude": 121.749,
+    "state": null,
+    "wikidata": "Q11103414"
+  },
+  {
+    "name": "Asia Plaza Building",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Asia%20Plaza%20Building%2020100921.jpg",
+    "latitude": 25.046111111,
+    "longitude": 121.515833333,
+    "state": null,
+    "wikidata": "Q11104435"
+  },
+  {
+    "name": "Polaris Garden",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polaris%20Garden%20%E5%AF%B6%E5%BE%A0%E8%8A%B1%E5%9C%92%E5%BB%A3%E5%A0%B4.jpg",
+    "latitude": 25.0333166,
+    "longitude": 121.5711503,
+    "state": null,
+    "wikidata": "Q10259821"
+  },
+  {
+    "name": "Hsin Ji Building",
+    "year": "1997",
+    "height": 100.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hsin%20Ji%20Building%20front%20view%2020130817.jpg",
+    "latitude": 25.03295278,
+    "longitude": 121.55889444,
+    "state": null,
+    "wikidata": "Q10887962"
+  },
+  {
+    "name": "Cathay Landmark",
+    "year": "2015",
+    "height": 212.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cathay%20Landmark%2020230705.jpg",
+    "latitude": 25.04047222,
+    "longitude": 121.56697222,
+    "state": null,
+    "wikidata": "Q21449366"
+  },
+  {
+    "name": "Far Eastern Mega Tower",
+    "year": "2013",
+    "height": 207.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%BF%E6%A9%8B%20%E9%81%A0%E7%99%BE%E4%BA%8C%E6%9C%9F%E8%BE%A6%E5%85%AC%E5%A4%A7%E6%A8%93%20Banqiao%20FarEastern%20Headquarter%20Building%2C%20New%20Taipei%20-%20panoramio.jpg",
+    "latitude": 25.0132,
+    "longitude": 121.467,
+    "state": null,
+    "wikidata": "Q24036143"
+  },
+  {
+    "name": "Ellipse 360",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 25.164791657,
+    "longitude": 121.486952026,
+    "state": null,
+    "wikidata": "Q109975143"
+  },
+  {
+    "name": "Global Strategy Center",
+    "year": null,
+    "height": 169.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B1%90%E9%82%91%E5%B8%82%E6%94%BF%E6%A0%B8%E5%BF%83.jpg",
+    "latitude": 24.1593,
+    "longitude": 120.6397,
+    "state": null,
+    "wikidata": "Q24836571"
+  },
+  {
+    "name": "Ruentex Nangang Station Complex",
+    "year": null,
+    "height": 138.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nangang%20Station%20Building%20face%20to%20Zhongxiao%20East%20Road%2020160517.jpg",
+    "latitude": 25.05319444,
+    "longitude": 121.60705556,
+    "state": null,
+    "wikidata": "Q24836619"
+  },
+  {
+    "name": "Neo Sky Dome",
+    "year": "2010",
+    "height": 188.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%BF%E6%A9%8B%20%E6%96%B0%E5%B7%A8%E8%9B%8B.jpg",
+    "latitude": 25.02347222,
+    "longitude": 121.46880556,
+    "state": null,
+    "wikidata": "Q24836698"
+  },
+  {
+    "name": "Hua Nan Bank World Trade Building",
+    "year": null,
+    "height": 154.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hua%20Nan%20Commercial%20Bank%20Corporate%20Plaza%2020160723c.jpg",
+    "latitude": 25.0343,
+    "longitude": 121.5692,
+    "state": null,
+    "wikidata": "Q24836806"
+  },
+  {
+    "name": "Chicony Electronics Headquarters",
+    "year": "2015",
+    "height": 181.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chicony%20Electronics%20Headquarters%20Building%2020160529.jpg",
+    "latitude": 25.0565,
+    "longitude": 121.4727,
+    "state": null,
+    "wikidata": "Q24836810"
+  },
+  {
+    "name": "Walsin Lihwa Building",
+    "year": null,
+    "height": 134.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%8F%AF%E6%96%B0%E9%BA%97%E8%8F%AF%E5%A4%A7%E6%A8%93%2020160512.jpg",
+    "latitude": 25.038969444,
+    "longitude": 121.566302777,
+    "state": null,
+    "wikidata": "Q24837128"
+  },
+  {
+    "name": "Guo-Yan Building BC",
+    "year": null,
+    "height": 171.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaohsiung%20cityscape%20%2810577000125%29.jpg",
+    "latitude": 22.619348,
+    "longitude": 120.294118,
+    "state": null,
+    "wikidata": "Q24837572"
+  },
+  {
+    "name": "Taipei Nan Shan Plaza",
+    "year": null,
+    "height": 272.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taipei%20Nan%20Shan%20Plaza%2020171216a.jpg",
+    "latitude": 25.0344,
+    "longitude": 121.5669,
+    "state": null,
+    "wikidata": "Q24840610"
+  },
+  {
+    "name": "Uni-President International Tower",
+    "year": "2004",
+    "height": 154.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20International%20Tower%2020080120.jpg",
+    "latitude": 25.0396,
+    "longitude": 121.565,
+    "state": null,
+    "wikidata": "Q3402410"
+  },
+  {
+    "name": "Bao-Cheng Enterprise Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhongshan%203rd%20Road%20and%20Fusing%203rd%20Road%20intersection%2C%20Kaohsiung%20City%2020110621.jpg",
+    "latitude": 22.605,
+    "longitude": 120.30978,
+    "state": null,
+    "wikidata": "Q27887692"
+  },
+  {
+    "name": "Fuyu Oriental Crown",
+    "year": null,
+    "height": 165.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%8C%E5%AE%87%E6%9D%B1%E6%96%B9%E4%B9%8B%E5%86%A0%28%E5%8F%B3%E4%BA%8C%29.jpg",
+    "latitude": 24.15918,
+    "longitude": 120.637609,
+    "state": null,
+    "wikidata": "Q28410457"
+  },
+  {
+    "name": "The Landmark",
+    "year": "2019",
+    "height": 192.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LJ%20Landmark%20day2-572.jpg",
+    "latitude": 24.16405,
+    "longitude": 120.643847,
+    "state": null,
+    "wikidata": "Q28410912"
+  },
+  {
+    "name": "Eastern Media Group Headquarters",
+    "year": null,
+    "height": 199.0,
+    "image": null,
+    "latitude": 25.066501,
+    "longitude": 121.363918,
+    "state": null,
+    "wikidata": "Q116938790"
+  },
+  {
+    "name": "Han-Lai New World Center",
+    "year": "1995",
+    "height": 186.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Han-Lai%20New%20World%20Center.JPG",
+    "latitude": 22.6194,
+    "longitude": 120.2961,
+    "state": null,
+    "wikidata": "Q6353197"
+  },
+  {
+    "name": "Tao Zhu Yin Yuan",
+    "year": null,
+    "height": 93.2,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20180802%20%E9%99%B6%E6%9C%B1%E9%9A%B1%E5%9C%92%20Agora%20Garden%2C%20Taipei%2C%20Taiwan.jpg",
+    "latitude": 25.03854,
+    "longitude": 121.57042,
+    "state": null,
+    "wikidata": "Q30920691"
+  },
+  {
+    "name": "Taichung Commercial Bank Headquarters",
+    "year": null,
+    "height": 200.0,
+    "image": null,
+    "latitude": 24.164454,
+    "longitude": 120.636492,
+    "state": null,
+    "wikidata": "Q30943611"
+  },
+  {
+    "name": "National Trade Center",
+    "year": null,
+    "height": 165.65,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NTC%E5%9C%8B%E5%AE%B6%E5%95%86%E8%B2%BF%E4%B8%AD%E5%BF%83.jpg",
+    "latitude": 24.164454,
+    "longitude": 120.636492,
+    "state": null,
+    "wikidata": "Q38242325"
+  },
+  {
+    "name": "The Sky Taipei",
+    "year": "2020",
+    "height": 280.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walsin%20Lihwa%20Building%20and%20The%20Sky%20Taipei%2020240113.jpg",
+    "latitude": 25.0365,
+    "longitude": 121.56605556,
+    "state": null,
+    "wikidata": "Q47528623"
+  },
+  {
+    "name": "Fubon Xinyi A25",
+    "year": "2021",
+    "height": 266.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taipei%20City%20Fire%20Department%2C%20Fubon%20Xinyi%20A25%20and%20CPC%20Building%2020230705.jpg",
+    "latitude": 25.039298,
+    "longitude": 121.57013,
+    "state": null,
+    "wikidata": "Q47539081"
+  },
+  {
+    "name": "Treasure Garden",
+    "year": null,
+    "height": 160.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%B6%E6%A0%BC.jpg",
+    "latitude": 24.161944444,
+    "longitude": 120.643611111,
+    "state": null,
+    "wikidata": "Q48913575"
+  },
+  {
+    "name": "ChungYuet World Center",
+    "year": null,
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chungyuet%20World%20Center%202017.jpg",
+    "latitude": 25.014743333,
+    "longitude": 121.299753909,
+    "state": null,
+    "wikidata": "Q48916211"
+  },
+  {
+    "name": "ChungYuet Global Business Building",
+    "year": "2009",
+    "height": 117.35,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%AD%E6%82%85%E7%92%B0%E7%90%83%E4%BC%81%E6%A5%AD%E7%B8%BD%E9%83%A8.jpg",
+    "latitude": 25.014720586,
+    "longitude": 121.301939225,
+    "state": null,
+    "wikidata": "Q48916725"
+  },
+  {
+    "name": "Farglory 95rich",
+    "year": "2017",
+    "height": 184.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Farglory%2095rich.jpg",
+    "latitude": 25.060054,
+    "longitude": 121.452093,
+    "state": null,
+    "wikidata": "Q48928809"
+  },
+  {
+    "name": "Pao Huei Solitaire",
+    "year": null,
+    "height": 160.98,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pao%20Huei%20Solitaire.jpg",
+    "latitude": 24.165555555,
+    "longitude": 120.638888888,
+    "state": null,
+    "wikidata": "Q48929489"
+  },
+  {
+    "name": "The Crystal Plaza",
+    "year": "2013",
+    "height": 160.6,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamsui%20skyline%2020181215.jpg",
+    "latitude": 25.160555555,
+    "longitude": 121.456111111,
+    "state": null,
+    "wikidata": "Q48934594"
+  },
+  {
+    "name": "Cathay XinYi Economic and Trade Building",
+    "year": "2003",
+    "height": null,
+    "image": null,
+    "latitude": 25.03246,
+    "longitude": 121.56711,
+    "state": null,
+    "wikidata": "Q127868705"
+  }
+]

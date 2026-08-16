@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Vasco da Gama Tower",
+    "year": "1998",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Vasco%20da%20Gama%20%28Lisboa%29.JPG",
+    "latitude": 38.77472222,
+    "longitude": -9.09138889,
+    "state": null,
+    "wikidata": "Q1756313"
+  },
+  {
+    "name": "Torre São Rafael",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Centre%20Vasco%20de%20Gama%200513.jpg",
+    "latitude": 38.76833,
+    "longitude": -9.096371,
+    "state": null,
+    "wikidata": "Q47458785"
+  },
+  {
+    "name": "Torre São Gabriel",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parque%20das%20Na%C3%A7%C3%B5es%202%20-%20Jul%202009.jpg",
+    "latitude": 38.767139,
+    "longitude": -9.09725,
+    "state": null,
+    "wikidata": "Q47458789"
+  }
+]

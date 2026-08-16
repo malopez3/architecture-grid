@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Baiyoke Tower I",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baiyoke%20Tower%20I%20Bangkok%20Thailand.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q12762855"
+  },
+  {
+    "name": "Millennium Residence 2",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q13019023"
+  },
+  {
+    "name": "The Met",
+    "year": "2009",
+    "height": 228.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Met.jpg",
+    "latitude": 13.72202778,
+    "longitude": 100.53413889,
+    "state": null,
+    "wikidata": "Q1426419"
+  },
+  {
+    "name": "Empire Tower",
+    "year": "1999",
+    "height": 227.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Silom%2C%20Bang%20Rak%2C%20Bangkok%2C%20Thailand%20-%20panoramio%20-%20mohigan%20%282%29.jpg",
+    "latitude": 13.720277777,
+    "longitude": 100.530277777,
+    "state": null,
+    "wikidata": "Q120546"
+  },
+  {
+    "name": "Rama IX Super Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 13.7574,
+    "longitude": 100.568,
+    "state": null,
+    "wikidata": "Q18415146"
+  },
+  {
+    "name": "Pullman Bangkok Hotel G",
+    "year": "2012",
+    "height": null,
+    "image": null,
+    "latitude": 13.725277777,
+    "longitude": 100.523888888,
+    "state": null,
+    "wikidata": "Q7553769"
+  },
+  {
+    "name": "The River South Tower",
+    "year": "2012",
+    "height": 258.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20River%20Bangkok.JPG",
+    "latitude": 13.72102356,
+    "longitude": 100.51078796,
+    "state": null,
+    "wikidata": "Q2376507"
+  },
+  {
+    "name": "The Pano",
+    "year": "2010",
+    "height": null,
+    "image": null,
+    "latitude": 13.6716,
+    "longitude": 100.542,
+    "state": null,
+    "wikidata": "Q7756001"
+  },
+  {
+    "name": "Wongamat Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wongamat-tower-pattaya-naklua.jpg",
+    "latitude": 12.9675,
+    "longitude": 100.884444444,
+    "state": null,
+    "wikidata": "Q106839495"
+  },
+  {
+    "name": "Sathorn Unique Tower",
+    "year": "1990",
+    "height": 184.98,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sathorn%20Unique%20Tower%20Bangkok%20abandoned%20skyscraper%20April2021.jpg",
+    "latitude": 13.717222,
+    "longitude": 100.515278,
+    "state": null,
+    "wikidata": "Q20011078"
+  },
+  {
+    "name": "Park Ventures Ecoplex",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%AD%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%20Park%20Ventures.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q24036139"
+  },
+  {
+    "name": "Q28873257",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28873257"
+  },
+  {
+    "name": "Q28873283",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28873283"
+  },
+  {
+    "name": "Q30752707",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menam%20Residences%20%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%20%E0%B9%80%E0%B8%A3%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%8B%E0%B9%8C%20%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%94.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30752707"
+  },
+  {
+    "name": "GMM Grammy Place",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GMM%20Grammy%20Place.jpg",
+    "latitude": 13.74349,
+    "longitude": 100.5627,
+    "state": null,
+    "wikidata": "Q33842255"
+  },
+  {
+    "name": "KingBridge Tower",
+    "year": null,
+    "height": 260.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KingBridgeTower.jpg",
+    "latitude": 13.673396562,
+    "longitude": 100.540170635,
+    "state": null,
+    "wikidata": "Q134885353"
+  },
+  {
+    "name": "Pearl Bangkok",
+    "year": null,
+    "height": 130.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pearl%20Bangkok%2C%20a%20skyscraper%20%282025%29%20-%20img%2001.jpg",
+    "latitude": 13.7779274,
+    "longitude": 100.5434434,
+    "state": null,
+    "wikidata": "Q137945465"
+  }
+]

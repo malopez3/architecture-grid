@@ -1,0 +1,52 @@
+[
+  {
+    "name": "El Gezira Tower Movenpick Hotel",
+    "year": "1996",
+    "height": 142.0,
+    "image": null,
+    "latitude": 30.0559626,
+    "longitude": 31.2200522,
+    "state": null,
+    "wikidata": "Q16976181"
+  },
+  {
+    "name": "Bank Misr Tower",
+    "year": "1985",
+    "height": 130.0,
+    "image": null,
+    "latitude": 30.048361111,
+    "longitude": 31.244833333,
+    "state": null,
+    "wikidata": "Q16253183"
+  },
+  {
+    "name": "Belmont Building",
+    "year": "1958",
+    "height": 106.0,
+    "image": null,
+    "latitude": 30.03421667,
+    "longitude": 31.22934722,
+    "state": null,
+    "wikidata": "Q20949067"
+  },
+  {
+    "name": "Nile City Towers",
+    "year": "1999",
+    "height": 142.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nilecity.jpg",
+    "latitude": 30.071774,
+    "longitude": 31.227951,
+    "state": null,
+    "wikidata": "Q24036175"
+  },
+  {
+    "name": "Four Seasons Hotel Cairo at The First Residence",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Four%20Seasons%20hotel%2C%20Giza%2000%20%283%29.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q24038652"
+  }
+]

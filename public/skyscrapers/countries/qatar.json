@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Dubai Towers Doha",
+    "year": "2026",
+    "height": 437.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dubai%20Towers%2C%20Doha.jpg",
+    "latitude": 25.314444444,
+    "longitude": 51.522222222,
+    "state": null,
+    "wikidata": "Q1207442"
+  },
+  {
+    "name": "Aspire Tower",
+    "year": "2000",
+    "height": 300.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aspire%20Park%2C%20Doha%20-%20panoramio.jpg",
+    "latitude": 25.262472222,
+    "longitude": 51.444833333,
+    "state": null,
+    "wikidata": "Q737602"
+  },
+  {
+    "name": "Commercialbank Plaza",
+    "year": "2009",
+    "height": null,
+    "image": null,
+    "latitude": 25.313479,
+    "longitude": 51.518283,
+    "state": null,
+    "wikidata": "Q5152590"
+  },
+  {
+    "name": "Al Faisal Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 25.325383333,
+    "longitude": 51.526344444,
+    "state": null,
+    "wikidata": "Q11132260"
+  },
+  {
+    "name": "Doha Tower",
+    "year": "2008",
+    "height": 238.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/West%20Bay%20%285314687527%29.jpg",
+    "latitude": 25.31745,
+    "longitude": 51.52836944,
+    "state": null,
+    "wikidata": "Q10413351"
+  },
+  {
+    "name": "Al Bidda Tower",
+    "year": "2009",
+    "height": null,
+    "image": null,
+    "latitude": 25.316208333,
+    "longitude": 51.5259,
+    "state": null,
+    "wikidata": "Q10689823"
+  },
+  {
+    "name": "Q21511460",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q21511460"
+  },
+  {
+    "name": "City Center Mall Doha",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/City%20Center%2C%20Westbay%20%2C%20Doha%20-%20panoramio%20%2816%29.jpg",
+    "latitude": 25.324574,
+    "longitude": 51.530553,
+    "state": null,
+    "wikidata": "Q21512263"
+  },
+  {
+    "name": "Al Fardan Residences",
+    "year": "2009",
+    "height": 253.3,
+    "image": null,
+    "latitude": 25.328444,
+    "longitude": 51.530814,
+    "state": null,
+    "wikidata": "Q2884587"
+  },
+  {
+    "name": "Q28873206",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28873206"
+  },
+  {
+    "name": "Q28873290",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28873290"
+  },
+  {
+    "name": "Q28873312",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28873312"
+  },
+  {
+    "name": "Q30752579",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 25.32449,
+    "longitude": 51.52654,
+    "state": null,
+    "wikidata": "Q30752579"
+  },
+  {
+    "name": "Katara Towers",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lusail%20Marina%20Iconic%20Development%20%28cropped%29.jpg",
+    "latitude": 25.3901,
+    "longitude": 51.53181,
+    "state": null,
+    "wikidata": "Q30754661"
+  },
+  {
+    "name": "Gateway Towers",
+    "year": "2016",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q56300042"
+  }
+]

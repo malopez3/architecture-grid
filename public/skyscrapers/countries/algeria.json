@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bahia Center",
+    "year": "2014",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oran%2C%20Mobilar.jpg",
+    "latitude": 35.7112,
+    "longitude": -0.6248,
+    "state": null,
+    "wikidata": "Q4842551"
+  },
+  {
+    "name": "Sheraton Oran Hotel and Towers",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheraton%20Oran%20Hotel%20algeria.JPG",
+    "latitude": 35.7151,
+    "longitude": -0.6093,
+    "state": null,
+    "wikidata": "Q7494698"
+  }
+]

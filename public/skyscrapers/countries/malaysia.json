@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Felda Tower",
+    "year": null,
+    "height": 215.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Felda%20Tower%20-%20Kuala%20Lumpur.jpg",
+    "latitude": 3.15546,
+    "longitude": 101.71873,
+    "state": null,
+    "wikidata": "Q12697614"
+  },
+  {
+    "name": "Penang Global City Centre",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q12700042"
+  },
+  {
+    "name": "Muar Trade Centre",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muar%20Trade%20Centre.jpg",
+    "latitude": 2.046187,
+    "longitude": 102.563274,
+    "state": null,
+    "wikidata": "Q14429066"
+  },
+  {
+    "name": "Alor Setar Tower",
+    "year": "1997",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menara%20as.jpg",
+    "latitude": 6.12445,
+    "longitude": 100.367261,
+    "state": null,
+    "wikidata": "Q1584276"
+  },
+  {
+    "name": "Menara Citibank",
+    "year": "1995",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Citibank%20Tower%2C%20Kuala%20Lumpur.jpg",
+    "latitude": 3.16,
+    "longitude": 101.7172,
+    "state": null,
+    "wikidata": "Q6816457"
+  },
+  {
+    "name": "Menara Great Eastern",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Getower.jpg",
+    "latitude": 3.160186111,
+    "longitude": 101.736727777,
+    "state": null,
+    "wikidata": "Q6816458"
+  },
+  {
+    "name": "Menara Mesiniaga",
+    "year": "1994",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cmglee%20Mesiniaga%20Tower.jpg",
+    "latitude": 3.08257,
+    "longitude": 101.59251,
+    "state": null,
+    "wikidata": "Q6816459"
+  },
+  {
+    "name": "Menara ExxonMobil",
+    "year": "1997",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ExxonMobil%20Tower%2C%20Kuala%20Lumpur.jpg",
+    "latitude": 3.1541,
+    "longitude": 101.7157,
+    "state": null,
+    "wikidata": "Q6816461"
+  },
+  {
+    "name": "Petronas Tower 3",
+    "year": "2011",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KL%20-%20Menara%20Carigali%2C%20KLCC.JPG",
+    "latitude": 3.15666667,
+    "longitude": 101.71111111,
+    "state": null,
+    "wikidata": "Q6816462"
+  },
+  {
+    "name": "Menara MBPJ",
+    "year": "1987",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petaling%20Jaya%20City%20Council.JPG",
+    "latitude": 3.099166666,
+    "longitude": 101.645,
+    "state": null,
+    "wikidata": "Q6816465"
+  },
+  {
+    "name": "Petronas Towers",
+    "year": "1999",
+    "height": 1483.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuala%20Lumpur%20-%20panoramio%20%2818%29.jpg",
+    "latitude": 3.157777777,
+    "longitude": 101.711666666,
+    "state": null,
+    "wikidata": "Q83063"
+  },
+  {
+    "name": "Telekom Tower",
+    "year": "2001",
+    "height": 310.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menara%20telekom.jpg",
+    "latitude": 3.115833,
+    "longitude": 101.666111,
+    "state": null,
+    "wikidata": "Q118214"
+  },
+  {
+    "name": "Ilham Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilham%20Tower%2C%20Kuala%20Lumpur%20in%20April%202020.jpg",
+    "latitude": 3.15888,
+    "longitude": 101.71886,
+    "state": null,
+    "wikidata": "Q17051376"
+  },
+  {
+    "name": "Capital Square",
+    "year": "2011",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KL%20-%20Cap%20Square%20Tower.JPG",
+    "latitude": 3.1549,
+    "longitude": 101.70063,
+    "state": null,
+    "wikidata": "Q5035668"
+  },
+  {
+    "name": "Pavilion Kuala Lumpur",
+    "year": "2007",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavilion%20KL%20outview%202%20%28211030%29.jpg",
+    "latitude": 3.1485,
+    "longitude": 101.71318,
+    "state": null,
+    "wikidata": "Q7155871"
+  },
+  {
+    "name": "Kuala Lumpur Tower",
+    "year": "1996",
+    "height": 421.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KL%20tower1.JPG",
+    "latitude": 3.15282771,
+    "longitude": 101.703748809,
+    "state": null,
+    "wikidata": "Q745016"
+  },
+  {
+    "name": "Berjaya Times Square",
+    "year": "2003",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berjaya%20Times%20Square%20from%20BBCC%20%28220121%29%2002.jpg",
+    "latitude": 3.142182,
+    "longitude": 101.710605,
+    "state": null,
+    "wikidata": "Q820738"
+  },
+  {
+    "name": "Dayabumi Complex",
+    "year": "1984",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dayabumi%2C%20Kuala%20Lumpur%20%28February%202007%29.jpg",
+    "latitude": 3.1449,
+    "longitude": 101.69408,
+    "state": null,
+    "wikidata": "Q5243009"
+  },
+  {
+    "name": "Maxis Tower",
+    "year": "1998",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maxis%20Tower%2C%20Kuala%20Lumpur.jpg",
+    "latitude": 3.158,
+    "longitude": 101.713,
+    "state": null,
+    "wikidata": "Q5260261"
+  },
+  {
+    "name": "Tun Razak Tower",
+    "year": "1983",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menara%20Tun%20Razak.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q18708330"
+  },
+  {
+    "name": "SUNTECH Tower",
+    "year": "2008",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suntech%20Tower%20in%20George%20Town%2C%20Penang.jpg",
+    "latitude": 5.32563056,
+    "longitude": 100.28631944,
+    "state": null,
+    "wikidata": "Q7395004"
+  },
+  {
+    "name": "Shangri-La Kuala Lumpur building",
+    "year": "1985",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20at%20Shangri-La%20Kuala%20Lumpur.jpg",
+    "latitude": 3.15416667,
+    "longitude": 101.70638889,
+    "state": null,
+    "wikidata": "Q7488586"
+  },
+  {
+    "name": "Sheraton Imperial Kuala Lumpur",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheraton%20Imperial%20Kuala%20Lumpur.jpg",
+    "latitude": 3.1585532,
+    "longitude": 101.7000279,
+    "state": null,
+    "wikidata": "Q7494684"
+  },
+  {
+    "name": "Ansar Tower",
+    "year": "1996",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ansar%20Tower.jpg",
+    "latitude": 1.460277777,
+    "longitude": 103.762861111,
+    "state": null,
+    "wikidata": "Q98034021"
+  },
+  {
+    "name": "KOMTAR JBCC Tower",
+    "year": "1979",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KOMTAR%20JBCC%20Tower.jpg",
+    "latitude": 1.46375,
+    "longitude": 103.762777777,
+    "state": null,
+    "wikidata": "Q98322066"
+  },
+  {
+    "name": "Vista Tower",
+    "year": "1994",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KL-EmpireTower.JPG",
+    "latitude": 3.16194,
+    "longitude": 101.72,
+    "state": null,
+    "wikidata": "Q7936469"
+  },
+  {
+    "name": "Merdeka 118",
+    "year": "2023",
+    "height": 678.9,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Merdeka%20Tower%2020241022%20-%20full%202.jpg",
+    "latitude": 3.141666666,
+    "longitude": 101.700722222,
+    "state": null,
+    "wikidata": "Q7969454"
+  },
+  {
+    "name": "Tun Mustapha Tower",
+    "year": "1977",
+    "height": 122.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KotaKinabalu%20Malaysia%20Tun-Mustapha-Tower-01.jpg",
+    "latitude": 6.01722222,
+    "longitude": 116.10944444,
+    "state": null,
+    "wikidata": "Q2459733"
+  },
+  {
+    "name": "Faber Towers",
+    "year": "1987",
+    "height": null,
+    "image": null,
+    "latitude": 3.102591666,
+    "longitude": 101.684797222,
+    "state": null,
+    "wikidata": "Q5427617"
+  },
+  {
+    "name": "Grand Hyatt Kuala Lumpur",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuala%20Lumpur%20Malaysia%20Grand-Hyatt-Tower-01.jpg",
+    "latitude": 3.15364,
+    "longitude": 101.7121,
+    "state": null,
+    "wikidata": "Q5594654"
+  },
+  {
+    "name": "JLand Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JLand%20Tower.jpg",
+    "latitude": 1.464583333,
+    "longitude": 103.762388888,
+    "state": null,
+    "wikidata": "Q99538888"
+  },
+  {
+    "name": "Metropolis Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Metropolis%20Tower.jpg",
+    "latitude": 1.477527777,
+    "longitude": 103.763138888,
+    "state": null,
+    "wikidata": "Q99539274"
+  },
+  {
+    "name": "Aqabah Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Majlis%20Bandaraya%20Pasir%20Gudang.jpg",
+    "latitude": 1.467083333,
+    "longitude": 103.902444444,
+    "state": null,
+    "wikidata": "Q99539358"
+  },
+  {
+    "name": "Merlin Tower",
+    "year": "1970",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Merlin%20Tower.jpg",
+    "latitude": 1.460638888,
+    "longitude": 103.765027777,
+    "state": null,
+    "wikidata": "Q99539380"
+  },
+  {
+    "name": "Zurich Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zurich%20Tower.jpg",
+    "latitude": 1.479527777,
+    "longitude": 103.759305555,
+    "state": null,
+    "wikidata": "Q99539382"
+  },
+  {
+    "name": "City Plaza",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/City%20Plaza%2C%20JB.JPG",
+    "latitude": 1.47575,
+    "longitude": 103.762527777,
+    "state": null,
+    "wikidata": "Q99539388"
+  },
+  {
+    "name": "Holiday Plaza Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Holiday%20Plaza%20Tower.jpg",
+    "latitude": 1.488472222,
+    "longitude": 103.760388888,
+    "state": null,
+    "wikidata": "Q99539390"
+  },
+  {
+    "name": "Inland Revenue Office",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q6034811"
+  },
+  {
+    "name": "Fairmont Kuala Lumpur Tower 1",
+    "year": null,
+    "height": 370.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fairmont%20Kuala%20Lumpur%20Towers%20-%20Construction%20site%20in%20January%202019.jpg",
+    "latitude": 3.15739,
+    "longitude": 101.71422,
+    "state": null,
+    "wikidata": "Q20725898"
+  },
+  {
+    "name": "Maybank Tower",
+    "year": "1987",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maybank%20Tower%20Kuala%20Lumpur.jpg",
+    "latitude": 3.1472,
+    "longitude": 101.6997,
+    "state": null,
+    "wikidata": "Q2745033"
+  },
+  {
+    "name": "Wisma Sanyan",
+    "year": "2001",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wismasanyan.jpg",
+    "latitude": 2.29056,
+    "longitude": 111.825,
+    "state": null,
+    "wikidata": "Q8027667"
+  },
+  {
+    "name": "Q21619097",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q21619097"
+  },
+  {
+    "name": "Q21619109",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q21619109"
+  },
+  {
+    "name": "Q21619116",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maytower%204%20Oct%202013.JPG",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q21619116"
+  },
+  {
+    "name": "Johor Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johor%20Tower.jpg",
+    "latitude": 1.465555555,
+    "longitude": 103.760416666,
+    "state": null,
+    "wikidata": "Q21619124"
+  },
+  {
+    "name": "MSC Cyberport Tower",
+    "year": "1995",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menara%20MSC%20Cyberport%20%28previously%20known%20as%20Menara%20Sarawak%29.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q21619126"
+  },
+  {
+    "name": "Public Bank Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Public%20Bank%20Tower.jpg",
+    "latitude": 1.461805555,
+    "longitude": 103.763027777,
+    "state": null,
+    "wikidata": "Q21619127"
+  },
+  {
+    "name": "Ascott Star",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ascott%20Star.jpg",
+    "latitude": 3.161357183,
+    "longitude": 101.711881738,
+    "state": null,
+    "wikidata": "Q112221868"
+  },
+  {
+    "name": "Southpoint Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 3.116036395,
+    "longitude": 101.675613725,
+    "state": null,
+    "wikidata": "Q112221909"
+  },
+  {
+    "name": "Naza Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Naza%20Tower%2C%20Kuala%20Lumpur%20in%20May%202020.jpg",
+    "latitude": 3.1547,
+    "longitude": 101.71861,
+    "state": null,
+    "wikidata": "Q26000285"
+  },
+  {
+    "name": "KOMTAR",
+    "year": "1986",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Komtar%20at%20dusk%2C%20George%20Town%2C%20Penang.jpg",
+    "latitude": 5.41455,
+    "longitude": 100.32979,
+    "state": null,
+    "wikidata": "Q3305737"
+  },
+  {
+    "name": "The Exchange 106",
+    "year": "2019",
+    "height": 445.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Exchange%20106%20skyline%20Nov%20of%202021.jpg",
+    "latitude": 3.1419,
+    "longitude": 101.71875,
+    "state": null,
+    "wikidata": "Q27670200"
+  },
+  {
+    "name": "Banyan Tree Signatures",
+    "year": "2016",
+    "height": 240.0,
+    "image": null,
+    "latitude": 3.150299093,
+    "longitude": 101.713921298,
+    "state": null,
+    "wikidata": "Q28873268"
+  },
+  {
+    "name": "Q28873319",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28873319"
+  },
+  {
+    "name": "Landmark Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Landmark%20Tower%20%28Johor%20Bahru%29.jpg",
+    "latitude": 1.465138888,
+    "longitude": 103.76,
+    "state": null,
+    "wikidata": "Q98978913"
+  },
+  {
+    "name": "Q30752955",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30752955"
+  },
+  {
+    "name": "The Altus",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sky%2088%20Apartment.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30752959"
+  },
+  {
+    "name": "Pavilion Suites",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elite%20Pavillion%2C%20Kuala%20Lumpur.jpg",
+    "latitude": 3.148055555,
+    "longitude": 101.712777777,
+    "state": null,
+    "wikidata": "Q30753436"
+  },
+  {
+    "name": "Q3786369",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Rakyat%20construction%20site%2C%20Kuala%20Lumpur%20%28February%202007%29.jpg",
+    "latitude": 3.144722222,
+    "longitude": 101.702777777,
+    "state": null,
+    "wikidata": "Q3786369"
+  },
+  {
+    "name": "Q30753449",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30753449"
+  },
+  {
+    "name": "The Astaka",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/THEASTAKAJB.jpg",
+    "latitude": 1.473972222,
+    "longitude": 103.763083333,
+    "state": null,
+    "wikidata": "Q30753820"
+  },
+  {
+    "name": "Equatorial Plaza",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30753855"
+  },
+  {
+    "name": "Q30766202",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30766202"
+  },
+  {
+    "name": "Q51089069",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JKRHQKL.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q51089069"
+  },
+  {
+    "name": "Q51169391",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mont%20Kiara%20condominium%2C%2016%20July%202015.JPG",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q51169391"
+  },
+  {
+    "name": "Q59511983",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuala%20Lumpur%20Malaysia-Dewan-Bahasa-Dan-Pustaka-12.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q59511983"
+  },
+  {
+    "name": "Oxley Towers",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oxley%20Towers%20in%20February%202025.jpg",
+    "latitude": 3.158888,
+    "longitude": 101.715403,
+    "state": null,
+    "wikidata": "Q132576524"
+  },
+  {
+    "name": "Fairmont Kuala Lumpur Towers",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fairmont%20Kuala%20Lumpur%20Towers%20-%20Construction%20site%20in%20January%202019.jpg",
+    "latitude": 3.15738,
+    "longitude": 101.71468,
+    "state": null,
+    "wikidata": "Q48726927"
+  },
+  {
+    "name": "Menara Kerja Raya",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menara%20Kerja%20Raya%20%28230805-1703%29.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q140136691"
+  },
+  {
+    "name": "Amoda Building",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amoda%20Tower.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q140136745"
+  }
+]

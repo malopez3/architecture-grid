@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bahrain World Trade Center",
+    "year": "2008",
+    "height": 240.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bahrain%20World%20trade%20Center%20.jpg",
+    "latitude": 26.239166666,
+    "longitude": 50.581388888,
+    "state": null,
+    "wikidata": "Q511612"
+  },
+  {
+    "name": "Abraj Al Lulu",
+    "year": "2009",
+    "height": null,
+    "image": null,
+    "latitude": 26.23,
+    "longitude": 50.558888888,
+    "state": null,
+    "wikidata": "Q4669323"
+  },
+  {
+    "name": "Al Zamil Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 26.23666667,
+    "longitude": 50.58083333,
+    "state": null,
+    "wikidata": "Q4705011"
+  },
+  {
+    "name": "Almoayyed Tower",
+    "year": "2004",
+    "height": null,
+    "image": null,
+    "latitude": 26.235833333,
+    "longitude": 50.541944444,
+    "state": null,
+    "wikidata": "Q4733861"
+  },
+  {
+    "name": "Q30752678",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30752678"
+  },
+  {
+    "name": "Q56300114",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q56300114"
+  }
+]

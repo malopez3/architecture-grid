@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Andromeda Tower",
+    "year": "1998",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Image-Andromeda-Tower%20Vienna%202005.JPG",
+    "latitude": 48.233,
+    "longitude": 16.4142,
+    "state": null,
+    "wikidata": "Q512867"
+  },
+  {
+    "name": "Mischek Tower",
+    "year": "2000",
+    "height": 110.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mischek%20Tower%20Vienna%20from%20W%20on%202013-06-14.png",
+    "latitude": 48.2358,
+    "longitude": 16.4119,
+    "state": null,
+    "wikidata": "Q1589842"
+  },
+  {
+    "name": "Hochhaus Neue Donau",
+    "year": "2002",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hochhaus%20Neue%20Donau%20Vienna%20from%20NW%20on%202012-08-07.jpg",
+    "latitude": 48.2311,
+    "longitude": 16.4158,
+    "state": null,
+    "wikidata": "Q1621858"
+  },
+  {
+    "name": "Millennium Tower",
+    "year": "2000",
+    "height": 202.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20Millennium%20Tower%20%281%29.JPG",
+    "latitude": 48.24,
+    "longitude": 16.386944444,
+    "state": null,
+    "wikidata": "Q80495"
+  },
+  {
+    "name": "DC Towers",
+    "year": "2013",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donau%20City%20Vienna%20from%20Donauinsel%20on%202014-08-28%20crop.jpg",
+    "latitude": 48.23161,
+    "longitude": 16.41356,
+    "state": null,
+    "wikidata": "Q675964"
+  },
+  {
+    "name": "Vienna Twin Tower",
+    "year": "2001",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20Vienna%20Twin%20Tower.JPG",
+    "latitude": 48.168888888,
+    "longitude": 16.346944444,
+    "state": null,
+    "wikidata": "Q874387"
+  },
+  {
+    "name": "DC Tower 3",
+    "year": null,
+    "height": 110.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DC%20Tower%203%20im%20M%C3%A4rz%202022.jpg",
+    "latitude": 48.231608,
+    "longitude": 16.414891,
+    "state": null,
+    "wikidata": "Q83736716"
+  },
+  {
+    "name": "DC Tower 2",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DC%20Tower%202%20Wien%202022-08-08%2002.jpg",
+    "latitude": 48.23147,
+    "longitude": 16.41361,
+    "state": null,
+    "wikidata": "Q100741413"
+  },
+  {
+    "name": "DC Tower 1",
+    "year": "2014",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DC%20Tower%201%20Vienna%20from%20SSW%20on%202013-09-24%20perspective%20controlled.png",
+    "latitude": 48.23186,
+    "longitude": 16.41275,
+    "state": null,
+    "wikidata": "Q100741950"
+  }
+]

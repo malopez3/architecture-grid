@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Twin City",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.145683,
+    "longitude": 17.125304,
+    "state": null,
+    "wikidata": "Q7858127"
+  },
+  {
+    "name": "Eurovea Tower",
+    "year": null,
+    "height": 168.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bratislava%20z%20Dunaja%203.jpg",
+    "latitude": 48.139807677,
+    "longitude": 17.127230174,
+    "state": null,
+    "wikidata": "Q102317008"
+  },
+  {
+    "name": "City Business Center",
+    "year": "2006",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CBC%2006.jpg",
+    "latitude": 48.148078,
+    "longitude": 17.125014,
+    "state": null,
+    "wikidata": "Q4180036"
+  }
+]

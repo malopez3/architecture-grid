@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Torre del Café",
+    "year": "1975",
+    "height": 160.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20del%20Caf%C3%A9-Medellin.JPG",
+    "latitude": 6.249022,
+    "longitude": -75.568536,
+    "state": null,
+    "wikidata": "Q7826994"
+  },
+  {
+    "name": "Edificio Fonade",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Bogot%C3%A1%20-%20Edificio%20Fonade%20o%20DNP%20desde%20la%20Avenida%20S%C3%A9ptima.jpg",
+    "latitude": 4.612916666,
+    "longitude": -74.071833333,
+    "state": null,
+    "wikidata": "Q104822366"
+  },
+  {
+    "name": "Q104880638",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bogot%C3%A1%2C%20barrio%20San%20Diego%2C%20torre%20Seguros%20Tequendama.JPG",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q104880638"
+  },
+  {
+    "name": "Centro de Comercio Internacional",
+    "year": "1977",
+    "height": 190.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20de%20las%20Am%C3%A9ricas%20-%20Bogot%C3%A1.JPG",
+    "latitude": 4.616111111,
+    "longitude": -74.070833333,
+    "state": null,
+    "wikidata": "Q2946170"
+  },
+  {
+    "name": "Hotel Estelar Bocagrande",
+    "year": "2016",
+    "height": 202.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fachada-Torre-HotelEstelarCartagenaDeIndias.jpg",
+    "latitude": 10.409752,
+    "longitude": -75.551375,
+    "state": null,
+    "wikidata": "Q28362967"
+  },
+  {
+    "name": "Q16607887",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q16607887"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Al Hamra Tower",
+    "year": "2015",
+    "height": 412.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Hamra%20Kuwait%20Mai%202010.jpg",
+    "latitude": 29.378611111,
+    "longitude": 47.992777777,
+    "state": null,
+    "wikidata": "Q557933"
+  },
+  {
+    "name": "Square Capital Tower",
+    "year": null,
+    "height": 376.0,
+    "image": null,
+    "latitude": 29.384857,
+    "longitude": 47.988659,
+    "state": null,
+    "wikidata": "Q691263"
+  },
+  {
+    "name": "Arraya Tower",
+    "year": "2009",
+    "height": 300.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arayaa%20and%20kbt%20towers%20from%20kuwait%20by%20irvin%20calicut.jpg",
+    "latitude": 29.376248,
+    "longitude": 47.990406,
+    "state": null,
+    "wikidata": "Q699317"
+  },
+  {
+    "name": "Q6156294",
+    "year": "2011",
+    "height": null,
+    "image": null,
+    "latitude": 29.376,
+    "longitude": 47.987,
+    "state": null,
+    "wikidata": "Q6156294"
+  },
+  {
+    "name": "Gate of Kuwait",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q2789914"
+  },
+  {
+    "name": "Crystal Tower",
+    "year": "2014",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28661228"
+  },
+  {
+    "name": "Q28873266",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28873266"
+  },
+  {
+    "name": "Q30752922",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30752922"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hochhaus zur Palme",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zuerich%20zur%20Palme%20ganz.jpg",
+    "latitude": 47.3666,
+    "longitude": 8.5338,
+    "state": null,
+    "wikidata": "Q1621865"
+  },
+  {
+    "name": "Prime Tower",
+    "year": "2011",
+    "height": 126.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Industriequartier%20-%20Prime%20Tower%202011-08-08%2013-44-40.JPG",
+    "latitude": 47.3859,
+    "longitude": 8.51689,
+    "state": null,
+    "wikidata": "Q683345"
+  },
+  {
+    "name": "High-rise Apartment Buildings",
+    "year": "1961",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Holligenstrasse%20109.jpg",
+    "latitude": 46.937722,
+    "longitude": 7.415046,
+    "state": null,
+    "wikidata": "Q136335599"
+  }
+]

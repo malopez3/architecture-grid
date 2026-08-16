@@ -1,0 +1,42 @@
+[
+  {
+    "name": "NITEL Building",
+    "year": "1979",
+    "height": 160.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NECOM%20House%201.jpg",
+    "latitude": 6.4461,
+    "longitude": 3.39751,
+    "state": null,
+    "wikidata": "Q16733944"
+  },
+  {
+    "name": "Union Bank Building",
+    "year": "1991",
+    "height": 124.0,
+    "image": null,
+    "latitude": 6.452379404,
+    "longitude": 3.387922515,
+    "state": null,
+    "wikidata": "Q16734197"
+  },
+  {
+    "name": "Cocoa House",
+    "year": "1965",
+    "height": 105.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cocoa%20house%20at%20night.jpg",
+    "latitude": 7.388055555,
+    "longitude": 3.878666666,
+    "state": null,
+    "wikidata": "Q5139763"
+  },
+  {
+    "name": "World trade center abuja",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 9.0493768,
+    "longitude": 7.4729599,
+    "state": null,
+    "wikidata": "Q115005446"
+  }
+]

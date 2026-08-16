@@ -1,0 +1,742 @@
+[
+  {
+    "name": "Tour CBX",
+    "year": "2005",
+    "height": 142.0,
+    "image": null,
+    "latitude": 48.891111111,
+    "longitude": 2.246666666,
+    "state": null,
+    "wikidata": "Q640094"
+  },
+  {
+    "name": "Grande Arche",
+    "year": "1989",
+    "height": 110.9,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grande%20Arche%2C%20France%20-%20April%202011.jpg",
+    "latitude": 48.8928,
+    "longitude": 2.235830555,
+    "state": null,
+    "wikidata": "Q216357"
+  },
+  {
+    "name": "Tour T1",
+    "year": "2008",
+    "height": 185.0,
+    "image": null,
+    "latitude": 48.896111111,
+    "longitude": 2.239444444,
+    "state": null,
+    "wikidata": "Q278518"
+  },
+  {
+    "name": "Montparnasse Tower",
+    "year": "1973",
+    "height": 209.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Remote%20view%20of%20the%20Tour%20Montparnasse%20%26%20Eiffel%20Tower%20in%202005.jpg",
+    "latitude": 48.84211,
+    "longitude": 2.32198,
+    "state": null,
+    "wikidata": "Q323767"
+  },
+  {
+    "name": "Tours de Levallois",
+    "year": null,
+    "height": 164.0,
+    "image": null,
+    "latitude": 48.901111111,
+    "longitude": 2.286666666,
+    "state": null,
+    "wikidata": "Q912078"
+  },
+  {
+    "name": "Tour CB21",
+    "year": "1974",
+    "height": null,
+    "image": null,
+    "latitude": 48.88888889,
+    "longitude": 2.24980556,
+    "state": null,
+    "wikidata": "Q995371"
+  },
+  {
+    "name": "Tour First",
+    "year": "1974",
+    "height": 231.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tours%20First%20et%20Saint-Gobain%20%2842975144462%29.jpg",
+    "latitude": 48.8889,
+    "longitude": 2.2517,
+    "state": null,
+    "wikidata": "Q1509747"
+  },
+  {
+    "name": "Tour Part-Dieu",
+    "year": "1977",
+    "height": 169.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Esplanade%20Charles-de-Gaulle%20%28Lyon%29%20-%20entr%C3%A9e%20de%20la%20Tour%20Part-Dieu.jpg",
+    "latitude": 45.761111111,
+    "longitude": 4.853611111,
+    "state": null,
+    "wikidata": "Q5270"
+  },
+  {
+    "name": "Tour Oxygène",
+    "year": "2010",
+    "height": 115.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Part-Dieu%20depuis%20Saint-Paul.JPG",
+    "latitude": 45.7621,
+    "longitude": 4.85684,
+    "state": null,
+    "wikidata": "Q8530"
+  },
+  {
+    "name": "Tour Incity",
+    "year": "2015",
+    "height": 200.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Part-Dieu%20depuis%20Saint-Paul.JPG",
+    "latitude": 45.7633,
+    "longitude": 4.85093,
+    "state": null,
+    "wikidata": "Q8647"
+  },
+  {
+    "name": "Tour Swiss Life",
+    "year": "1990",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nacelle%20laveurs%20de%20carreaux%20Tour%20Swiss%20Life%20%28Lyon%29%20en%20mai%202019.jpg",
+    "latitude": 45.763,
+    "longitude": 4.85868,
+    "state": null,
+    "wikidata": "Q9523"
+  },
+  {
+    "name": "Tour Eva",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 45.7631,
+    "longitude": 4.8592,
+    "state": null,
+    "wikidata": "Q9524"
+  },
+  {
+    "name": "Tour Alto",
+    "year": "2020",
+    "height": 160.0,
+    "image": null,
+    "latitude": 48.8894,
+    "longitude": 2.25139,
+    "state": null,
+    "wikidata": "Q16680551"
+  },
+  {
+    "name": "Tour Areva",
+    "year": "1974",
+    "height": 178.0,
+    "image": null,
+    "latitude": 48.892222222,
+    "longitude": 2.241944444,
+    "state": null,
+    "wikidata": "Q735913"
+  },
+  {
+    "name": "Tour Total",
+    "year": "1985",
+    "height": 187.0,
+    "image": null,
+    "latitude": 48.892777777,
+    "longitude": 2.243055555,
+    "state": null,
+    "wikidata": "Q743683"
+  },
+  {
+    "name": "Pullman Paris Montparnasse Hotel",
+    "year": "1974",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Avenue%20du%20Maine%20et%20cimeti%C3%A8re%20de%20Montparnasse.jpg",
+    "latitude": 48.838333333,
+    "longitude": 2.320833333,
+    "state": null,
+    "wikidata": "Q749558"
+  },
+  {
+    "name": "Tour Granite",
+    "year": "2008",
+    "height": 184.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Four%20men%20cleaning%20the%20OutsideWindows%20of%20TourGranite%20at%20LaDefenseParis.jpg",
+    "latitude": 48.8918,
+    "longitude": 2.22959,
+    "state": null,
+    "wikidata": "Q666483"
+  },
+  {
+    "name": "Tour Aurore",
+    "year": "1971",
+    "height": 131.0,
+    "image": null,
+    "latitude": 48.89,
+    "longitude": 2.24736,
+    "state": null,
+    "wikidata": "Q2016004"
+  },
+  {
+    "name": "Tour D2",
+    "year": "2014",
+    "height": 171.0,
+    "image": null,
+    "latitude": 48.890277777,
+    "longitude": 2.247777777,
+    "state": null,
+    "wikidata": "Q2040985"
+  },
+  {
+    "name": "Tour Carpe Diem",
+    "year": "2013",
+    "height": 166.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carpe%20Diem%20cot%C3%A9%20esplanade%20de%20la%20d%C3%A9fense.jpg",
+    "latitude": 48.8914,
+    "longitude": 2.24583,
+    "state": null,
+    "wikidata": "Q2041005"
+  },
+  {
+    "name": "Tour Hekla",
+    "year": "2022",
+    "height": 220.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20tour%20Hekla%20janvier%202022.jpg",
+    "latitude": 48.8889,
+    "longitude": 2.23528,
+    "state": null,
+    "wikidata": "Q17640070"
+  },
+  {
+    "name": "Tour Trinity",
+    "year": "2020",
+    "height": 167.0,
+    "image": null,
+    "latitude": 48.8928,
+    "longitude": 2.24111,
+    "state": null,
+    "wikidata": "Q17640073"
+  },
+  {
+    "name": "Tour Saint-Gobain",
+    "year": "2019",
+    "height": 177.95,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Saint-Gobain%20%2842123160505%29.jpg",
+    "latitude": 48.8894,
+    "longitude": 2.25139,
+    "state": null,
+    "wikidata": "Q18380158"
+  },
+  {
+    "name": "Q2363577",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.8488,
+    "longitude": 2.28421,
+    "state": null,
+    "wikidata": "Q2363577"
+  },
+  {
+    "name": "Q2375479",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.9563,
+    "longitude": 2.2955,
+    "state": null,
+    "wikidata": "Q2375479"
+  },
+  {
+    "name": "Tour Sequana",
+    "year": "2010",
+    "height": 100.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20from%20the%20Eiffel%20Tower%2C%20April%202011%20004.jpg",
+    "latitude": 48.8334,
+    "longitude": 2.26886,
+    "state": null,
+    "wikidata": "Q2376935"
+  },
+  {
+    "name": "Tour Sequoia",
+    "year": "1990",
+    "height": 119.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20de%20la%20salle%20de%20formation.jpg",
+    "latitude": 48.894,
+    "longitude": 2.24,
+    "state": null,
+    "wikidata": "Q2412928"
+  },
+  {
+    "name": "L'archipel",
+    "year": "2021",
+    "height": 105.69,
+    "image": null,
+    "latitude": 48.89727195,
+    "longitude": 2.22669743,
+    "state": null,
+    "wikidata": "Q104327182"
+  },
+  {
+    "name": "Tour Eria",
+    "year": "2021",
+    "height": null,
+    "image": null,
+    "latitude": 48.886379166,
+    "longitude": 2.249848333,
+    "state": null,
+    "wikidata": "Q105516029"
+  },
+  {
+    "name": "Tour Skylight",
+    "year": "2017",
+    "height": 76.77,
+    "image": null,
+    "latitude": 48.893103333,
+    "longitude": 2.231856416,
+    "state": null,
+    "wikidata": "Q106008631"
+  },
+  {
+    "name": "Résidence Campuséa",
+    "year": "2018",
+    "height": 75.0,
+    "image": null,
+    "latitude": 48.88841025,
+    "longitude": 2.235239166,
+    "state": null,
+    "wikidata": "Q106868216"
+  },
+  {
+    "name": "Résidence Altana",
+    "year": "2019",
+    "height": 45.0,
+    "image": null,
+    "latitude": 48.892334166,
+    "longitude": 2.227190555,
+    "state": null,
+    "wikidata": "Q106873555"
+  },
+  {
+    "name": "Tour Alicante",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q20725161"
+  },
+  {
+    "name": "Tour Chassagne",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.8917,
+    "longitude": 2.2311,
+    "state": null,
+    "wikidata": "Q9360324"
+  },
+  {
+    "name": "Tours Sisters",
+    "year": "2025",
+    "height": null,
+    "image": null,
+    "latitude": 48.893889,
+    "longitude": 2.238333,
+    "state": null,
+    "wikidata": "Q21009432"
+  },
+  {
+    "name": "Paris Tribunal",
+    "year": "2020",
+    "height": 160.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rue%20du%20Bastion%20Paris.jpg",
+    "latitude": 48.89465,
+    "longitude": 2.31066,
+    "state": null,
+    "wikidata": "Q2974817"
+  },
+  {
+    "name": "Hermitage Plaza",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.888947222,
+    "longitude": 2.253638888,
+    "state": null,
+    "wikidata": "Q2976302"
+  },
+  {
+    "name": "Tours Société Générale",
+    "year": "1995",
+    "height": null,
+    "image": null,
+    "latitude": 48.891944444,
+    "longitude": 2.230555555,
+    "state": null,
+    "wikidata": "Q3052184"
+  },
+  {
+    "name": "Tour Ariane",
+    "year": "1975",
+    "height": 152.0,
+    "image": null,
+    "latitude": 48.889444444,
+    "longitude": 2.243611111,
+    "state": null,
+    "wikidata": "Q3090076"
+  },
+  {
+    "name": "Tour Égée",
+    "year": "1999",
+    "height": 155.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20La%20D%C3%A9fense%20-%20panoramio%20%285%29.jpg",
+    "latitude": 48.8965,
+    "longitude": 2.23847,
+    "state": null,
+    "wikidata": "Q3090088"
+  },
+  {
+    "name": "Tour Initiale",
+    "year": "1966",
+    "height": 109.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parvis%20%40%20La%20D%C3%A9fense%20%40%20Paris%20%2835022105962%29.jpg",
+    "latitude": 48.886944444,
+    "longitude": 2.251388888,
+    "state": null,
+    "wikidata": "Q3090101"
+  },
+  {
+    "name": "Tour Pleyel",
+    "year": "1973",
+    "height": 143.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20240516%20190025%20-%20Copie.jpg",
+    "latitude": 48.92,
+    "longitude": 2.345,
+    "state": null,
+    "wikidata": "Q3090112"
+  },
+  {
+    "name": "Tour France",
+    "year": "1973",
+    "height": 126.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20France.JPG",
+    "latitude": 48.883056,
+    "longitude": 2.247639,
+    "state": null,
+    "wikidata": "Q3090121"
+  },
+  {
+    "name": "Tour Légende",
+    "year": "2001",
+    "height": 70.0,
+    "image": null,
+    "latitude": 48.889722222,
+    "longitude": 2.241388888,
+    "state": null,
+    "wikidata": "Q3090555"
+  },
+  {
+    "name": "Tour Défense 2000",
+    "year": "1974",
+    "height": 134.0,
+    "image": null,
+    "latitude": 48.887504722,
+    "longitude": 2.2366775,
+    "state": null,
+    "wikidata": "Q3142331"
+  },
+  {
+    "name": "Hyatt Regency Paris Etoile",
+    "year": "1974",
+    "height": 137.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hyatt%20Regency%20Paris%20%C3%89toile%2C%207%20February%202014.jpg",
+    "latitude": 48.8802,
+    "longitude": 2.2843,
+    "state": null,
+    "wikidata": "Q3142395"
+  },
+  {
+    "name": "Hôtel Novotel Paris Tour Eiffel",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.8497,
+    "longitude": 2.28361,
+    "state": null,
+    "wikidata": "Q3145613"
+  },
+  {
+    "name": "Tours Odyssey",
+    "year": "2022",
+    "height": 187.0,
+    "image": null,
+    "latitude": 48.890884722,
+    "longitude": 2.249476111,
+    "state": null,
+    "wikidata": "Q110407965"
+  },
+  {
+    "name": "Sky 56",
+    "year": null,
+    "height": 56.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sky%2056%20-%2008.02.17.jpg",
+    "latitude": 45.75338,
+    "longitude": 4.861156,
+    "state": null,
+    "wikidata": "Q28873276"
+  },
+  {
+    "name": "Q28952560",
+    "year": null,
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/All%C3%A9es%20Jean%20Jaur%C3%A8s%20et%20M%C3%A9diath%C3%A8que%20Jos%C3%A9%20Cabanis.jpg",
+    "latitude": 43.610272,
+    "longitude": 1.4536722,
+    "state": null,
+    "wikidata": "Q28952560"
+  },
+  {
+    "name": "Tour Adria",
+    "year": "2002",
+    "height": 155.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20La%20D%C3%A9fense%20-%20panoramio%20%282%29.jpg",
+    "latitude": 48.895,
+    "longitude": 2.236666666,
+    "state": null,
+    "wikidata": "Q3533014"
+  },
+  {
+    "name": "CMA CGM Tower",
+    "year": "2011",
+    "height": 147.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Digue%20du%20Fort%20Saint-Jean%2C%20Marseille%20-%20panoramio%20%281%29.jpg",
+    "latitude": 43.315038888,
+    "longitude": 5.365805555,
+    "state": null,
+    "wikidata": "Q3533034"
+  },
+  {
+    "name": "Tour Duo",
+    "year": "2022",
+    "height": 180.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20tours%20Duo%20c%C3%B4t%C3%A9%20Seine.jpg",
+    "latitude": 48.8248,
+    "longitude": 2.38296,
+    "state": null,
+    "wikidata": "Q3533060"
+  },
+  {
+    "name": "Esso Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.8908,
+    "longitude": 2.24417,
+    "state": null,
+    "wikidata": "Q3533073"
+  },
+  {
+    "name": "Tour Eqho",
+    "year": "1988",
+    "height": 131.0,
+    "image": null,
+    "latitude": 48.892222222,
+    "longitude": 2.246666666,
+    "state": null,
+    "wikidata": "Q3533077"
+  },
+  {
+    "name": "Tour Europlaza",
+    "year": "1972",
+    "height": 135.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20D%C3%A9fense%20-%20Paris%20photo5.jpg",
+    "latitude": 48.891666666,
+    "longitude": 2.245,
+    "state": null,
+    "wikidata": "Q3533084"
+  },
+  {
+    "name": "Tour Franklin",
+    "year": "1972",
+    "height": 116.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Franklin.JPG",
+    "latitude": 48.889166666,
+    "longitude": 2.240277777,
+    "state": null,
+    "wikidata": "Q3533093"
+  },
+  {
+    "name": "Tour La Villette",
+    "year": "1972",
+    "height": 125.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubervilliers%20hlm%20night.jpg",
+    "latitude": 48.901666666,
+    "longitude": 2.387777777,
+    "state": null,
+    "wikidata": "Q3533107"
+  },
+  {
+    "name": "Tour Les Poissons",
+    "year": "1970",
+    "height": 150.0,
+    "image": null,
+    "latitude": 48.8944,
+    "longitude": 2.25167,
+    "state": null,
+    "wikidata": "Q3533119"
+  },
+  {
+    "name": "Tour Majunga",
+    "year": "2014",
+    "height": 194.0,
+    "image": null,
+    "latitude": 48.8888,
+    "longitude": 2.24353,
+    "state": null,
+    "wikidata": "Q3533127"
+  },
+  {
+    "name": "Tour Neptune",
+    "year": "1975",
+    "height": 113.0,
+    "image": null,
+    "latitude": 48.8895,
+    "longitude": 2.25417,
+    "state": null,
+    "wikidata": "Q3533139"
+  },
+  {
+    "name": "Tour Perret",
+    "year": "1949",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20gare%20d%27Amiens%20vue%20par%20dessus%20les%20marquises.JPG",
+    "latitude": 49.8909,
+    "longitude": 2.3063,
+    "state": null,
+    "wikidata": "Q3533158"
+  },
+  {
+    "name": "Tour Silex 2",
+    "year": "2021",
+    "height": 129.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20silex%202%20juin%202020.jpg",
+    "latitude": 45.759,
+    "longitude": 4.85547,
+    "state": null,
+    "wikidata": "Q3533185"
+  },
+  {
+    "name": "Tour Signal",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.8915,
+    "longitude": 2.23364,
+    "state": null,
+    "wikidata": "Q3533187"
+  },
+  {
+    "name": "Tour Super-Italie",
+    "year": "1974",
+    "height": 112.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Poterne-station-tramway.jpg",
+    "latitude": 48.821666666,
+    "longitude": 2.359166666,
+    "state": null,
+    "wikidata": "Q3533192"
+  },
+  {
+    "name": "Tour Thiers",
+    "year": "1975",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tout%20Thiers%20Nancy.jpg",
+    "latitude": 48.69055,
+    "longitude": 6.17489,
+    "state": null,
+    "wikidata": "Q3533200"
+  },
+  {
+    "name": "Tour Totem",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 48.8501,
+    "longitude": 2.28372,
+    "state": null,
+    "wikidata": "Q3533202"
+  },
+  {
+    "name": "Triangle",
+    "year": "2021",
+    "height": 180.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Triangle%20-%20Juillet%202025.jpg",
+    "latitude": 48.831666666,
+    "longitude": 2.285833333,
+    "state": null,
+    "wikidata": "Q3533204"
+  },
+  {
+    "name": "Tour de Lille",
+    "year": "1995",
+    "height": 116.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20de%20Lille%202.jpg",
+    "latitude": 50.6386,
+    "longitude": 3.07639,
+    "state": null,
+    "wikidata": "Q3533359"
+  },
+  {
+    "name": "Les Mercuriales",
+    "year": "1975",
+    "height": 122.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foire%20du%20Tr%C3%B4ne%202023%20-%20vue%20vers%20le%20nord%20et%20les%20tours%20Mercuriales.jpg",
+    "latitude": 48.867222222,
+    "longitude": 2.415277777,
+    "state": null,
+    "wikidata": "Q3535524"
+  },
+  {
+    "name": "The Link",
+    "year": "2026",
+    "height": 242.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Link%20-%20Juin%202025.jpg",
+    "latitude": 48.888094166,
+    "longitude": 2.249304722,
+    "state": null,
+    "wikidata": "Q30303011"
+  },
+  {
+    "name": "Tour des Jardins de l'Arche",
+    "year": "2024",
+    "height": null,
+    "image": null,
+    "latitude": 48.895833333,
+    "longitude": 2.2325,
+    "state": null,
+    "wikidata": "Q30738616"
+  },
+  {
+    "name": "Reuze Tower",
+    "year": null,
+    "height": 88.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dunkerque%20tour.jpg",
+    "latitude": 51.038277777,
+    "longitude": 2.377916666,
+    "state": null,
+    "wikidata": "Q51798999"
+  },
+  {
+    "name": "Tour La Marseillaise",
+    "year": "2018",
+    "height": 136.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bassin%20de%20la%20Joliette%20%40%20Rade%20de%20Marseille.jpg",
+    "latitude": 43.313139,
+    "longitude": 5.366889,
+    "state": null,
+    "wikidata": "Q58208336"
+  }
+]

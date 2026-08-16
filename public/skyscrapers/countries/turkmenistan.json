@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Turkmenistan Tower",
+    "year": "2011",
+    "height": null,
+    "image": null,
+    "latitude": 37.862586111,
+    "longitude": 58.238169444,
+    "state": null,
+    "wikidata": "Q1407337"
+  },
+  {
+    "name": "Yyldyz Hotel",
+    "year": "2013",
+    "height": 107.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yyldyz%20Hotel%20%281%29%20%2845250495235%29.jpg",
+    "latitude": 37.929611111,
+    "longitude": 58.333361111,
+    "state": null,
+    "wikidata": "Q15120372"
+  }
+]

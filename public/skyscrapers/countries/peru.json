@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Q16641588",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -12.09068333,
+    "longitude": -77.02383056,
+    "state": null,
+    "wikidata": "Q16641588"
+  },
+  {
+    "name": "Chocavento Tower",
+    "year": "2001",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Canaval%20%26%20Moreyra.jpg",
+    "latitude": -12.097607,
+    "longitude": -77.020573,
+    "state": null,
+    "wikidata": "Q5103499"
+  },
+  {
+    "name": "Torre Banco de la Nación",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Banco%20de%20la%20Naci%C3%B3n%20en%20Lima%20-%20Per%C3%BA.jpg",
+    "latitude": -12.0872,
+    "longitude": -77.0005,
+    "state": null,
+    "wikidata": "Q18963386"
+  },
+  {
+    "name": "Edificio Tacna-Colmena",
+    "year": "1960",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20Tacna-Colmena%20en%20Lima%2001.jpg",
+    "latitude": -12.0487,
+    "longitude": -77.0388,
+    "state": null,
+    "wikidata": "Q5818162"
+  },
+  {
+    "name": "Q5818252",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EdificioPetroPeru.jpg",
+    "latitude": -12.0979,
+    "longitude": -77.0249,
+    "state": null,
+    "wikidata": "Q5818252"
+  },
+  {
+    "name": "Westin Lima Hotel & Convention Center",
+    "year": "2011",
+    "height": null,
+    "image": null,
+    "latitude": -12.09158783,
+    "longitude": -77.02456483,
+    "state": null,
+    "wikidata": "Q5903491"
+  },
+  {
+    "name": "Q137426592",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuelta%20por%20Paseo%20de%20los%20Heroes%20Navales%2006.jpg",
+    "latitude": -12.056207042,
+    "longitude": -77.037112045,
+    "state": null,
+    "wikidata": "Q137426592"
+  }
+]

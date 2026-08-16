@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AON Hanoi Landmark Tower",
+    "year": "2011",
+    "height": 346.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B2a%20nh%C3%A0%20Keangnam%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20H%C3%A0%20N%E1%BB%99i%20001.jpg",
+    "latitude": 21.01732222,
+    "longitude": 105.78405278,
+    "state": null,
+    "wikidata": "Q609140"
+  },
+  {
+    "name": "Bitexco Financial Tower",
+    "year": "2010",
+    "height": 265.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DJI%200550-HDR-Pano%20Bitexco%20Financial%20Tower.jpg",
+    "latitude": 10.771666666,
+    "longitude": 106.704444444,
+    "state": null,
+    "wikidata": "Q638512"
+  },
+  {
+    "name": "Vincom Center Dong Khoi",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincom%20Center%2C%20Ciudad%20de%20Ho%20Chi%20Minh%2C%20Vietnam%20%2836608916004%29.jpg",
+    "latitude": 10.778103,
+    "longitude": 106.70195,
+    "state": null,
+    "wikidata": "Q13447090"
+  },
+  {
+    "name": "Lotte Center Hanoi",
+    "year": "2014",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lotte%20Center%20Hanoi%202.jpg",
+    "latitude": 21.03235,
+    "longitude": 105.8126,
+    "state": null,
+    "wikidata": "Q6684904"
+  },
+  {
+    "name": "Landmark 81",
+    "year": "2018",
+    "height": 461.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Landmark%2081%20in%202021.jpg",
+    "latitude": 10.795,
+    "longitude": 106.721944444,
+    "state": null,
+    "wikidata": "Q18640924"
+  },
+  {
+    "name": "VietinBank Business Center Office Tower",
+    "year": "2018",
+    "height": 363.0,
+    "image": null,
+    "latitude": 21.081778,
+    "longitude": 105.790161,
+    "state": null,
+    "wikidata": "Q15549825"
+  },
+  {
+    "name": "Vietcombank Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vietcombank%20Tower.jpg",
+    "latitude": 10.775916666,
+    "longitude": 106.705472222,
+    "state": null,
+    "wikidata": "Q20026285"
+  },
+  {
+    "name": "Q109439521",
+    "year": null,
+    "height": 226.0,
+    "image": null,
+    "latitude": 20.98899,
+    "longitude": 105.94206,
+    "state": null,
+    "wikidata": "Q109439521"
+  },
+  {
+    "name": "Empire City tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q24955960"
+  },
+  {
+    "name": "Saigon Times Square",
+    "year": "2011",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Times%20Square%20building%20%2822-36%20Nguy%E1%BB%85n%20Hu%E1%BB%87%29.jpg",
+    "latitude": 10.77391,
+    "longitude": 106.70477,
+    "state": null,
+    "wikidata": "Q6352680"
+  },
+  {
+    "name": "Saigon Trade Center",
+    "year": "1997",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saigon%20Trade%20Center%20v%C6%B0%C6%A1n%20m%C3%ACnh%20trong%20n%E1%BA%AFng.jpg",
+    "latitude": 10.7717,
+    "longitude": 106.704,
+    "state": null,
+    "wikidata": "Q6353162"
+  },
+  {
+    "name": "IFC One Saigon",
+    "year": null,
+    "height": 195.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saigon%20M%26C.JPG",
+    "latitude": 10.7717,
+    "longitude": 106.704,
+    "state": null,
+    "wikidata": "Q6351258"
+  },
+  {
+    "name": "Saigon Centre Tower 1",
+    "year": "1997",
+    "height": 106.0,
+    "image": null,
+    "latitude": 10.7717,
+    "longitude": 106.704,
+    "state": null,
+    "wikidata": "Q122340123"
+  },
+  {
+    "name": "Saigon Centre Tower 2",
+    "year": "2017",
+    "height": 193.7,
+    "image": null,
+    "latitude": 10.7717,
+    "longitude": 106.704,
+    "state": null,
+    "wikidata": "Q122340198"
+  },
+  {
+    "name": "Q47037503",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vinata%2C%20The%20Manor%2C%20H%C3%A0%20N%E1%BB%99i%20002.JPG",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q47037503"
+  }
+]

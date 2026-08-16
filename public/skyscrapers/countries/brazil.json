@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Andraus Building",
+    "year": "1962",
+    "height": 115.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/30-12-2008%20017.%28By%20Felipe%20Mostarda%29.JPG",
+    "latitude": -23.54150833,
+    "longitude": -46.64236111,
+    "state": null,
+    "wikidata": "Q492112"
+  },
+  {
+    "name": "Edifício Copan",
+    "year": "1966",
+    "height": 118.43,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20Copan%2C%20SP.jpg",
+    "latitude": -23.546611,
+    "longitude": -46.644361,
+    "state": null,
+    "wikidata": "Q632566"
+  },
+  {
+    "name": "Joelma Building",
+    "year": null,
+    "height": 94.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20Joelma%20-%20Pra%C3%A7a%20da%20Bandeira.jpg",
+    "latitude": -23.54958333,
+    "longitude": -46.64069444,
+    "state": null,
+    "wikidata": "Q14084282"
+  },
+  {
+    "name": "E-Tower",
+    "year": "2005",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/E-Tower%20%28By%20Felipe%20Mostarda%29.jpg",
+    "latitude": -23.59375,
+    "longitude": -46.690396,
+    "state": null,
+    "wikidata": "Q900353"
+  },
+  {
+    "name": "Company Business Towers",
+    "year": "2013",
+    "height": 136.0,
+    "image": null,
+    "latitude": -23.64027778,
+    "longitude": -46.72222222,
+    "state": null,
+    "wikidata": "Q918489"
+  },
+  {
+    "name": "Martinelli Building",
+    "year": "1929",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20Martinelli%2001.JPG",
+    "latitude": -23.5456,
+    "longitude": -46.6352,
+    "state": null,
+    "wikidata": "Q6777115"
+  },
+  {
+    "name": "Mirante do Vale",
+    "year": "1966",
+    "height": 170.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mirante%20do%20vale%20Building%28by%20felipe%20mostarda%29.JPG",
+    "latitude": -23.5422,
+    "longitude": -46.635422,
+    "state": null,
+    "wikidata": "Q42258"
+  },
+  {
+    "name": "Sede do BankBoston",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bank%20Boston%20-%20sede%20%27.JPG",
+    "latitude": -23.617078,
+    "longitude": -46.699192,
+    "state": null,
+    "wikidata": "Q127172"
+  },
+  {
+    "name": "Edifício Altino Arantes",
+    "year": "1947",
+    "height": 161.22,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20do%20Banespa%20%28cropped%29.jpg",
+    "latitude": -23.545675,
+    "longitude": -46.6341,
+    "state": null,
+    "wikidata": "Q169420"
+  },
+  {
+    "name": "Edifício Itália",
+    "year": "1965",
+    "height": 165.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20It%C3%A1lia%2C%20SP.jpg",
+    "latitude": -23.545417,
+    "longitude": -46.643611,
+    "state": null,
+    "wikidata": "Q170610"
+  },
+  {
+    "name": "Centro Empresarial Nações Unidas",
+    "year": "1999",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Paulo%2C%20Brazil%20%283%29.jpg",
+    "latitude": -23.610555555,
+    "longitude": -46.697111111,
+    "state": null,
+    "wikidata": "Q5062831"
+  },
+  {
+    "name": "Plaza Centenário",
+    "year": "1995",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Centen%C3%A1rio%20Building%20%28By%20Felipe%20Mostarda%29.jpg",
+    "latitude": -23.60566,
+    "longitude": -46.69608,
+    "state": null,
+    "wikidata": "Q7203589"
+  },
+  {
+    "name": "Eldorado Business Tower",
+    "year": "2007",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eldorado%20Business%20tower%2C%20S%C3%A3o%20Paulo%2C%20Brazil.jpg",
+    "latitude": -23.573388888,
+    "longitude": -46.697666666,
+    "state": null,
+    "wikidata": "Q751824"
+  },
+  {
+    "name": "Edificio Avenida Central",
+    "year": "1961",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Largo%20da%20carioca%20-%20Infocentro.jpg",
+    "latitude": -22.907,
+    "longitude": -43.1774,
+    "state": null,
+    "wikidata": "Q5338043"
+  },
+  {
+    "name": "Edificio do Jornal A Noite",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EdificioANoite.jpg",
+    "latitude": -22.8973,
+    "longitude": -43.181,
+    "state": null,
+    "wikidata": "Q5338058"
+  },
+  {
+    "name": "São Vito Building",
+    "year": "1959",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sao%20vito2.JPG",
+    "latitude": -23.5425,
+    "longitude": -46.62833333,
+    "state": null,
+    "wikidata": "Q5338065"
+  },
+  {
+    "name": "Rio Sul Center",
+    "year": "1982",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20RioSul%2002.jpg",
+    "latitude": -22.957314,
+    "longitude": -43.176033,
+    "state": null,
+    "wikidata": "Q7335335"
+  },
+  {
+    "name": "Millennium Palace",
+    "year": null,
+    "height": 177.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Millennium%20Palace%20-%20pr%C3%A9dio%20mais%20alto%20do%20Brasil.JPG",
+    "latitude": -26.992501925,
+    "longitude": -48.629121736,
+    "state": null,
+    "wikidata": "Q18128054"
+  },
+  {
+    "name": "Infinity Coast",
+    "year": null,
+    "height": 240.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barra%20Norte%20com%20o%20Infinity%20Coast%20em%20destaque%20vista%20da%20Praia%20Central%20em%20dezembro%20de%202018%2C%20Balne%C3%A1rio%20Cambori%C3%BA%20SC%20%28cropped%29.jpg",
+    "latitude": -26.971219149,
+    "longitude": -48.633791198,
+    "state": null,
+    "wikidata": "Q18465383"
+  },
+  {
+    "name": "Royal Garden",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -23.425077464,
+    "longitude": -51.942261596,
+    "state": null,
+    "wikidata": "Q7374202"
+  },
+  {
+    "name": "Concordia Corporate Tower",
+    "year": "2018",
+    "height": 172.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Concordia%2002%2004%202018%20%283%29.jpg",
+    "latitude": -19.983638888,
+    "longitude": -43.946027777,
+    "state": null,
+    "wikidata": "Q84571315"
+  },
+  {
+    "name": "Mansão Wildberger",
+    "year": null,
+    "height": 141.96,
+    "image": null,
+    "latitude": -12.9959975,
+    "longitude": -38.5307505,
+    "state": null,
+    "wikidata": "Q98523666"
+  },
+  {
+    "name": "Torre Almirante",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -22.90715,
+    "longitude": -43.174711111,
+    "state": null,
+    "wikidata": "Q7826943"
+  },
+  {
+    "name": "Ventura Corporate Towers",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ventura%20Corporate%20Towers.jpg",
+    "latitude": -22.909,
+    "longitude": -43.181777777,
+    "state": null,
+    "wikidata": "Q7920367"
+  },
+  {
+    "name": "Dacon Building",
+    "year": "1981",
+    "height": 96.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20Dacon.jpg",
+    "latitude": -23.580583333,
+    "longitude": -46.684194444,
+    "state": null,
+    "wikidata": "Q5647541"
+  },
+  {
+    "name": "Mansão Morada dos Cardeais",
+    "year": "2006",
+    "height": 128.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mans%C3%A3o%20Morada%20dos%20Cardeais%20em%20junho%20de%202025.jpg",
+    "latitude": -12.988183333,
+    "longitude": -38.523372222,
+    "state": null,
+    "wikidata": "Q105452746"
+  },
+  {
+    "name": "Terrazzo Imperiale",
+    "year": "2007",
+    "height": 125.0,
+    "image": null,
+    "latitude": -13.001716666,
+    "longitude": -38.488516666,
+    "state": null,
+    "wikidata": "Q105452906"
+  },
+  {
+    "name": "Centro Médico Empresarial Vitraux",
+    "year": null,
+    "height": 121.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20Vitraux%20-%20Salvador%2C%20Bahia.jpg",
+    "latitude": -13.002344,
+    "longitude": -38.502869,
+    "state": null,
+    "wikidata": "Q105455835"
+  },
+  {
+    "name": "Alto das Nações",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -23.62932,
+    "longitude": -46.7119,
+    "state": null,
+    "wikidata": "Q106779205"
+  },
+  {
+    "name": "Epic Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -27.00534,
+    "longitude": -48.61481,
+    "state": null,
+    "wikidata": "Q106943784"
+  },
+  {
+    "name": "Hotel Horsa Nacional",
+    "year": "1972",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rocinha%20-%20S%C3%A3o%20Conrado.jpg",
+    "latitude": -22.99796611,
+    "longitude": -43.25711389,
+    "state": null,
+    "wikidata": "Q5911578"
+  },
+  {
+    "name": "Hotel Hilton Copacabana",
+    "year": "1976",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Windsor%20Atl%C3%A2ntica.jpg",
+    "latitude": -22.96454722,
+    "longitude": -43.17325833,
+    "state": null,
+    "wikidata": "Q8024571"
+  },
+  {
+    "name": "Edifício do Banco do Brasil",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20S%C3%A3o%20Paulo%202018%20202%20cropped.jpg",
+    "latitude": -23.54513889,
+    "longitude": -46.63483333,
+    "state": null,
+    "wikidata": "Q9293741"
+  },
+  {
+    "name": "Q9582859",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q9582859"
+  },
+  {
+    "name": "Mandarim Building",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mandarin%20Building%20%28By%20Felipe%20Mostarda%29.JPG",
+    "latitude": -23.604055555,
+    "longitude": -46.694916666,
+    "state": null,
+    "wikidata": "Q10270241"
+  },
+  {
+    "name": "Edifício Santos Dumont",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Rio%20de%20Janeiro%202019%20045.jpg",
+    "latitude": -22.9106,
+    "longitude": -43.1734,
+    "state": null,
+    "wikidata": "Q10270259"
+  },
+  {
+    "name": "Banco Sul Americano Building",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20Banco%20Sul%20Americano%2006.jpg",
+    "latitude": -23.5590832,
+    "longitude": -46.6588134,
+    "state": null,
+    "wikidata": "Q10270263"
+  },
+  {
+    "name": "Edifício do Tribunal de Justiça de São Paulo",
+    "year": "1971",
+    "height": 104.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antigohotelhilton.JPG",
+    "latitude": -23.546277777,
+    "longitude": -46.645583333,
+    "state": null,
+    "wikidata": "Q10303489"
+  },
+  {
+    "name": "Mansão Margarida Costa Pinto",
+    "year": "2008",
+    "height": 154.0,
+    "image": null,
+    "latitude": -12.992633,
+    "longitude": -38.525371,
+    "state": null,
+    "wikidata": "Q10323861"
+  },
+  {
+    "name": "Q10353582",
+    "year": "2012",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Premier%20Unique.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q10353582"
+  },
+  {
+    "name": "Q10387764",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Universe%20Life%20Square.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q10387764"
+  },
+  {
+    "name": "WTorre Plaza",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WTorre%20Plaza.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q10392824"
+  },
+  {
+    "name": "Q24036135",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pr%C3%A9dio%20comercial%20no%20centro%20empresarial%20de%20Alphaville%20em%20Barueri%20-%20S%C3%A3o%20Paulo%20132%203269.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q24036135"
+  },
+  {
+    "name": "Figueira Altos do Tatuapé",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Figueira%20Tatuap%C3%A9%205.jpg",
+    "latitude": -23.551377,
+    "longitude": -46.569724,
+    "state": null,
+    "wikidata": "Q108914086"
+  },
+  {
+    "name": "Edifício Banna",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -1.452236895,
+    "longitude": -48.478977955,
+    "state": null,
+    "wikidata": "Q117212818"
+  },
+  {
+    "name": "Heaven Tower Residence",
+    "year": "2010",
+    "height": 103.23,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heaven%20Tower%20Residence%2C%20Ja%C3%BA.jpg",
+    "latitude": -22.28444444,
+    "longitude": -48.54361111,
+    "state": null,
+    "wikidata": "Q5694759"
+  },
+  {
+    "name": "Helbor Dual Patteo Mogilar",
+    "year": "2016",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helbor%20Dual%20Patteo%20Mogilar%20%C3%A0%20dist%C3%A2ncia.jpg",
+    "latitude": -23.510033963,
+    "longitude": -46.191433235,
+    "state": null,
+    "wikidata": "Q108163547"
+  },
+  {
+    "name": "Lélio Gama 105",
+    "year": "1980",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/105%20L%C3%A9lio%20Gama%20St.%20%28Rio%20de%20Janeiro%29.jpg",
+    "latitude": -22.9097,
+    "longitude": -43.1783,
+    "state": null,
+    "wikidata": "Q4546579"
+  },
+  {
+    "name": "Platina 220",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Platina220%200322-2.jpg",
+    "latitude": -23.542694444,
+    "longitude": -46.577444444,
+    "state": null,
+    "wikidata": "Q43685037"
+  },
+  {
+    "name": "São Paulo Corporate Towers",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Paulo%20Corporate%20Towers.jpg",
+    "latitude": -23.591638888,
+    "longitude": -46.687833333,
+    "state": null,
+    "wikidata": "Q43686210"
+  },
+  {
+    "name": "Caramuru Building",
+    "year": "1949",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edif%C3%ADcio%20Caramuru.%20Salvador%207971.jpg",
+    "latitude": -12.971775,
+    "longitude": -38.513630555,
+    "state": null,
+    "wikidata": "Q48989184"
+  },
+  {
+    "name": "Senna Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -27.004777777,
+    "longitude": -48.616833333,
+    "state": null,
+    "wikidata": "Q130341649"
+  },
+  {
+    "name": "Edifício Parque Avenida",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Avenida%20Building%20in%20Paulista%20Avenue.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q123900199"
+  }
+]

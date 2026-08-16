@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Zunda Towers",
+    "year": "2017",
+    "height": 123.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Riga%20Constructions%20%2882409277%29.jpeg",
+    "latitude": 56.947297,
+    "longitude": 24.080067,
+    "state": null,
+    "wikidata": "Q6541959"
+  },
+  {
+    "name": "House of Press",
+    "year": null,
+    "height": 76.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Preses%20nams%20-%20panoramio%20%284%29.jpg",
+    "latitude": 56.94805556,
+    "longitude": 24.08611111,
+    "state": null,
+    "wikidata": "Q15219553"
+  }
+]

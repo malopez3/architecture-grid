@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Trust Bank Building",
+    "year": "1970",
+    "height": 140.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trust%20Bank%20Building.jpg",
+    "latitude": -26.206111111,
+    "longitude": 28.044722222,
+    "state": null,
+    "wikidata": "Q512913"
+  },
+  {
+    "name": "Carlton Centre",
+    "year": "1973",
+    "height": 222.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlton%20Centre%202.jpg",
+    "latitude": -26.205555555,
+    "longitude": 28.046666666,
+    "state": null,
+    "wikidata": "Q976172"
+  },
+  {
+    "name": "Michelangelo Towers",
+    "year": "2005",
+    "height": 140.0,
+    "image": null,
+    "latitude": -26.1064,
+    "longitude": 28.054,
+    "state": null,
+    "wikidata": "Q6836671"
+  },
+  {
+    "name": "Kine Centre",
+    "year": "1974",
+    "height": 123.0,
+    "image": null,
+    "latitude": -26.20458,
+    "longitude": 28.0463,
+    "state": null,
+    "wikidata": "Q6410662"
+  },
+  {
+    "name": "Highpoint Hillbrow",
+    "year": "1972",
+    "height": 105.0,
+    "image": null,
+    "latitude": -26.1894106,
+    "longitude": 28.0486043,
+    "state": null,
+    "wikidata": "Q16916277"
+  },
+  {
+    "name": "Portside Tower",
+    "year": "2014",
+    "height": 136.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Construction%20of%20Portside%20Building%20Cape%20Town%202012-2014.jpg",
+    "latitude": -33.916666666,
+    "longitude": 18.421944444,
+    "state": null,
+    "wikidata": "Q7232412"
+  },
+  {
+    "name": "Radiopark",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -26.1866414,
+    "longitude": 28.0108214,
+    "state": null,
+    "wikidata": "Q7281304"
+  },
+  {
+    "name": "Ponte City Apartments",
+    "year": "1975",
+    "height": 172.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20City%20%283464450399%29.jpg",
+    "latitude": -26.190556,
+    "longitude": 28.057083,
+    "state": null,
+    "wikidata": "Q1812844"
+  },
+  {
+    "name": "Schlesinger Building",
+    "year": "1965",
+    "height": 110.0,
+    "image": null,
+    "latitude": -26.1949341,
+    "longitude": 28.0410794,
+    "state": null,
+    "wikidata": "Q7431694"
+  },
+  {
+    "name": "Southern Life Centre",
+    "year": "1973",
+    "height": 138.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Southern%20Life%20Center%2C%20Johannesburg%2C%20South%20Africa.jpg",
+    "latitude": -26.2058,
+    "longitude": 28.0366,
+    "state": null,
+    "wikidata": "Q7570086"
+  },
+  {
+    "name": "Standard Bank Centre",
+    "year": "1970",
+    "height": 139.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JHFMARS%20Standard%20Bank%20Centre%2C%20cnr%20Fox%2C%20Hollard%2C%20Main%20and%20Simmonds%20str%20Johannesburg%20St%20no%201116010%20-%20Copy.jpg",
+    "latitude": -26.206594,
+    "longitude": 28.039383,
+    "state": null,
+    "wikidata": "Q7598177"
+  },
+  {
+    "name": "88 on Field",
+    "year": "1985",
+    "height": 147.0,
+    "image": null,
+    "latitude": -29.858,
+    "longitude": 31.0221,
+    "state": null,
+    "wikidata": "Q16057771"
+  },
+  {
+    "name": "UCS Building",
+    "year": "1976",
+    "height": 128.0,
+    "image": null,
+    "latitude": -26.194548,
+    "longitude": 28.039773,
+    "state": null,
+    "wikidata": "Q7864129"
+  },
+  {
+    "name": "Triangle House",
+    "year": "1993",
+    "height": null,
+    "image": null,
+    "latitude": -33.918942,
+    "longitude": 18.422356,
+    "state": null,
+    "wikidata": "Q24036196"
+  },
+  {
+    "name": "Hekro Towers",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -26.199508,
+    "longitude": 28.043466,
+    "state": null,
+    "wikidata": "Q5701352"
+  },
+  {
+    "name": "Golden Acre",
+    "year": "1979",
+    "height": 110.0,
+    "image": null,
+    "latitude": -33.922918,
+    "longitude": 18.423601,
+    "state": null,
+    "wikidata": "Q31740311"
+  },
+  {
+    "name": "South African Reserve Bank Building",
+    "year": "1988",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/South%20African%20Reserve%20Bank%20Building%20in%20Pretoria.jpg",
+    "latitude": -25.745306718,
+    "longitude": 28.196007116,
+    "state": null,
+    "wikidata": "Q59159622"
+  },
+  {
+    "name": "120 End Street",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": -26.1977,
+    "longitude": 28.053,
+    "state": null,
+    "wikidata": "Q4548102"
+  }
+]

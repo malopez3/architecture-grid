@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Atlas Tower",
+    "year": "1999",
+    "height": 116.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Millennium%20plaza%20warsaw.JPG",
+    "latitude": 52.22489167,
+    "longitude": 20.99127778,
+    "state": null,
+    "wikidata": "Q587331"
+  },
+  {
+    "name": "Sea Towers",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/POL.Gdynia.SeaTowers.2009.2.jpg",
+    "latitude": 54.521666666,
+    "longitude": 18.548888888,
+    "state": null,
+    "wikidata": "Q594451"
+  },
+  {
+    "name": "Oxford Tower",
+    "year": "1978",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Biurowiec%20Cha%C5%82ubi%C5%84skiego%208%20w%20Warszawie%202020.jpg",
+    "latitude": 52.22611111,
+    "longitude": 21.00416667,
+    "state": null,
+    "wikidata": "Q247799"
+  },
+  {
+    "name": "Złota 44",
+    "year": "2017",
+    "height": 192.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Warszawa%20Z%C5%82ota%2044%20z%20PKiN.jpg",
+    "latitude": 52.23111111,
+    "longitude": 21.0025,
+    "state": null,
+    "wikidata": "Q249053"
+  },
+  {
+    "name": "Złote Tarasy",
+    "year": "2007",
+    "height": 105.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Z%C5%82ote%20Tarasy%202016.jpg",
+    "latitude": 52.230139,
+    "longitude": 21.002641,
+    "state": null,
+    "wikidata": "Q249065"
+  },
+  {
+    "name": "Altus Skyscraper",
+    "year": "2003",
+    "height": 125.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%2005.15%20Altus.JPG",
+    "latitude": 50.26155,
+    "longitude": 19.02444444,
+    "state": null,
+    "wikidata": "Q446265"
+  },
+  {
+    "name": "Warsaw Trade Tower",
+    "year": "1999",
+    "height": 208.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20%22Warsaw%20Trade%20Tower%22.jpg",
+    "latitude": 52.235555555,
+    "longitude": 20.983055555,
+    "state": null,
+    "wikidata": "Q1049868"
+  },
+  {
+    "name": "InterContinental Warsaw",
+    "year": "2003",
+    "height": 163.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/InterContinental%20z%20Emili%20Plater%20Warszawa.jpg",
+    "latitude": 52.232307,
+    "longitude": 21.002544,
+    "state": null,
+    "wikidata": "Q1665800"
+  },
+  {
+    "name": "Pazim",
+    "year": "1992",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Szczecin%20PAZIM.jpg",
+    "latitude": 53.4326,
+    "longitude": 14.5557,
+    "state": null,
+    "wikidata": "Q6541791"
+  },
+  {
+    "name": "Lilium Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 52.22722222,
+    "longitude": 21.00333333,
+    "state": null,
+    "wikidata": "Q6547865"
+  },
+  {
+    "name": "DOKP Skyscraper in Katowice",
+    "year": "1974",
+    "height": 90.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20-%20DOKP.jpg",
+    "latitude": 50.26432778,
+    "longitude": 19.02571111,
+    "state": null,
+    "wikidata": "Q1154743"
+  },
+  {
+    "name": "Spektrum",
+    "year": "2003",
+    "height": 128.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Budynek%20TP%20SA%20w%20Warszawie.jpg",
+    "latitude": 52.235,
+    "longitude": 20.999166666,
+    "state": null,
+    "wikidata": "Q1292228"
+  },
+  {
+    "name": "Warsaw Spire",
+    "year": "2016",
+    "height": 220.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warsaw%20Spire%2C%20Poland%2022%20June%202016.jpg",
+    "latitude": 52.233055555,
+    "longitude": 20.984722222,
+    "state": null,
+    "wikidata": "Q1357866"
+  },
+  {
+    "name": "Palace of Culture and Science",
+    "year": "1955",
+    "height": 230.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%82ac%20Kultury%20i%20Nauki%202019.jpg",
+    "latitude": 52.231666666,
+    "longitude": 21.006388888,
+    "state": null,
+    "wikidata": "Q167566"
+  },
+  {
+    "name": "Hanza Tower",
+    "year": "2021",
+    "height": 95.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Szczecin%20Hanza%20Tower%20dron%20%281%29.jpg",
+    "latitude": 53.4378,
+    "longitude": 14.5536,
+    "state": null,
+    "wikidata": "Q16841056"
+  },
+  {
+    "name": "Sky Garden",
+    "year": "1980",
+    "height": 65.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Szczecin%20-%20Sky%20Garden%20-%2018.01.2026%2013-39-44.jpg",
+    "latitude": 53.435481,
+    "longitude": 14.539681,
+    "state": null,
+    "wikidata": "Q16933726"
+  },
+  {
+    "name": "Intraco I",
+    "year": "1975",
+    "height": 138.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Intraco%20I%20-%20radek%20ko%C5%82akowski.jpg",
+    "latitude": 52.254444444,
+    "longitude": 20.996666666,
+    "state": null,
+    "wikidata": "Q739446"
+  },
+  {
+    "name": "Centrum LIM",
+    "year": "1989",
+    "height": 140.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warszawa%20LIM%202007.jpg",
+    "latitude": 52.22732626,
+    "longitude": 21.00461483,
+    "state": null,
+    "wikidata": "Q769503"
+  },
+  {
+    "name": "Cosmopolitan Twarda 2/4",
+    "year": "2014",
+    "height": 160.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/POL%20Warszawa%20Cosmopolitan%2001.jpg",
+    "latitude": 52.235277777,
+    "longitude": 21.001388888,
+    "state": null,
+    "wikidata": "Q1136181"
+  },
+  {
+    "name": "Błękitny Wieżowiec",
+    "year": "1991",
+    "height": 120.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C5%82%C4%99kitny%20Wie%C5%BCowiec%20w%20Warszawie%202023.jpg",
+    "latitude": 52.24440833,
+    "longitude": 21.00250556,
+    "state": null,
+    "wikidata": "Q885917"
+  },
+  {
+    "name": "PZU Tower in Warsaw",
+    "year": "2000",
+    "height": 97.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PZU%20Tower%202023.jpg",
+    "latitude": 52.23641111,
+    "longitude": 20.997975,
+    "state": null,
+    "wikidata": "Q2044934"
+  },
+  {
+    "name": "Centrum Biurowe Neptun",
+    "year": null,
+    "height": 85.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NeptunGdansk.jpg",
+    "latitude": 54.379507,
+    "longitude": 18.60507,
+    "state": null,
+    "wikidata": "Q86667422"
+  },
+  {
+    "name": "8 Korfantego Street in Katowice",
+    "year": "1968",
+    "height": 56.93,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20%C5%9Alizgowiec%20aerial%202025%20%282%29.jpg",
+    "latitude": 50.2625,
+    "longitude": 19.021666666,
+    "state": null,
+    "wikidata": "Q86674537"
+  },
+  {
+    "name": "Q88536960",
+    "year": "1960",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mur2DSC%201191.jpg",
+    "latitude": 52.24683,
+    "longitude": 21.00276,
+    "state": null,
+    "wikidata": "Q88536960"
+  },
+  {
+    "name": "AND2",
+    "year": null,
+    "height": 116.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andersia%20Silver%203.jpg",
+    "latitude": 52.401269,
+    "longitude": 16.924996,
+    "state": null,
+    "wikidata": "Q98591656"
+  },
+  {
+    "name": "Q22",
+    "year": "2016",
+    "height": 195.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Q22%20Warszawa%202016.jpg",
+    "latitude": 52.2356,
+    "longitude": 20.9978,
+    "state": null,
+    "wikidata": "Q15661493"
+  },
+  {
+    "name": "Q16599287",
+    "year": null,
+    "height": 88.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kielce%20SLR%20Targowa.JPG",
+    "latitude": 50.8764,
+    "longitude": 20.6317,
+    "state": null,
+    "wikidata": "Q16599287"
+  },
+  {
+    "name": "Wikimedia category",
+    "year": "1981",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20Stalexport%20skyscrapers%202018.jpg",
+    "latitude": 50.26341667,
+    "longitude": 19.01333333,
+    "state": null,
+    "wikidata": "Q2329263"
+  },
+  {
+    "name": "Renaissance Tower",
+    "year": "2001",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renaissance%20Tower%20i%20okolice.jpg",
+    "latitude": 52.22982,
+    "longitude": 20.97088,
+    "state": null,
+    "wikidata": "Q102045446"
+  },
+  {
+    "name": "35 Świętokrzyska Street in Warsaw",
+    "year": "1969",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warschau104DSC%201156.jpg",
+    "latitude": 52.23519,
+    "longitude": 21.00957,
+    "state": null,
+    "wikidata": "Q106283589"
+  },
+  {
+    "name": "15 Rejtana Street in Warsaw",
+    "year": "1980",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Budynek%20przy%20ul.%20Rejtana%2015%20w%20Warszawie%202020.jpg",
+    "latitude": 52.207278,
+    "longitude": 21.017889,
+    "state": null,
+    "wikidata": "Q107452370"
+  },
+  {
+    "name": "186 Puławska Street in Warsaw",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pulawska%2C%20Warsaw%2C%2020.07.2021%20%282%29.jpg",
+    "latitude": 52.18145,
+    "longitude": 21.02241,
+    "state": null,
+    "wikidata": "Q107620699"
+  },
+  {
+    "name": "P180",
+    "year": "2022",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ul.%20Pu%C5%82awska%20180%2C%20Warszawa.jpg",
+    "latitude": 52.183069681,
+    "longitude": 21.022775046,
+    "state": null,
+    "wikidata": "Q107641130"
+  },
+  {
+    "name": "Unique Tower, Warsaw",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/45-47%20and%2053-57%20Grzybowska%20Street%20in%20Warsaw%2C%20Royal%20Tulip%2C%20Leonardo%2C%20Pekao.jpg",
+    "latitude": 52.233695,
+    "longitude": 20.989621,
+    "state": null,
+    "wikidata": "Q107677025"
+  },
+  {
+    "name": "Q107862777",
+    "year": "2016",
+    "height": 45.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Biurowiec%20ul.%20Przeskok%202%20w%20Warszawie%202021.jpg",
+    "latitude": 52.23321,
+    "longitude": 21.01377,
+    "state": null,
+    "wikidata": "Q107862777"
+  },
+  {
+    "name": "Babka Tower",
+    "year": "2001",
+    "height": 105.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Babka%20Tower%202023a.jpg",
+    "latitude": 52.253888888,
+    "longitude": 20.984166666,
+    "state": null,
+    "wikidata": "Q2617194"
+  },
+  {
+    "name": "Sky Tower",
+    "year": "2012",
+    "height": 212.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2017%20Sky%20Tower%20we%20Wroc%C5%82awiu.jpg",
+    "latitude": 51.0944,
+    "longitude": 17.0194,
+    "state": null,
+    "wikidata": "Q2740354"
+  },
+  {
+    "name": "Q9173978",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Millenium1.JPG",
+    "latitude": 50.0884,
+    "longitude": 18.5434,
+    "state": null,
+    "wikidata": "Q9173978"
+  },
+  {
+    "name": "Biurowiec Wojewódzki",
+    "year": "1985",
+    "height": 105.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20JanFeb%202014%2050.JPG",
+    "latitude": 50.2472,
+    "longitude": 19.0161,
+    "state": null,
+    "wikidata": "Q9173980"
+  },
+  {
+    "name": "Blue Point in Warsaw",
+    "year": null,
+    "height": 65.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Biurowiec%20Blue%20Point%20w%20Warszawie%202019.jpg",
+    "latitude": 52.2411,
+    "longitude": 21.0822,
+    "state": null,
+    "wikidata": "Q9174585"
+  },
+  {
+    "name": "Q9184525",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carcade%20%C5%81%C3%B3d%C5%BA.jpg",
+    "latitude": 51.7604,
+    "longitude": 19.4564,
+    "state": null,
+    "wikidata": "Q9184525"
+  },
+  {
+    "name": "Haperowiec Skyscraper",
+    "year": "1969",
+    "height": 80.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20Haperowiec%202020.jpg",
+    "latitude": 50.264376,
+    "longitude": 19.018961,
+    "state": null,
+    "wikidata": "Q9286270"
+  },
+  {
+    "name": "2 Korfantego Street in Katowice",
+    "year": "1968",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Korfantego%202%20Katowice%20%2850033p%29.jpg",
+    "latitude": 50.2615,
+    "longitude": 19.0219,
+    "state": null,
+    "wikidata": "Q9335331"
+  },
+  {
+    "name": "Q9373887",
+    "year": null,
+    "height": 55.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Szczecin%20Osiedle%20Bandurskiego%20Wiezowiec%20Widok%201.jpg",
+    "latitude": 53.4551,
+    "longitude": 14.5611,
+    "state": null,
+    "wikidata": "Q9373887"
+  },
+  {
+    "name": "Pirelli Tower, Poznań",
+    "year": "1963",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Poznan%20Pirelli%20Tower%20all.JPG",
+    "latitude": 52.4087,
+    "longitude": 16.9078,
+    "state": null,
+    "wikidata": "Q9373890"
+  },
+  {
+    "name": "Zieleniak",
+    "year": null,
+    "height": 90.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zieleniak%202%20GD%202008%20ubt.jpeg",
+    "latitude": 54.3585,
+    "longitude": 18.6465,
+    "state": null,
+    "wikidata": "Q9390924"
+  },
+  {
+    "name": "Universal building",
+    "year": "1965",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rotunda%20i%20budynek%20Universalu%20w%20Warszawie%202016.jpg",
+    "latitude": 52.23061,
+    "longitude": 21.01278,
+    "state": null,
+    "wikidata": "Q108699004"
+  },
+  {
+    "name": "Bliska Wola Tower",
+    "year": "2022",
+    "height": 92.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bliska%20wola%20tower%20z%20dalsza.jpg",
+    "latitude": 52.227373,
+    "longitude": 20.956278,
+    "state": null,
+    "wikidata": "Q109837798"
+  },
+  {
+    "name": "Building of the Faculty of Natural Sciences",
+    "year": "1982",
+    "height": 84.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wysoko%C5%9Bciowiec%20%C5%BByleta%20w%20Sosnowcu%20-%202024.jpg",
+    "latitude": 50.29932,
+    "longitude": 19.13365,
+    "state": null,
+    "wikidata": "Q110071909"
+  },
+  {
+    "name": "Q110388426",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Unia%20Art%20Residence.jpg",
+    "latitude": 51.247694,
+    "longitude": 22.54675,
+    "state": null,
+    "wikidata": "Q110388426"
+  },
+  {
+    "name": "Q110388427",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 51.238028,
+    "longitude": 22.527361,
+    "state": null,
+    "wikidata": "Q110388427"
+  },
+  {
+    "name": "Q110388428",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Budynki%20UMCS.jpg",
+    "latitude": 51.245056,
+    "longitude": 22.541583,
+    "state": null,
+    "wikidata": "Q110388428"
+  },
+  {
+    "name": "Forest",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kompleks%20Forest%20w%20Warszawie%202023.jpg",
+    "latitude": 52.253997222,
+    "longitude": 20.982361111,
+    "state": null,
+    "wikidata": "Q110463157"
+  },
+  {
+    "name": "Resovia Office",
+    "year": "2020",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rejtana%2020b.jpg",
+    "latitude": 50.02704,
+    "longitude": 22.01621,
+    "state": null,
+    "wikidata": "Q113107093"
+  },
+  {
+    "name": "Professors House of the Silesian Technical Scientific Schools",
+    "year": "1931",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20Wojewodzka%2023%202024.jpg",
+    "latitude": 50.2558,
+    "longitude": 19.026,
+    "state": null,
+    "wikidata": "Q11694709"
+  },
+  {
+    "name": "JM Tower in Warsaw",
+    "year": "2011",
+    "height": 92.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JM%20Tower%20Warszawa%2001.JPG",
+    "latitude": 52.2342,
+    "longitude": 20.9897,
+    "state": null,
+    "wikidata": "Q11715065"
+  },
+  {
+    "name": "Q11837782",
+    "year": null,
+    "height": 61.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Szkieletor.jpg",
+    "latitude": 50.270972,
+    "longitude": 19.137111,
+    "state": null,
+    "wikidata": "Q11837782"
+  },
+  {
+    "name": "6 Bociana Street in Kraków",
+    "year": "1987",
+    "height": 60.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Krak%C3%B3w%2C%20ul.%20Bociana%206%20%28Okr%C4%85glak%29%3B%20fot.%2003.jpg",
+    "latitude": 50.09325,
+    "longitude": 19.95687,
+    "state": null,
+    "wikidata": "Q114425982"
+  },
+  {
+    "name": "Atrium 1",
+    "year": "2013",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Biurowiec%20atrium%201%20warszawa.jpg",
+    "latitude": 52.234089984,
+    "longitude": 20.99720624,
+    "state": null,
+    "wikidata": "Q116149804"
+  },
+  {
+    "name": "Atrium 2",
+    "year": "2016",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ciep%C5%82a%203%20pereca%201%20wej%C5%9Bcie%20do%20metra.jpg",
+    "latitude": 52.233873149,
+    "longitude": 20.996090442,
+    "state": null,
+    "wikidata": "Q116149857"
+  },
+  {
+    "name": "Varso Tower",
+    "year": "2021",
+    "height": 310.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Varso%2005.2022.jpg",
+    "latitude": 52.228891,
+    "longitude": 21.000101,
+    "state": null,
+    "wikidata": "Q116847270"
+  },
+  {
+    "name": "Q117454997",
+    "year": "1998",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Warszawa%20Jana%20Paw%C5%82a%20II%2061%2C%201.jpg",
+    "latitude": 52.247506883,
+    "longitude": 20.988015773,
+    "state": null,
+    "wikidata": "Q117454997"
+  },
+  {
+    "name": "Q118683181",
+    "year": "2015",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82odarzewska%2083%202023.jpg",
+    "latitude": 52.202732185,
+    "longitude": 20.94898264,
+    "state": null,
+    "wikidata": "Q118683181"
+  },
+  {
+    "name": "Wola Tower",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wola%20tower.jpg",
+    "latitude": 52.245754949,
+    "longitude": 20.960404754,
+    "state": null,
+    "wikidata": "Q118732516"
+  },
+  {
+    "name": "Q108150682",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CZ%20Office%20Park.jpg",
+    "latitude": 51.248528,
+    "longitude": 22.518778,
+    "state": null,
+    "wikidata": "Q108150682"
+  },
+  {
+    "name": "Q123172176",
+    "year": "1965",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Czerniakowska%2071%20z%20przystankiem.jpg",
+    "latitude": 52.202618517,
+    "longitude": 21.049174341,
+    "state": null,
+    "wikidata": "Q123172176"
+  },
+  {
+    "name": "The Bridge",
+    "year": "2025",
+    "height": 174.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Biurowiec%20the%20bridge.jpg",
+    "latitude": 52.233055555,
+    "longitude": 20.983333333,
+    "state": null,
+    "wikidata": "Q119730442"
+  },
+  {
+    "name": "Q43233179",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr%C3%B3wkowiec.png",
+    "latitude": 51.089694,
+    "longitude": 17.020389,
+    "state": null,
+    "wikidata": "Q43233179"
+  },
+  {
+    "name": "Olivia Star",
+    "year": "2018",
+    "height": 156.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gdansk%20Olivia%20BC.jpg",
+    "latitude": 54.403635,
+    "longitude": 18.570457,
+    "state": null,
+    "wikidata": "Q48842378"
+  },
+  {
+    "name": "Skyliner",
+    "year": "2020",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skyliner%20zza%20tor%C3%B3w.jpg",
+    "latitude": 52.229411,
+    "longitude": 20.983685,
+    "state": null,
+    "wikidata": "Q50220122"
+  },
+  {
+    "name": "Jerzego Waszyngtona 2B in Warsaw",
+    "year": "1963",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20Wdzi%C4%99czno%C5%9Bci%20%C5%BBo%C5%82nierzom%20Armii%20Radzieckiej%20w%20Warszawie%20lata%2060.%20XX%20wieku.jpg",
+    "latitude": 52.238196614,
+    "longitude": 21.053346559,
+    "state": null,
+    "wikidata": "Q60594534"
+  },
+  {
+    "name": "Mennica Legacy Tower",
+    "year": "2019",
+    "height": 141.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mennica%20Legacy%20Tower%202021.jpg",
+    "latitude": 52.232872222,
+    "longitude": 20.992719444,
+    "state": null,
+    "wikidata": "Q60854801"
+  },
+  {
+    "name": "Warsaw Unit",
+    "year": "2021",
+    "height": 220.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Unit%20PBPA.jpg",
+    "latitude": 52.230147,
+    "longitude": 20.985782,
+    "state": null,
+    "wikidata": "Q60862279"
+  },
+  {
+    "name": "Q131287632",
+    "year": "1969",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Warszawa%20widok%20z%20Varso%20na%20Zgod%C4%99%2013%2C%201.jpg",
+    "latitude": 52.23344385,
+    "longitude": 21.01084001,
+    "state": null,
+    "wikidata": "Q131287632"
+  },
+  {
+    "name": "Q131288403",
+    "year": "1969",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warszawa%20Sciana%20Wschodnia%20%28dron%29.jpg",
+    "latitude": 52.231673658,
+    "longitude": 21.011960389,
+    "state": null,
+    "wikidata": "Q131288403"
+  },
+  {
+    "name": "Q131346943",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PL%20Rzesz%C3%B3w%2C%20Elektromonta%C5%BC%20SA%20Rzesz%C3%B3w%2C%202021-03-01--08-16.jpg",
+    "latitude": 50.035406019,
+    "longitude": 22.00301526,
+    "state": null,
+    "wikidata": "Q131346943"
+  },
+  {
+    "name": "Q132317846",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 51.255916666,
+    "longitude": 22.557416666,
+    "state": null,
+    "wikidata": "Q132317846"
+  },
+  {
+    "name": "Q133502047",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 52.23474506,
+    "longitude": 20.989884515,
+    "state": null,
+    "wikidata": "Q133502047"
+  },
+  {
+    "name": "Q134029953",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Quorum%20Tower%20Wroc%C5%82aw%20%282026-05-23%29.jpg",
+    "latitude": 51.114861111,
+    "longitude": 17.018,
+    "state": null,
+    "wikidata": "Q134029953"
+  },
+  {
+    "name": "Q136653644",
+    "year": "2025",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al.%20Polski%20Walcz%C4%85cej%202%2C%20Warsaw%2C%20Frac%20supermarket.jpg",
+    "latitude": 52.206758,
+    "longitude": 21.050315,
+    "state": null,
+    "wikidata": "Q136653644"
+  },
+  {
+    "name": "Q136654248",
+    "year": "1999",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefana%20Okrzei%201A-10%2C%20Warszawa%20%281%29.jpg",
+    "latitude": 52.2488874,
+    "longitude": 21.029778354,
+    "state": null,
+    "wikidata": "Q136654248"
+  },
+  {
+    "name": "Q136674864",
+    "year": "2026",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Awinouj%C5%9Bcie%20-%20Sea%20Breeze%20-%2026.05.2026%2016-15-53.jpg",
+    "latitude": 53.908243738,
+    "longitude": 14.234206473,
+    "state": null,
+    "wikidata": "Q136674864"
+  },
+  {
+    "name": "Q137863668",
+    "year": "2023",
+    "height": 55.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023-06%20Katowice%20Craft%20%283%29.jpg",
+    "latitude": 50.268916666,
+    "longitude": 19.007166666,
+    "state": null,
+    "wikidata": "Q137863668"
+  },
+  {
+    "name": "Widok Towers",
+    "year": "2020",
+    "height": 95.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Widok%20Towers%20w%20Warszawie%202021.jpg",
+    "latitude": 52.23065,
+    "longitude": 21.01294,
+    "state": null,
+    "wikidata": "Q61989411"
+  }
+]

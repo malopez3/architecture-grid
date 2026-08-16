@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Radisson Blu Hotel Tallinn",
+    "year": "2001",
+    "height": 104.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Garages%20at%20Ants%20Lauteri%20tn%207b%20and%20a%20House%20Lennuki%2026%20Maakri%20Kesklinn%20Tallinn%2019%20April%202021.jpg",
+    "latitude": 59.43347222,
+    "longitude": 24.75791667,
+    "state": null,
+    "wikidata": "Q1352978"
+  },
+  {
+    "name": "City Plaza",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tallinn%202024%20014.jpg",
+    "latitude": 59.4346964,
+    "longitude": 24.7584122,
+    "state": null,
+    "wikidata": "Q16408608"
+  },
+  {
+    "name": "Tornimäe 3",
+    "year": null,
+    "height": 117.0,
+    "image": null,
+    "latitude": 59.43296,
+    "longitude": 24.76153,
+    "state": null,
+    "wikidata": "Q111400858"
+  },
+  {
+    "name": "Joint Building of Ministries",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Chisministeeriumi%20hoone.jpg",
+    "latitude": 59.4269438,
+    "longitude": 24.7401378,
+    "state": null,
+    "wikidata": "Q118755448"
+  }
+]

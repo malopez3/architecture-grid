@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Postgirobygget",
+    "year": "1975",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Postgirobygget%20top.jpg",
+    "latitude": 59.91171389,
+    "longitude": 10.75399444,
+    "state": null,
+    "wikidata": "Q282968"
+  },
+  {
+    "name": "Oslo Plaza",
+    "year": "1990",
+    "height": 117.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20Plaza%20og%20Postgirobygget2%20%28cropped%29.jpg",
+    "latitude": 59.91225,
+    "longitude": 10.75525,
+    "state": null,
+    "wikidata": "Q3499753"
+  }
+]

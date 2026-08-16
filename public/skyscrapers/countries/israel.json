@@ -1,0 +1,712 @@
+[
+  {
+    "name": "Moshe Aviv Tower",
+    "year": "2003",
+    "height": 244.1,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hadmo2006%200603%20115301.JPG",
+    "latitude": 32.083333333,
+    "longitude": 34.803888888,
+    "state": null,
+    "wikidata": "Q1093913"
+  },
+  {
+    "name": "IEC Tower",
+    "year": "2003",
+    "height": 130.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Migdal%20hevrat%20hashmal.jpg",
+    "latitude": 32.78777778,
+    "longitude": 34.96555556,
+    "state": null,
+    "wikidata": "Q1628633"
+  },
+  {
+    "name": "Levinstein Tower",
+    "year": "2000",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Migdal%20levinstein.jpg",
+    "latitude": 32.063888888,
+    "longitude": 34.779722222,
+    "state": null,
+    "wikidata": "Q6535676"
+  },
+  {
+    "name": "Ayalon Bituach House",
+    "year": "2004",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayalon-bituach-tower-001.JPG",
+    "latitude": 32.084722222,
+    "longitude": 34.803888888,
+    "state": null,
+    "wikidata": "Q6544178"
+  },
+  {
+    "name": "Amot Atrium Tower",
+    "year": "2015",
+    "height": 158.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amot%20Atrium%20Tower.jpg",
+    "latitude": 32.0825,
+    "longitude": 34.80138889,
+    "state": null,
+    "wikidata": "Q6559721"
+  },
+  {
+    "name": "Gibor Sport House",
+    "year": "2000",
+    "height": 114.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hadmo2006%200603%20121932%282%29.jpg",
+    "latitude": 32.0833,
+    "longitude": 34.8167,
+    "state": null,
+    "wikidata": "Q6585397"
+  },
+  {
+    "name": "Menora Mivtakhim Tower",
+    "year": "2017",
+    "height": 146.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jabotinsky-menora-mivtakhim-january-2015.jpg",
+    "latitude": 32.083508333,
+    "longitude": 34.804722222,
+    "state": null,
+    "wikidata": "Q6591671"
+  },
+  {
+    "name": "Alrov Tower",
+    "year": "1998",
+    "height": 93.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/31.03.09%20Tel%20Aviv%20067%20Elrov%20Tower.JPG",
+    "latitude": 32.0639,
+    "longitude": 34.7747,
+    "state": null,
+    "wikidata": "Q7215650"
+  },
+  {
+    "name": "Eshkol Tower",
+    "year": "1978",
+    "height": 102.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eshkol%20tower%20haifa%20u.jpg",
+    "latitude": 32.76271981,
+    "longitude": 35.01809478,
+    "state": null,
+    "wikidata": "Q7215732"
+  },
+  {
+    "name": "Rambam Square",
+    "year": "2001",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beersheba%2C%20Rambam%20st.%2001.jpg",
+    "latitude": 31.233333333,
+    "longitude": 34.783333333,
+    "state": null,
+    "wikidata": "Q7289174"
+  },
+  {
+    "name": "BSR Towers",
+    "year": "2004",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BSR%20Towers%2009042011.jpg",
+    "latitude": 32.09601111,
+    "longitude": 34.82208056,
+    "state": null,
+    "wikidata": "Q4836622"
+  },
+  {
+    "name": "Q18191925",
+    "year": "2012",
+    "height": 118.0,
+    "image": null,
+    "latitude": 32.08534444,
+    "longitude": 34.78615556,
+    "state": null,
+    "wikidata": "Q18191925"
+  },
+  {
+    "name": "Frishman 46",
+    "year": "2013",
+    "height": 108.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%A4%D7%A8%D7%99%D7%A9%D7%9E%D7%9F46.JPG",
+    "latitude": 32.0795,
+    "longitude": 34.77436944,
+    "state": null,
+    "wikidata": "Q18192113"
+  },
+  {
+    "name": "Q19401540",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 32.0906,
+    "longitude": 34.7928,
+    "state": null,
+    "wikidata": "Q19401540"
+  },
+  {
+    "name": "Q19401541",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 32.0908,
+    "longitude": 34.7942,
+    "state": null,
+    "wikidata": "Q19401541"
+  },
+  {
+    "name": "Sea Opera",
+    "year": "2005",
+    "height": null,
+    "image": null,
+    "latitude": 32.34046667,
+    "longitude": 34.85392222,
+    "state": null,
+    "wikidata": "Q7439961"
+  },
+  {
+    "name": "Phoenix house",
+    "year": null,
+    "height": 102.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Givatajjim099.jpg",
+    "latitude": 32.066877,
+    "longitude": 34.803223,
+    "state": null,
+    "wikidata": "Q65561141"
+  },
+  {
+    "name": "Toyota Tower",
+    "year": "2001",
+    "height": 93.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toyota%20Tower%20IMG%202867.jpg",
+    "latitude": 32.065137,
+    "longitude": 34.791834,
+    "state": null,
+    "wikidata": "Q16129936"
+  },
+  {
+    "name": "Zion Tower",
+    "year": "1994",
+    "height": 67.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%202855%20Rothschild%20Boulevard%20Tel-Aviv%20%D7%A9%D7%93%D7%A8%D7%95%D7%AA%20%D7%A8%D7%95%D7%98%D7%A9%D7%99%D7%9C%D7%93%20%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91.jpg",
+    "latitude": 32.064380555,
+    "longitude": 34.774619444,
+    "state": null,
+    "wikidata": "Q16129964"
+  },
+  {
+    "name": "Sonol Tower",
+    "year": "2004",
+    "height": 98.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sonol.jpg",
+    "latitude": 32.064088888,
+    "longitude": 34.781861111,
+    "state": null,
+    "wikidata": "Q16340438"
+  },
+  {
+    "name": "Tel Aviv Towers",
+    "year": "2000",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ny1.jpg",
+    "latitude": 32.074103,
+    "longitude": 34.798058,
+    "state": null,
+    "wikidata": "Q7695553"
+  },
+  {
+    "name": "Dimri Tower",
+    "year": null,
+    "height": 141.52,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dimri%20Tower%20Ashdod.jpg",
+    "latitude": 31.793641666,
+    "longitude": 34.640155555,
+    "state": null,
+    "wikidata": "Q108040856"
+  },
+  {
+    "name": "Diamond Tower",
+    "year": "1993",
+    "height": 115.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DiamondTower01.jpg",
+    "latitude": 32.08341667,
+    "longitude": 34.80148333,
+    "state": null,
+    "wikidata": "Q5805111"
+  },
+  {
+    "name": "Bein Arim Tower",
+    "year": null,
+    "height": 400.0,
+    "image": null,
+    "latitude": 32.081611111,
+    "longitude": 34.799527777,
+    "state": null,
+    "wikidata": "Q20501898"
+  },
+  {
+    "name": "HaShahar Tower",
+    "year": "2017",
+    "height": 195.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Migdal%20hashahar.jpg",
+    "latitude": 32.080278,
+    "longitude": 34.8,
+    "state": null,
+    "wikidata": "Q20645725"
+  },
+  {
+    "name": "Champion Motors Tower",
+    "year": "2013",
+    "height": 160.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ChampionTowerBneiBrak.jpg",
+    "latitude": 32.09833333,
+    "longitude": 34.82805556,
+    "state": null,
+    "wikidata": "Q20666670"
+  },
+  {
+    "name": "HaYovel Tower",
+    "year": "2005",
+    "height": 158.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hadmo2006%200603%20112930.JPG",
+    "latitude": 32.07294722,
+    "longitude": 34.78921111,
+    "state": null,
+    "wikidata": "Q2778012"
+  },
+  {
+    "name": "Africa-Israel Tower",
+    "year": null,
+    "height": 377.3,
+    "image": null,
+    "latitude": 32.0633,
+    "longitude": 34.7694,
+    "state": null,
+    "wikidata": "Q9141733"
+  },
+  {
+    "name": "Beeri Nehardaa Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 32.0828,
+    "longitude": 34.7856,
+    "state": null,
+    "wikidata": "Q9168310"
+  },
+  {
+    "name": "Dizengoff Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Disngof-T.jpg",
+    "latitude": 32.0756,
+    "longitude": 34.7758,
+    "state": null,
+    "wikidata": "Q9207869"
+  },
+  {
+    "name": "Q9369456",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 32.0864,
+    "longitude": 34.7972,
+    "state": null,
+    "wikidata": "Q9369456"
+  },
+  {
+    "name": "Q10860890",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sason-hugi-tower001.jpg",
+    "latitude": 32.08511111,
+    "longitude": 34.80453056,
+    "state": null,
+    "wikidata": "Q10860890"
+  },
+  {
+    "name": "Rothschild 22 Tower",
+    "year": "2014",
+    "height": 126.9,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rothschild%2022%2C%20Tel%20Aviv%201.jpg",
+    "latitude": 32.063,
+    "longitude": 34.771694444,
+    "state": null,
+    "wikidata": "Q22964788"
+  },
+  {
+    "name": "Q24036150",
+    "year": "2014",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LLBG%20new%20control%20tower%2010-04-2015.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q24036150"
+  },
+  {
+    "name": "Isrotel Tower",
+    "year": "1997",
+    "height": 104.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/US%20embassy%20Tel%20Aviv%206920.JPG",
+    "latitude": 32.07675,
+    "longitude": 34.76742778,
+    "state": null,
+    "wikidata": "Q2897264"
+  },
+  {
+    "name": "Marganit Tower",
+    "year": "1987",
+    "height": 138.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marganit.jpg",
+    "latitude": 32.075277777,
+    "longitude": 34.788333333,
+    "state": null,
+    "wikidata": "Q2897303"
+  },
+  {
+    "name": "First International Bank Tower",
+    "year": "2009",
+    "height": 132.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/31.03.09%20Tel%20Aviv%20066%20Beinleumi%20Tower%202.JPG",
+    "latitude": 32.063611111,
+    "longitude": 34.774166666,
+    "state": null,
+    "wikidata": "Q2899925"
+  },
+  {
+    "name": "Neve Tzedek Tower",
+    "year": "2007",
+    "height": 147.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%2011807%20Station%20Compound%20Tel%20Aviv%20-%20Jaffa.JPG",
+    "latitude": 32.05969167,
+    "longitude": 34.76669722,
+    "state": null,
+    "wikidata": "Q2902481"
+  },
+  {
+    "name": "Shalom Meir Tower",
+    "year": "1965",
+    "height": 127.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%9E%D7%92%D7%93%D7%9C%20%D7%A9%D7%9C%D7%95%D7%9D%20shalom%20tower%20tlv.jpg",
+    "latitude": 32.064019444,
+    "longitude": 34.769772222,
+    "state": null,
+    "wikidata": "Q2915137"
+  },
+  {
+    "name": "Hi Tower building",
+    "year": null,
+    "height": 220.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hi%20Tower%20Givatayim.jpg",
+    "latitude": 32.080715,
+    "longitude": 34.8002444,
+    "state": null,
+    "wikidata": "Q111337545"
+  },
+  {
+    "name": "Q111589522",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 32.090833333,
+    "longitude": 34.793611111,
+    "state": null,
+    "wikidata": "Q111589522"
+  },
+  {
+    "name": "Azrieli Sarona Tower",
+    "year": "2017",
+    "height": 238.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Azrieli%20sarona%20tower%20and%20mall.jpg",
+    "latitude": 32.07222222,
+    "longitude": 34.78888889,
+    "state": null,
+    "wikidata": "Q24885196"
+  },
+  {
+    "name": "Midtown Towers",
+    "year": "2017",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Midtown%20TLV%2001.jpg",
+    "latitude": 32.0775,
+    "longitude": 34.793611111,
+    "state": null,
+    "wikidata": "Q25933332"
+  },
+  {
+    "name": "NAM Tower",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Telnapoleon%20018.jpg",
+    "latitude": 32.09,
+    "longitude": 34.7964,
+    "state": null,
+    "wikidata": "Q11788312"
+  },
+  {
+    "name": "One Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/One%20Tower.jpg",
+    "latitude": 32.0872,
+    "longitude": 34.7961,
+    "state": null,
+    "wikidata": "Q11798330"
+  },
+  {
+    "name": "Q11802284",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tel-aviv-028.jpg",
+    "latitude": 32.0814,
+    "longitude": 34.79,
+    "state": null,
+    "wikidata": "Q11802284"
+  },
+  {
+    "name": "ROM TLV Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ROM%20TLV%2002.jpg",
+    "latitude": 32.0872,
+    "longitude": 34.7972,
+    "state": null,
+    "wikidata": "Q11811529"
+  },
+  {
+    "name": "Eurocom Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 32.0802778,
+    "longitude": 34.7988889,
+    "state": null,
+    "wikidata": "Q11985113"
+  },
+  {
+    "name": "Bank Discount Tower",
+    "year": "2006",
+    "height": 118.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Discount%20Bank01.jpg",
+    "latitude": 32.06175,
+    "longitude": 34.770478,
+    "state": null,
+    "wikidata": "Q2882599"
+  },
+  {
+    "name": "Sail Tower",
+    "year": "2002",
+    "height": 137.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Haifa%20Gro%C3%9Fe%20Moschee%20%26%20Sail%20Tower%202.JPG",
+    "latitude": 32.816366666,
+    "longitude": 35.002719444,
+    "state": null,
+    "wikidata": "Q2877453"
+  },
+  {
+    "name": "Seven stars tower",
+    "year": null,
+    "height": 211.25,
+    "image": null,
+    "latitude": 32.092222,
+    "longitude": 34.8261111,
+    "state": null,
+    "wikidata": "Q113612483"
+  },
+  {
+    "name": "Adgar 360",
+    "year": "2015",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adgar%20360.jpg",
+    "latitude": 32.061666666,
+    "longitude": 34.788611111,
+    "state": null,
+    "wikidata": "Q31197410"
+  },
+  {
+    "name": "HaArba'a Towers",
+    "year": "2017",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Q50275502.jpg",
+    "latitude": 32.069722,
+    "longitude": 34.786667,
+    "state": null,
+    "wikidata": "Q50275502"
+  },
+  {
+    "name": "Yahad Towers",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%9E%D7%92%D7%93%D7%9C%D7%99%20%D7%99%D7%97%D7%93%20%D7%91%D7%91%D7%A0%D7%99%D7%99%D7%94%2C%20%D7%A8%D7%95%D7%91%D7%A2%20%D7%93%27%20%D7%91%D7%90%D7%A9%D7%93%D7%95%D7%93%2C%20%D7%99%D7%95%D7%A0%D7%99%202024%2002.jpg",
+    "latitude": 31.799617412,
+    "longitude": 34.645013065,
+    "state": null,
+    "wikidata": "Q126708670"
+  },
+  {
+    "name": "Amot HaLehi Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amot-Ha%27lehi-B.jpg",
+    "latitude": 32.103565698,
+    "longitude": 34.828881484,
+    "state": null,
+    "wikidata": "Q127332584"
+  },
+  {
+    "name": "TOP SEAMALL",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%94%D7%92%D7%93%D7%9C%D7%AA%20%D7%94%D7%9E%D7%92%D7%93%D7%9C%20Sea%20Tower%20%D7%91%D7%90%D7%A9%D7%93%D7%95%D7%93%2C%20%D7%99%D7%95%D7%9C%D7%99%202024%2001.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q127415037"
+  },
+  {
+    "name": "Briga Towers",
+    "year": null,
+    "height": 125.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%2073924%20ir%20yamim%20neighborhood.jpg",
+    "latitude": 32.276178733,
+    "longitude": 34.838808969,
+    "state": null,
+    "wikidata": "Q130320422"
+  },
+  {
+    "name": "Lev Ashdod",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 31.808523514,
+    "longitude": 34.65893393,
+    "state": null,
+    "wikidata": "Q130355083"
+  },
+  {
+    "name": "Tzarfati Towers",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 31.808008435,
+    "longitude": 34.660271829,
+    "state": null,
+    "wikidata": "Q130355102"
+  },
+  {
+    "name": "Dimri Harmony",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 31.799617412,
+    "longitude": 34.645013065,
+    "state": null,
+    "wikidata": "Q130360354"
+  },
+  {
+    "name": "Aqua Park",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 31.811856232,
+    "longitude": 34.650844673,
+    "state": null,
+    "wikidata": "Q130368653"
+  },
+  {
+    "name": "Kohav HaTzafon",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 31.810973561,
+    "longitude": 34.652717119,
+    "state": null,
+    "wikidata": "Q130368955"
+  },
+  {
+    "name": "Q131153956",
+    "year": null,
+    "height": 138.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vision%20Tower%20Bat%20Yam%2002.jpg",
+    "latitude": 32.006983729,
+    "longitude": 34.740257877,
+    "state": null,
+    "wikidata": "Q131153956"
+  },
+  {
+    "name": "Spiral Tower",
+    "year": null,
+    "height": 335.95,
+    "image": null,
+    "latitude": 32.075821416,
+    "longitude": 34.792313959,
+    "state": null,
+    "wikidata": "Q131338833"
+  },
+  {
+    "name": "Time Tower",
+    "year": "2016",
+    "height": 135.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Tower%2002.jpg",
+    "latitude": 32.082156238,
+    "longitude": 34.800932571,
+    "state": null,
+    "wikidata": "Q131399689"
+  },
+  {
+    "name": "HaDekel Towers",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%A9%D7%93%D7%A8%D7%95%D7%AA%20%D7%99%D7%A6%D7%97%D7%A7%20%D7%94%D7%A0%D7%A9%D7%99%D7%90%20%D7%91%D7%90%D7%A9%D7%93%D7%95%D7%93%2C%20%D7%90%D7%A4%D7%A8%D7%99%D7%9C%202024%2006.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q132775446"
+  },
+  {
+    "name": "Q133124496",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 32.088698995,
+    "longitude": 34.801370027,
+    "state": null,
+    "wikidata": "Q133124496"
+  },
+  {
+    "name": "Marom Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marom%20Tower%2C%202025.jpg",
+    "latitude": 31.788071063,
+    "longitude": 35.202281598,
+    "state": null,
+    "wikidata": "Q137649935"
+  },
+  {
+    "name": "Haifa Tower",
+    "year": "1992",
+    "height": 71.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Migdalhaifahotel.jpg",
+    "latitude": 32.807879506,
+    "longitude": 35.000955858,
+    "state": null,
+    "wikidata": "Q123930128"
+  },
+  {
+    "name": "Uptown Towers",
+    "year": "2019",
+    "height": 162.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UptownBatYamConstruction1.jpg",
+    "latitude": 32.013333333,
+    "longitude": 34.752222222,
+    "state": null,
+    "wikidata": "Q61125175"
+  },
+  {
+    "name": "Q138006091",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yigal%20Allon%20CBD%2001.jpg",
+    "latitude": 32.070751595,
+    "longitude": 34.795966863,
+    "state": null,
+    "wikidata": "Q138006091"
+  }
+]

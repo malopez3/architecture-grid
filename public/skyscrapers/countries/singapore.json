@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Republic Plaza",
+    "year": "1995",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20Plaza.jpg",
+    "latitude": 1.28278,
+    "longitude": 103.851,
+    "state": null,
+    "wikidata": "Q587586"
+  },
+  {
+    "name": "One Raffles Place",
+    "year": "1986",
+    "height": 280.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/OUB%20Centre%20Skyward.JPG",
+    "latitude": 1.284258333,
+    "longitude": 103.851063888,
+    "state": null,
+    "wikidata": "Q333305"
+  },
+  {
+    "name": "Hong Leong Building",
+    "year": "1976",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hong%20Leong%20Building.jpg",
+    "latitude": 1.28131,
+    "longitude": 103.851,
+    "state": null,
+    "wikidata": "Q14874439"
+  },
+  {
+    "name": "Lippo Centre",
+    "year": "1990",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lippo%20Centre%2C%20Singapore.JPG",
+    "latitude": 1.27306,
+    "longitude": 103.845,
+    "state": null,
+    "wikidata": "Q14874453"
+  },
+  {
+    "name": "Samsung Hub",
+    "year": "2006",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/3%20Church%20Street.JPG",
+    "latitude": 1.28321,
+    "longitude": 103.85,
+    "state": null,
+    "wikidata": "Q14874464"
+  },
+  {
+    "name": "Ocean Financial Centre",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Topping%20out%20of%20Ocean%20Financial%20Centre%2C%20Singapore%20-%2020101124.jpg",
+    "latitude": 1.28509,
+    "longitude": 103.852,
+    "state": null,
+    "wikidata": "Q7075994"
+  },
+  {
+    "name": "One George Street",
+    "year": "2004",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/One%20George%20Street.jpg",
+    "latitude": 1.2858,
+    "longitude": 103.8477,
+    "state": null,
+    "wikidata": "Q7092664"
+  },
+  {
+    "name": "One Marina Boulevard",
+    "year": "2004",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/One%20Marina%20Boulevard%2C%20Jan%2006.JPG",
+    "latitude": 1.28226,
+    "longitude": 103.852,
+    "state": null,
+    "wikidata": "Q7092886"
+  },
+  {
+    "name": "One Shenton Way",
+    "year": "2011",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/One%20Shenton%20Way%20Singapore.jpg",
+    "latitude": 1.27925,
+    "longitude": 103.851,
+    "state": null,
+    "wikidata": "Q7093178"
+  },
+  {
+    "name": "Parkroyal Collection Marina Bay, Singapore",
+    "year": "1987",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marina%20Mandarin%20Singapore%202%2C%20Aug%2006.JPG",
+    "latitude": 1.2917,
+    "longitude": 103.857,
+    "state": null,
+    "wikidata": "Q6763868"
+  },
+  {
+    "name": "Maybank Tower",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maybank%20Tower%2C%20Aug%2006.JPG",
+    "latitude": 1.2859,
+    "longitude": 103.852,
+    "state": null,
+    "wikidata": "Q6796900"
+  },
+  {
+    "name": "Swissôtel The Stamford",
+    "year": "1986",
+    "height": 226.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Swiss%C3%B4tel%20The%20Stamford%2C%20Singapur%2C%202023-08-18%2C%20DD%2018.jpg",
+    "latitude": 1.29354,
+    "longitude": 103.853,
+    "state": null,
+    "wikidata": "Q1343055"
+  },
+  {
+    "name": "mTower",
+    "year": "1985",
+    "height": 183.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PSA%20Building.jpg",
+    "latitude": 1.273575,
+    "longitude": 103.801214,
+    "state": null,
+    "wikidata": "Q7120580"
+  },
+  {
+    "name": "Pearl Bank Apartments",
+    "year": "1976",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pearl%20Bank%20Apartments%202%2C%20Dec%2005.jpg",
+    "latitude": 1.28317,
+    "longitude": 103.84,
+    "state": null,
+    "wikidata": "Q7158038"
+  },
+  {
+    "name": "People's Park Complex",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/.00%203556%20People%27s%20Park%20Complex%20in%20Singapore.jpg",
+    "latitude": 1.28406,
+    "longitude": 103.842,
+    "state": null,
+    "wikidata": "Q7165657"
+  },
+  {
+    "name": "Police Cantonment Complex",
+    "year": "2001",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Police%20Cantonment%20Complex.jpg",
+    "latitude": 1.27841,
+    "longitude": 103.839,
+    "state": null,
+    "wikidata": "Q7209427"
+  },
+  {
+    "name": "Asia Insurance Building",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Asia%20Insurance%20Building%2C%20Dec%2005.JPG",
+    "latitude": 1.281944444,
+    "longitude": 103.851388888,
+    "state": null,
+    "wikidata": "Q4806382"
+  },
+  {
+    "name": "Bank of China Building",
+    "year": "1954",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bank%20of%20China%20Building%2C%20Dec%2005.JPG",
+    "latitude": 1.28562,
+    "longitude": 103.852,
+    "state": null,
+    "wikidata": "Q4856087"
+  },
+  {
+    "name": "Millenia Tower",
+    "year": "1996",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Millenia%20tower.jpg",
+    "latitude": 1.29278,
+    "longitude": 103.86,
+    "state": null,
+    "wikidata": "Q888058"
+  },
+  {
+    "name": "TripleOne Somerset",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Singapore%20Power%20Building%204%2C%20Aug%2007.JPG",
+    "latitude": 1.30042,
+    "longitude": 103.837,
+    "state": null,
+    "wikidata": "Q14874469"
+  },
+  {
+    "name": "The Orchard Residences",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ION%20orchard%20Singapore%20final.jpg",
+    "latitude": 1.30417,
+    "longitude": 103.832,
+    "state": null,
+    "wikidata": "Q14874468"
+  },
+  {
+    "name": "Comcentre",
+    "year": "1980",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Comcentre%202.JPG",
+    "latitude": 1.29916,
+    "longitude": 103.838,
+    "state": null,
+    "wikidata": "Q5151021"
+  },
+  {
+    "name": "8 Shenton Way",
+    "year": "1986",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/8ShentonWay-Singapore-20060808.jpg",
+    "latitude": 1.2758,
+    "longitude": 103.847,
+    "state": null,
+    "wikidata": "Q887869"
+  },
+  {
+    "name": "Robinson 77",
+    "year": "1998",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SIA%20Building%20%28crop%29.jpg",
+    "latitude": 1.27756,
+    "longitude": 103.848,
+    "state": null,
+    "wikidata": "Q7352982"
+  },
+  {
+    "name": "Singapore Land Tower",
+    "year": "1980",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Singapore%20Land%20Tower%203.jpg",
+    "latitude": 1.2846,
+    "longitude": 103.852,
+    "state": null,
+    "wikidata": "Q7523040"
+  },
+  {
+    "name": "Springleaf Tower",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MAS%20Building%2C%20Springleaf%20Tower.JPG",
+    "latitude": 1.2751,
+    "longitude": 103.8463,
+    "state": null,
+    "wikidata": "Q7581153"
+  },
+  {
+    "name": "Oasia Hotel Downtown",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 1.2758,
+    "longitude": 103.842,
+    "state": null,
+    "wikidata": "Q85790128"
+  },
+  {
+    "name": "Marina Bay Suites",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marina%20Bay%20Suites.jpg",
+    "latitude": 1.280277777,
+    "longitude": 103.852222222,
+    "state": null,
+    "wikidata": "Q15247650"
+  },
+  {
+    "name": "UIC Building",
+    "year": "1973",
+    "height": 152.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UIC%20building%20from%20Shenton%20Way.jpg",
+    "latitude": 1.27792,
+    "longitude": 103.85,
+    "state": null,
+    "wikidata": "Q7864695"
+  },
+  {
+    "name": "V on Shenton",
+    "year": "2017",
+    "height": 404.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/V_on_Shenton_20250904.jpg",
+    "latitude": 1.27792,
+    "longitude": 103.85,
+    "state": null,
+    "wikidata": "Q7907766"
+  },
+  {
+    "name": "Evergreen Park Condominium",
+    "year": "1999",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Evergeen%20Park%20Condominium.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q5417231"
+  },
+  {
+    "name": "Fairmont Singapore",
+    "year": "1986",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffles%20The%20Plaza.JPG",
+    "latitude": 1.29417,
+    "longitude": 103.854,
+    "state": null,
+    "wikidata": "Q5430604"
+  },
+  {
+    "name": "Fuji Xerox Towers",
+    "year": "1987",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fuji%20Xerox%20Tower.JPG",
+    "latitude": 1.27327,
+    "longitude": 103.844,
+    "state": null,
+    "wikidata": "Q5507359"
+  },
+  {
+    "name": "The Concourse",
+    "year": "1994",
+    "height": 175.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Concourse%203%2C%20Aug%2007.JPG",
+    "latitude": 1.30106,
+    "longitude": 103.862,
+    "state": null,
+    "wikidata": "Q7727300"
+  },
+  {
+    "name": "The Pinnacle@Duxton",
+    "year": "2009",
+    "height": 156.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinnacle%40Duxton%2C%20Singapore%20-%2020100101.jpg",
+    "latitude": 1.276666666,
+    "longitude": 103.841388888,
+    "state": null,
+    "wikidata": "Q7757213"
+  },
+  {
+    "name": "The Plaza",
+    "year": "1979",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Plaza%2C%20Singapore%2C%20Aug%2007.jpg",
+    "latitude": 1.2992,
+    "longitude": 103.8582,
+    "state": null,
+    "wikidata": "Q7757475"
+  },
+  {
+    "name": "CapitaSpring",
+    "year": null,
+    "height": 280.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CapitaSpring1.jpg",
+    "latitude": 1.2842,
+    "longitude": 103.8502,
+    "state": null,
+    "wikidata": "Q105702331"
+  },
+  {
+    "name": "International Plaza",
+    "year": "1976",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/International%20Plaza.jpg",
+    "latitude": 1.27597,
+    "longitude": 103.846,
+    "state": null,
+    "wikidata": "Q6052468"
+  },
+  {
+    "name": "Shangri-La Hotel Singapore",
+    "year": "1971",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Breakfast%20time%20by%20the%20pool%2C%20Shangri-La%20Hotel%20Singapore%20-%2020120826.jpg",
+    "latitude": 1.311043,
+    "longitude": 103.82659,
+    "state": null,
+    "wikidata": "Q6146488"
+  },
+  {
+    "name": "Capital Tower",
+    "year": "2000",
+    "height": 255.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Capital%20Tower%2C%20Jan%2006.JPG",
+    "latitude": 1.277361111,
+    "longitude": 103.8475,
+    "state": null,
+    "wikidata": "Q2614510"
+  },
+  {
+    "name": "16 Collyer Quay",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hitachi%20Tower%2C%20Dec%2005.JPG",
+    "latitude": 1.28419,
+    "longitude": 103.852,
+    "state": null,
+    "wikidata": "Q2690134"
+  },
+  {
+    "name": "OCBC Centre",
+    "year": "1976",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/OCBC%20Centre.JPG",
+    "latitude": 1.285,
+    "longitude": 103.8491,
+    "state": null,
+    "wikidata": "Q2790093"
+  },
+  {
+    "name": "Pickering Operations Complex",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pickering%20Operations%20Complex.JPG",
+    "latitude": 1.285201,
+    "longitude": 103.848266,
+    "state": null,
+    "wikidata": "Q2813484"
+  },
+  {
+    "name": "CPF Building",
+    "year": "1976",
+    "height": 561.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CPF%20Building.jpg",
+    "latitude": 1.276833333,
+    "longitude": 103.847861111,
+    "state": null,
+    "wikidata": "Q2813490"
+  },
+  {
+    "name": "UOB Plaza One",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UOB%20Plaza%20Tower%20One%2C%20Dec%2005.JPG",
+    "latitude": 1.28555,
+    "longitude": 103.85,
+    "state": null,
+    "wikidata": "Q21036744"
+  },
+  {
+    "name": "OUE Downtown Tower 1",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q22910979"
+  },
+  {
+    "name": "Oasia Hotel Downtown",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oasia%20Hotel%20Downtown%2C%20Singapore.jpg",
+    "latitude": 1.27588,
+    "longitude": 103.84433,
+    "state": null,
+    "wikidata": "Q24036204"
+  },
+  {
+    "name": "30 Raffles Place",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Caltex%20House%2C%20Jan%2006.JPG",
+    "latitude": 1.2843,
+    "longitude": 103.852,
+    "state": null,
+    "wikidata": "Q2934405"
+  },
+  {
+    "name": "Centennial Tower",
+    "year": "1997",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Centennial%20Tower%202%2C%20Dec%2005.JPG",
+    "latitude": 1.29326,
+    "longitude": 103.86,
+    "state": null,
+    "wikidata": "Q2944349"
+  },
+  {
+    "name": "Shell House, Singapore",
+    "year": "1960",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q113269051"
+  },
+  {
+    "name": "One Raffles Quay North Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/One%20Raffles%20Quay%204.JPG",
+    "latitude": 1.281667,
+    "longitude": 103.852222,
+    "state": null,
+    "wikidata": "Q25707769"
+  },
+  {
+    "name": "Newton Suites",
+    "year": "2008",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Newton%20Suites.jpg",
+    "latitude": 1.317825,
+    "longitude": 103.842183333,
+    "state": null,
+    "wikidata": "Q3339164"
+  },
+  {
+    "name": "Parkview Square",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parkview%20Square.JPG",
+    "latitude": 1.30014,
+    "longitude": 103.858,
+    "state": null,
+    "wikidata": "Q3365482"
+  },
+  {
+    "name": "Asia Square Tower 2",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 1.278083333,
+    "longitude": 103.850833333,
+    "state": null,
+    "wikidata": "Q28873211"
+  },
+  {
+    "name": "Asia Square Tower 1",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 1.279,
+    "longitude": 103.851333333,
+    "state": null,
+    "wikidata": "Q28873212"
+  },
+  {
+    "name": "Skysuites @ Anson",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 1.2742749,
+    "longitude": 103.8271984,
+    "state": null,
+    "wikidata": "Q28873234"
+  },
+  {
+    "name": "Altez",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q28873235"
+  },
+  {
+    "name": "CapitaGreen",
+    "year": "2014",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Singapore%20CapitaGreen-Building-01.jpg",
+    "latitude": 1.2819,
+    "longitude": 103.8503,
+    "state": null,
+    "wikidata": "Q28873262"
+  },
+  {
+    "name": "Guoco Tower",
+    "year": "2016",
+    "height": 290.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cropped%20to%20Guoco%20Tower%2C%20SG%20%282025%29%20-%20img%2002.jpg",
+    "latitude": 1.2771,
+    "longitude": 103.8461,
+    "state": null,
+    "wikidata": "Q28873239"
+  },
+  {
+    "name": "The Sail @ Marina Bay",
+    "year": "2008",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sail%20%40%20Marina%20Bay%2C%20Singapore%20-%202011-02-05.jpg",
+    "latitude": 1.281102777,
+    "longitude": 103.852794444,
+    "state": null,
+    "wikidata": "Q3522590"
+  },
+  {
+    "name": "6 Battery Road",
+    "year": "1984",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maybank%20Tower%2C%20Bank%20Of%20China%20and%206%20Battery%20Road.JPG",
+    "latitude": 1.2854,
+    "longitude": 103.852,
+    "state": null,
+    "wikidata": "Q4642493"
+  },
+  {
+    "name": "Q30753514",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30753514"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Banco Industrial",
+    "year": "1968",
+    "height": 74.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Republica%20%26%20Banco%20Industrial.jpg",
+    "latitude": 14.61863,
+    "longitude": -90.5163,
+    "state": null,
+    "wikidata": "Q19288416"
+  },
+  {
+    "name": "Tikal Futura",
+    "year": null,
+    "height": 75.0,
+    "image": null,
+    "latitude": 14.6225,
+    "longitude": -90.5539,
+    "state": null,
+    "wikidata": "Q7801872"
+  },
+  {
+    "name": "Tiffany Novena",
+    "year": null,
+    "height": 83.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guatemala%20City%20-%20Cityscape%20-%20Skyline%20-%20Tiffany%20Novena%20Zone%2014.jpg",
+    "latitude": 14.5847,
+    "longitude": -90.51726,
+    "state": null,
+    "wikidata": "Q101208597"
+  },
+  {
+    "name": "Zona Pradera",
+    "year": null,
+    "height": 84.0,
+    "image": null,
+    "latitude": 14.58207,
+    "longitude": -90.4947,
+    "state": null,
+    "wikidata": "Q101208801"
+  },
+  {
+    "name": "Torres ECHO",
+    "year": null,
+    "height": 96.0,
+    "image": null,
+    "latitude": 14.57773,
+    "longitude": -90.52197,
+    "state": null,
+    "wikidata": "Q104519240"
+  },
+  {
+    "name": "Tigo Tower",
+    "year": null,
+    "height": 83.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Tigo.jpg",
+    "latitude": 14.57237,
+    "longitude": -90.4816,
+    "state": null,
+    "wikidata": "Q106622689"
+  },
+  {
+    "name": "Atlantis Building, Guatemala City",
+    "year": null,
+    "height": 70.0,
+    "image": null,
+    "latitude": 14.59895,
+    "longitude": -90.51297,
+    "state": null,
+    "wikidata": "Q106622723"
+  },
+  {
+    "name": "Atrium Building",
+    "year": null,
+    "height": 93.4,
+    "image": null,
+    "latitude": 14.59146,
+    "longitude": -90.50354,
+    "state": null,
+    "wikidata": "Q6150017"
+  },
+  {
+    "name": "Club Premier",
+    "year": null,
+    "height": 102.0,
+    "image": null,
+    "latitude": 14.5712,
+    "longitude": -90.52335,
+    "state": null,
+    "wikidata": "Q4120778"
+  },
+  {
+    "name": "Edificio Torre Internacional",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miradores%20Guatemala%2017%20Cropped.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q131007392"
+  }
+]

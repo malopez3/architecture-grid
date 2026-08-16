@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Cathedral Plaza Bucharest",
+    "year": "2011",
+    "height": 75.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Joseph%20Roman%20Catholic%20Cathedral%2C%20Bucharest%20%28plaza%29.jpg",
+    "latitude": 44.44201,
+    "longitude": 26.09182,
+    "state": null,
+    "wikidata": "Q1050882"
+  },
+  {
+    "name": "Bucharest Tower Center",
+    "year": "2008",
+    "height": null,
+    "image": null,
+    "latitude": 44.45448,
+    "longitude": 26.08124,
+    "state": null,
+    "wikidata": "Q739474"
+  },
+  {
+    "name": "BSE Tower",
+    "year": "2003",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RO%20B%20Calea%20Mo%C8%99ilor%2079.jpg",
+    "latitude": 44.436618,
+    "longitude": 26.109478,
+    "state": null,
+    "wikidata": "Q4836594"
+  },
+  {
+    "name": "Basarab Tower",
+    "year": "1988",
+    "height": 114.0,
+    "image": null,
+    "latitude": 44.45208,
+    "longitude": 26.06036,
+    "state": null,
+    "wikidata": "Q4866262"
+  },
+  {
+    "name": "Bucharest Corporate Center",
+    "year": "2007",
+    "height": null,
+    "image": null,
+    "latitude": 44.447823,
+    "longitude": 26.081841,
+    "state": null,
+    "wikidata": "Q15205456"
+  },
+  {
+    "name": "Globalworth Tower",
+    "year": "2016",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skyscrapers%20in%20Bucharest.jpg",
+    "latitude": 44.4794,
+    "longitude": 26.1004,
+    "state": null,
+    "wikidata": "Q16255689"
+  },
+  {
+    "name": "Sky Tower",
+    "year": "2012",
+    "height": 136.0,
+    "image": null,
+    "latitude": 44.478333333,
+    "longitude": 26.103888888,
+    "state": null,
+    "wikidata": "Q5460511"
+  },
+  {
+    "name": "Euro Tower",
+    "year": "2010",
+    "height": null,
+    "image": null,
+    "latitude": 44.457083333,
+    "longitude": 26.106777777,
+    "state": null,
+    "wikidata": "Q11733520"
+  },
+  {
+    "name": "Unicredit Tower Bucharest",
+    "year": "2012",
+    "height": null,
+    "image": null,
+    "latitude": 44.474194,
+    "longitude": 26.067928,
+    "state": null,
+    "wikidata": "Q26710807"
+  }
+]

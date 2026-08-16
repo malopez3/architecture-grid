@@ -1,0 +1,31 @@
+import { Location } from "@/types/location";
+
+export const COUNTRIES: Location[] = [
+  { name: "Canada", flag: "ca", type: "country" },
+  { name: "Mexico", flag: "mx", type: "country" },
+  { name: "Brazil", flag: "br", type: "country" },
+  { name: "Argentina", flag: "ar", type: "country" },
+  { name: "United Kingdom", flag: "gb", type: "country" },
+  { name: "France", flag: "fr", type: "country" },
+  { name: "Germany", flag: "de", type: "country" },
+  { name: "Italy", flag: "it", type: "country" },
+  { name: "Spain", flag: "es", type: "country" },
+  { name: "Netherlands", flag: "nl", type: "country" },
+  { name: "Belgium", flag: "be", type: "country" },
+  { name: "Switzerland", flag: "ch", type: "country" },
+  { name: "Sweden", flag: "se", type: "country" },
+  { name: "Norway", flag: "no", type: "country" },
+  { name: "Poland", flag: "pl", type: "country" },
+  { name: "Russia", flag: "ru", type: "country" },
+  { name: "Turkey", flag: "tr", type: "country" },
+  { name: "Saudi Arabia", flag: "sa", type: "country" },
+  { name: "United Arab Emirates", flag: "ae", type: "country" },
+  { name: "India", flag: "in", type: "country" },
+  { name: "China", flag: "cn", type: "country" },
+  { name: "Japan", flag: "jp", type: "country" },
+  { name: "South Korea", flag: "kr", type: "country" },
+  { name: "Singapore", flag: "sg", type: "country" },
+  { name: "Thailand", flag: "th", type: "country" },
+  { name: "Australia", flag: "au", type: "country" },
+  { name: "New Zealand", flag: "nz", type: "country" }
+];

@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Garden Tower",
+    "year": "1976",
+    "height": 127.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Garden%20Towers%20Frankfurt.jpg",
+    "latitude": 50.1117,
+    "longitude": 8.6725,
+    "state": null,
+    "wikidata": "Q471336"
+  },
+  {
+    "name": "Messe Torhaus",
+    "year": "1984",
+    "height": 117.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Messe-Torhaus%2C%20Frankfurt.jpg",
+    "latitude": 50.111388888,
+    "longitude": 8.642777777,
+    "state": null,
+    "wikidata": "Q471340"
+  },
+  {
+    "name": "BMW Headquarters",
+    "year": "1973",
+    "height": 101.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/4%20cilindros%20y%20museo%20BMW%2C%20M%C3%BAnich%2C%20Alemania%202012-04-28%2C%20DD%2002.JPG",
+    "latitude": 48.176944444,
+    "longitude": 11.56,
+    "state": null,
+    "wikidata": "Q526963"
+  },
+  {
+    "name": "Frankfurter Büro Center",
+    "year": "1981",
+    "height": 142.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fbc-ffm001.jpg",
+    "latitude": 50.1114,
+    "longitude": 8.66444,
+    "state": null,
+    "wikidata": "Q555113"
+  },
+  {
+    "name": "Cologne Tower",
+    "year": "2001",
+    "height": 148.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mediapark%20K%C3%B6lnTurm%20%280508-10%29.jpg",
+    "latitude": 50.9481,
+    "longitude": 6.9431,
+    "state": null,
+    "wikidata": "Q555142"
+  },
+  {
+    "name": "BahnTower",
+    "year": "2000",
+    "height": 103.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BahnTower%2C%20Potsdamer%20Platz%2C%20Berin-1750.jpg",
+    "latitude": 52.509722,
+    "longitude": 13.375,
+    "state": null,
+    "wikidata": "Q643536"
+  },
+  {
+    "name": "Silberturm",
+    "year": "1978",
+    "height": 166.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Silver%20Tower.20130616.jpg",
+    "latitude": 50.109719444,
+    "longitude": 8.669438888,
+    "state": null,
+    "wikidata": "Q247531"
+  },
+  {
+    "name": "Japan Center",
+    "year": "1996",
+    "height": 115.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Main%20Japan%20Tower%206240a.jpg",
+    "latitude": 50.111111111,
+    "longitude": 8.6725,
+    "state": null,
+    "wikidata": "Q266965"
+  },
+  {
+    "name": "Arag-Tower",
+    "year": "2001",
+    "height": 124.9,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ARAG-Tower.jpg",
+    "latitude": 51.25,
+    "longitude": 6.800556,
+    "state": null,
+    "wikidata": "Q296392"
+  },
+  {
+    "name": "Main Tower",
+    "year": "2000",
+    "height": 200.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maintower%20Frankfurt.jpg",
+    "latitude": 50.1125,
+    "longitude": 8.672222222,
+    "state": null,
+    "wikidata": "Q321291"
+  },
+  {
+    "name": "Bayer-Hochhaus",
+    "year": "1963",
+    "height": 122.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bayer-Hochhaus%20Japangarten.jpg",
+    "latitude": 51.0136,
+    "longitude": 6.9816,
+    "state": null,
+    "wikidata": "Q328491"
+  },
+  {
+    "name": "Hochhaus Uptown München",
+    "year": "2004",
+    "height": 146.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uptown%20Munich%201.jpg",
+    "latitude": 48.176944444,
+    "longitude": 11.531666666,
+    "state": null,
+    "wikidata": "Q328507"
+  },
+  {
+    "name": "Colonia-Haus",
+    "year": "1973",
+    "height": 147.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coloniahochhaus.jpg",
+    "latitude": 50.960555555,
+    "longitude": 6.9825,
+    "state": null,
+    "wikidata": "Q328512"
+  },
+  {
+    "name": "AfE-Turm",
+    "year": "1972",
+    "height": 116.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Am%20Main-AfE-Turm-Ansicht%20vom%20Messeturm-20130525.jpg",
+    "latitude": 50.116111111,
+    "longitude": 8.650833333,
+    "state": null,
+    "wikidata": "Q381996"
+  },
+  {
+    "name": "Gallileo",
+    "year": "2003",
+    "height": 136.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gallileo-ffm001.jpg",
+    "latitude": 50.109444444,
+    "longitude": 8.671111111,
+    "state": null,
+    "wikidata": "Q449607"
+  },
+  {
+    "name": "Treptowers",
+    "year": "1998",
+    "height": 125.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlin-alt-treptow%20treptowers%2020050922%20441%20corr.jpg",
+    "latitude": 52.4953,
+    "longitude": 13.4611,
+    "state": null,
+    "wikidata": "Q454985"
+  },
+  {
+    "name": "Hannibal",
+    "year": "1971",
+    "height": 69.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/StuttgartAsemwald-pjt.jpg",
+    "latitude": 48.726,
+    "longitude": 9.1932,
+    "state": null,
+    "wikidata": "Q14551925"
+  },
+  {
+    "name": "Hypo-Haus",
+    "year": "1981",
+    "height": 113.7,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GraphyArchy%20-%20Wiki00002.jpg",
+    "latitude": 48.150027884,
+    "longitude": 11.617183194,
+    "state": null,
+    "wikidata": "Q896364"
+  },
+  {
+    "name": "Collini-Center",
+    "year": "1975",
+    "height": 95.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mannheim%20Collini-Center%2020100809.jpg",
+    "latitude": 49.4907,
+    "longitude": 8.47784,
+    "state": null,
+    "wikidata": "Q1109699"
+  },
+  {
+    "name": "Hannibal (Dortmund-Nordstadt)",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hannibal%20IMGP0734.jpg",
+    "latitude": 51.52100083,
+    "longitude": 7.47051528,
+    "state": null,
+    "wikidata": "Q1526559"
+  },
+  {
+    "name": "Hafenstraße 51",
+    "year": "1976",
+    "height": 93.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Hafenstra%C3%9Fe%2051.20130525.jpg",
+    "latitude": 50.1065,
+    "longitude": 8.65663,
+    "state": null,
+    "wikidata": "Q1567990"
+  },
+  {
+    "name": "Atrium Tower",
+    "year": null,
+    "height": 106.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debis-Haus.Berlin.view%20from%20Kollhoff-Tower.jpg",
+    "latitude": 52.5058,
+    "longitude": 13.3728,
+    "state": null,
+    "wikidata": "Q1181509"
+  },
+  {
+    "name": "Dancing Towers",
+    "year": "2012",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamburg-St.%20Pauli%20Tanzende%20T%C3%BCrme%2002.jpg",
+    "latitude": 53.54961111,
+    "longitude": 9.96816667,
+    "state": null,
+    "wikidata": "Q1285521"
+  },
+  {
+    "name": "Sparkasse Hagen office tower",
+    "year": "1975",
+    "height": 98.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hagen-Langer-Oskar.jpg",
+    "latitude": 51.359722222,
+    "longitude": 7.471666666,
+    "state": null,
+    "wikidata": "Q1353503"
+  },
+  {
+    "name": "Essen City Hall",
+    "year": "1979",
+    "height": 106.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Townhall-Essen-2012.jpg",
+    "latitude": 51.458055555,
+    "longitude": 7.016111111,
+    "state": null,
+    "wikidata": "Q135672"
+  },
+  {
+    "name": "Commerzbank Tower",
+    "year": "1997",
+    "height": 259.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Commerzbank-Hochhaus%202010-09-06%2001.jpg",
+    "latitude": 50.11116,
+    "longitude": 8.67437,
+    "state": null,
+    "wikidata": "Q151765"
+  },
+  {
+    "name": "Messeturm",
+    "year": "1990",
+    "height": 256.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20am%20Main%2C%20MesseTurm.jpg",
+    "latitude": 50.112222222,
+    "longitude": 8.652777777,
+    "state": null,
+    "wikidata": "Q156198"
+  },
+  {
+    "name": "Post Tower",
+    "year": "2002",
+    "height": 162.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Posttower%20Bonn%20001.jpg",
+    "latitude": 50.715512,
+    "longitude": 7.130037,
+    "state": null,
+    "wikidata": "Q167195"
+  },
+  {
+    "name": "Büro Center Nibelungenplatz",
+    "year": "1966",
+    "height": 110.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Nibelungenplatz%203.Shell-Hochhaus.20130811.jpg",
+    "latitude": 50.128725,
+    "longitude": 8.691775,
+    "state": null,
+    "wikidata": "Q176723"
+  },
+  {
+    "name": "WestendGate",
+    "year": "1976",
+    "height": 159.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PBC-2.jpg",
+    "latitude": 50.1142,
+    "longitude": 8.6503,
+    "state": null,
+    "wikidata": "Q686587"
+  },
+  {
+    "name": "OpernTurm",
+    "year": "2009",
+    "height": 170.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Opernturm-Frankfurt-2010-Ffm-b.jpg",
+    "latitude": 50.115833,
+    "longitude": 8.67,
+    "state": null,
+    "wikidata": "Q686644"
+  },
+  {
+    "name": "Park Inn by Radisson Berlin Alexanderplatz",
+    "year": "1970",
+    "height": 125.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20-%20Park%20Inn%20Hotel1.jpg",
+    "latitude": 52.522777777,
+    "longitude": 13.412777777,
+    "state": null,
+    "wikidata": "Q701571"
+  },
+  {
+    "name": "Tower 185",
+    "year": "2011",
+    "height": 200.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tower%20185.jpg",
+    "latitude": 50.110556,
+    "longitude": 8.656389,
+    "state": null,
+    "wikidata": "Q708060"
+  },
+  {
+    "name": "Dorint Hotel Tower",
+    "year": "1972",
+    "height": 115.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Augsburg%20hotelturm.JPG",
+    "latitude": 48.359444444,
+    "longitude": 10.885833333,
+    "state": null,
+    "wikidata": "Q760541"
+  },
+  {
+    "name": "TaunusTurm",
+    "year": "2014",
+    "height": 170.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Taunusturm.20140417.jpg",
+    "latitude": 50.110555555,
+    "longitude": 8.673055555,
+    "state": null,
+    "wikidata": "Q830533"
+  },
+  {
+    "name": "SV-Hochhaus",
+    "year": null,
+    "height": 99.95,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%BCddeutscher%20Verlag%2C%20M%C3%BCnchen%2C%20Hochhaus%2C%20Westen.jpg",
+    "latitude": 48.137,
+    "longitude": 11.6353,
+    "state": null,
+    "wikidata": "Q870916"
+  },
+  {
+    "name": "City-Hochhaus Leipzig",
+    "year": "1973",
+    "height": 142.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rainbowflash%202013%20Leipzig%20%284%29.jpg",
+    "latitude": 51.3375,
+    "longitude": 12.379444444,
+    "state": null,
+    "wikidata": "Q471329"
+  },
+  {
+    "name": "Westendstrasse 1",
+    "year": "1993",
+    "height": 208.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Am%20Main-Westend%20Tower-Ansicht%20vom%20Maintower.jpg",
+    "latitude": 50.110555555,
+    "longitude": 8.6625,
+    "state": null,
+    "wikidata": "Q657979"
+  },
+  {
+    "name": "Palais Quartier",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Am%20Main-PalaisQuartier-Ansicht%20vom%20Maintower-20110328.jpg",
+    "latitude": 50.1147,
+    "longitude": 8.68139,
+    "state": null,
+    "wikidata": "Q895606"
+  },
+  {
+    "name": "Marienturm",
+    "year": null,
+    "height": 155.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marienturm%2C%20Frankfurt%20am%20Main%20%28LRM%2020210418%20193219%29.jpg",
+    "latitude": 50.11222222,
+    "longitude": 8.66861111,
+    "state": null,
+    "wikidata": "Q1738921"
+  },
+  {
+    "name": "IBC Tower",
+    "year": "2003",
+    "height": 112.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20IBC.20130423.jpg",
+    "latitude": 50.1144,
+    "longitude": 8.6425,
+    "state": null,
+    "wikidata": "Q194871"
+  },
+  {
+    "name": "City-Haus",
+    "year": "1974",
+    "height": 142.1,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/City-Haus-2008.jpg",
+    "latitude": 50.110277777,
+    "longitude": 8.66,
+    "state": null,
+    "wikidata": "Q195138"
+  },
+  {
+    "name": "Millennium Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Europaviertel%20modell.jpg",
+    "latitude": 50.10944444,
+    "longitude": 8.65555556,
+    "state": null,
+    "wikidata": "Q195155"
+  },
+  {
+    "name": "Trianon",
+    "year": "1993",
+    "height": 186.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Trianon.S%C3%BCd.20130618.jpg",
+    "latitude": 50.1125,
+    "longitude": 8.666666666,
+    "state": null,
+    "wikidata": "Q195166"
+  },
+  {
+    "name": "Park Tower",
+    "year": "1972",
+    "height": 115.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Park%20Tower.20131019.jpg",
+    "latitude": 50.1169,
+    "longitude": 8.67056,
+    "state": null,
+    "wikidata": "Q195212"
+  },
+  {
+    "name": "Eurotower",
+    "year": "1978",
+    "height": 148.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eurotower%20mit%20Euro-Skulptur.jpg",
+    "latitude": 50.109722222,
+    "longitude": 8.674166666,
+    "state": null,
+    "wikidata": "Q198046"
+  },
+  {
+    "name": "Westhafen Tower",
+    "year": "2004",
+    "height": 112.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westhafen%20Tower%202019.jpg",
+    "latitude": 50.101111111,
+    "longitude": 8.664166666,
+    "state": null,
+    "wikidata": "Q882664"
+  },
+  {
+    "name": "Friedrich-Engelhorn-Hochhaus",
+    "year": "1957",
+    "height": 101.63,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwigshafen%20Friedrich-Engelhorn-Hochhaus%2020100709.jpg",
+    "latitude": 49.495972,
+    "longitude": 8.432167,
+    "state": null,
+    "wikidata": "Q880667"
+  },
+  {
+    "name": "Die Pyramide",
+    "year": "1995",
+    "height": 100.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlin-Marzahn%20-%20Die%20Pyramide%203.jpg",
+    "latitude": 52.534722222,
+    "longitude": 13.518611111,
+    "state": null,
+    "wikidata": "Q882505"
+  },
+  {
+    "name": "Eurotheum",
+    "year": "1999",
+    "height": 110.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eurotheum-1.jpg",
+    "latitude": 50.112777777,
+    "longitude": 8.671944444,
+    "state": null,
+    "wikidata": "Q879987"
+  },
+  {
+    "name": "KölnTriangle",
+    "year": null,
+    "height": 103.2,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6lnTriangle%20%280684%29.jpg",
+    "latitude": 50.9404,
+    "longitude": 6.97167,
+    "state": null,
+    "wikidata": "Q1795892"
+  },
+  {
+    "name": "Postbank Tower",
+    "year": "1967",
+    "height": 91.59,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Postbank-Hochhaus-Essen-Abend-2013.jpg",
+    "latitude": 51.450555555,
+    "longitude": 7.012222222,
+    "state": null,
+    "wikidata": "Q2105997"
+  },
+  {
+    "name": "Forum Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Forum%20Tower%20bzw.%20Potsdamer%20Platz%2011%20in%20Berlin.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q73231187"
+  },
+  {
+    "name": "The Seven",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Seven%27%20in%20der%20M%C3%BCllerstra%C3%9Fe%207%20in%20M%C3%BCnchen.JPG",
+    "latitude": 48.1319,
+    "longitude": 11.5735,
+    "state": null,
+    "wikidata": "Q2414168"
+  },
+  {
+    "name": "Westarkade",
+    "year": "2010",
+    "height": 56.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westarkade%20Frankfurt.jpg",
+    "latitude": 50.1206,
+    "longitude": 8.65452,
+    "state": null,
+    "wikidata": "Q2564456"
+  },
+  {
+    "name": "Donaucenter",
+    "year": "1974",
+    "height": 54.32,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donaucenter.JPG",
+    "latitude": 48.3945,
+    "longitude": 9.99657,
+    "state": null,
+    "wikidata": "Q50877345"
+  },
+  {
+    "name": "Neuer Henninger Turm",
+    "year": "2017",
+    "height": 140.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neuer-henningerturm-2017-ffm-2936.jpg",
+    "latitude": 50.097222222,
+    "longitude": 8.693333333,
+    "state": null,
+    "wikidata": "Q59149414"
+  },
+  {
+    "name": "Skyper tower",
+    "year": "2004",
+    "height": 153.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SkyperFrankfurtM%20P1250540.JPG",
+    "latitude": 50.110509285,
+    "longitude": 8.669566937,
+    "state": null,
+    "wikidata": "Q124025973"
+  },
+  {
+    "name": "Upbeat",
+    "year": "2025",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%2020260711%20Upbeat%2002.jpg",
+    "latitude": 52.536380897,
+    "longitude": 13.361010195,
+    "state": null,
+    "wikidata": "Q140772649"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Babillon Tower",
+    "year": "2018",
+    "height": 170.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F.jpg",
+    "latitude": 41.650252777,
+    "longitude": 41.629461111,
+    "state": null,
+    "wikidata": "Q16836601"
+  },
+  {
+    "name": "Alliance Privilege",
+    "year": "2020",
+    "height": 190.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Batuminew.png",
+    "latitude": 41.64856,
+    "longitude": 41.62381,
+    "state": null,
+    "wikidata": "Q139908755"
+  },
+  {
+    "name": "Alliance Palace",
+    "year": "2019",
+    "height": 132.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlliancePalace.jpg",
+    "latitude": 41.64147,
+    "longitude": 41.61602,
+    "state": null,
+    "wikidata": "Q139913108"
+  }
+]

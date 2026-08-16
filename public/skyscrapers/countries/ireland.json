@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Liberty Hall",
+    "year": "1961",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Liberty%20Hall%20Dublin%20SIPTU%20HQ.jpg",
+    "latitude": 53.348333333,
+    "longitude": -6.255277777,
+    "state": null,
+    "wikidata": "Q1823025"
+  },
+  {
+    "name": "U2 Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/U2%20Tower%20site%20with%20cranes.jpg",
+    "latitude": 53.3449,
+    "longitude": -6.2324,
+    "state": null,
+    "wikidata": "Q7863588"
+  }
+]

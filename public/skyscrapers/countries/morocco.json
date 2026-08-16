@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mohammed VI Tower",
+    "year": null,
+    "height": 250.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Burg%20Mohammed%206.jpg",
+    "latitude": 34.019018,
+    "longitude": -6.80513,
+    "state": null,
+    "wikidata": "Q25452628"
+  },
+  {
+    "name": "Maroc Telecom HQ",
+    "year": "2013",
+    "height": null,
+    "image": null,
+    "latitude": 33.958312,
+    "longitude": -6.870667,
+    "state": null,
+    "wikidata": "Q28087475"
+  },
+  {
+    "name": "Casablanca Finance City Tower",
+    "year": "2019",
+    "height": 136.0,
+    "image": null,
+    "latitude": 33.56355,
+    "longitude": -7.661,
+    "state": null,
+    "wikidata": "Q60851364"
+  }
+]

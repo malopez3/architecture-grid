@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Kenya Commercial Bank Plaza",
+    "year": "2015",
+    "height": null,
+    "image": null,
+    "latitude": -1.3,
+    "longitude": 36.81333333,
+    "state": null,
+    "wikidata": "Q15036568"
+  },
+  {
+    "name": "Teleposta Towers",
+    "year": "1999",
+    "height": 120.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Teleposta%20Towers%2C%202025%20%2801%29.jpg",
+    "latitude": -1.286194444,
+    "longitude": 36.819363888,
+    "state": null,
+    "wikidata": "Q7696767"
+  },
+  {
+    "name": "UAP Tower",
+    "year": "2015",
+    "height": 163.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UAP%20Old%20Mutual%20Tower%20Skyline.jpg",
+    "latitude": -1.30055556,
+    "longitude": 36.81305556,
+    "state": null,
+    "wikidata": "Q20899643"
+  },
+  {
+    "name": "Q10412486",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anniversery%20towers.jpg",
+    "latitude": -1.28166667,
+    "longitude": 36.81638889,
+    "state": null,
+    "wikidata": "Q10412486"
+  },
+  {
+    "name": "Lonrho House",
+    "year": "1990",
+    "height": 79.86,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lonrho%20House.jpg",
+    "latitude": -1.28472222,
+    "longitude": 36.82277778,
+    "state": null,
+    "wikidata": "Q10569242"
+  },
+  {
+    "name": "Kenyatta International Convention Centre",
+    "year": "1974",
+    "height": 105.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KICC%20nairobi%20kenya.jpg",
+    "latitude": -1.288611111,
+    "longitude": 36.823055555,
+    "state": null,
+    "wikidata": "Q3272625"
+  },
+  {
+    "name": "Britam Tower",
+    "year": "2017",
+    "height": 200.1,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Britam%20tower.jpg",
+    "latitude": -1.300087,
+    "longitude": 36.813017,
+    "state": null,
+    "wikidata": "Q28223286"
+  },
+  {
+    "name": "Times Tower",
+    "year": "2000",
+    "height": 140.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Times%20tower.jpg",
+    "latitude": -1.290277777,
+    "longitude": 36.823888888,
+    "state": null,
+    "wikidata": "Q4384864"
+  },
+  {
+    "name": "Cytonn Towers",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q55608745"
+  },
+  {
+    "name": "The Pinnacle (Nairobi)",
+    "year": null,
+    "height": 320.0,
+    "image": null,
+    "latitude": -1.29666667,
+    "longitude": 36.81805556,
+    "state": null,
+    "wikidata": "Q55642324"
+  }
+]

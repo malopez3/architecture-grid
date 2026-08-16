@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Seljuk Tower",
+    "year": "2002",
+    "height": 163.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Konya%20Kule%20Site%20-%20panoramio.jpg",
+    "latitude": 37.888808,
+    "longitude": 32.494197,
+    "state": null,
+    "wikidata": "Q12811774"
+  },
+  {
+    "name": "Diamond of Istanbul",
+    "year": "2015",
+    "height": 311.0,
+    "image": null,
+    "latitude": 41.109444444,
+    "longitude": 29.023888888,
+    "state": null,
+    "wikidata": "Q1208733"
+  },
+  {
+    "name": "Istanbul Sapphire",
+    "year": "2011",
+    "height": 261.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20Sapphire%2002.jpg",
+    "latitude": 41.085,
+    "longitude": 29.005833333,
+    "state": null,
+    "wikidata": "Q166882"
+  },
+  {
+    "name": "Hilton Izmir",
+    "year": "1992",
+    "height": 142.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilton%20%C4%B0zmir%2C%20December%202018%20%282%29.jpg",
+    "latitude": 38.425583333,
+    "longitude": 27.137138888,
+    "state": null,
+    "wikidata": "Q4822225"
+  },
+  {
+    "name": "Mertim",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/126%20Mersin.07.2006%20resize.JPG",
+    "latitude": 36.8,
+    "longitude": 34.61666667,
+    "state": null,
+    "wikidata": "Q6820699"
+  },
+  {
+    "name": "Mistral Residential Tower",
+    "year": "2017",
+    "height": 154.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mistral%20Residance%20Tower.jpg",
+    "latitude": 38.447861111,
+    "longitude": 27.177972222,
+    "state": null,
+    "wikidata": "Q89362207"
+  },
+  {
+    "name": "Trump Towers Istanbul",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trump%20Towers%2C%20%C5%9Ei%C5%9Fli%20-%20residental%20tower.jpg",
+    "latitude": 41.0675,
+    "longitude": 28.9925,
+    "state": null,
+    "wikidata": "Q7847787"
+  },
+  {
+    "name": "Garden Plaza",
+    "year": "2010",
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q5522286"
+  },
+  {
+    "name": "Metropol Istanbul",
+    "year": "2017",
+    "height": 250.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Metropol%20Istanbul%20Tower%201%20%28cropped%29.jpg",
+    "latitude": 40.994527777,
+    "longitude": 29.121861111,
+    "state": null,
+    "wikidata": "Q104804875"
+  },
+  {
+    "name": "Mahall Bomonti İzmir",
+    "year": "2023",
+    "height": 240.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahall.png",
+    "latitude": 38.433611111,
+    "longitude": 27.163888888,
+    "state": null,
+    "wikidata": "Q107717743"
+  },
+  {
+    "name": "Grand Hotel Konya",
+    "year": "2002",
+    "height": 132.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rixos%20Hotel%20in%20Konya.JPG",
+    "latitude": 38.005555555,
+    "longitude": 32.516666666,
+    "state": null,
+    "wikidata": "Q6021330"
+  },
+  {
+    "name": "Tekfen Tower",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tekfen%20Sabanci%20IsBank.jpg",
+    "latitude": 41.0819,
+    "longitude": 29.0089,
+    "state": null,
+    "wikidata": "Q6077513"
+  },
+  {
+    "name": "Point Bornova",
+    "year": "2015",
+    "height": 193.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Point%20Bornova%20%C4%B0zmir.jpg",
+    "latitude": 38.430555555,
+    "longitude": 27.210277777,
+    "state": null,
+    "wikidata": "Q21600725"
+  },
+  {
+    "name": "Spine Tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q21600732"
+  },
+  {
+    "name": "Sheraton Ankara",
+    "year": "1991",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%20asv2021-10%20img13%20view%20from%20Atakule%20mall.jpg",
+    "latitude": 39.9,
+    "longitude": 32.8647,
+    "state": null,
+    "wikidata": "Q3481901"
+  },
+  {
+    "name": "Şişli Plaza",
+    "year": "2007",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%201180099.jpg",
+    "latitude": 41.0604,
+    "longitude": 28.9912,
+    "state": null,
+    "wikidata": "Q3485327"
+  },
+  {
+    "name": "Skyland Istanbul",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skyland%20Istanbul.jpg",
+    "latitude": 41.1019,
+    "longitude": 28.9876,
+    "state": null,
+    "wikidata": "Q28221132"
+  },
+  {
+    "name": "Nidakule Kozyatağı",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nidakule%20Kozyata%C4%9F%C4%B1%2C%20Istanbul.jpg",
+    "latitude": 40.9738514,
+    "longitude": 29.0987062,
+    "state": null,
+    "wikidata": "Q114315401"
+  },
+  {
+    "name": "Crystal Tower",
+    "year": "2014",
+    "height": 168.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/QNB%20Finansbank%20Kristal%20Kule%202.jpg",
+    "latitude": 41.082777777,
+    "longitude": 29.008611111,
+    "state": null,
+    "wikidata": "Q116028173"
+  },
+  {
+    "name": "Istanbloom",
+    "year": "2015",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C4%B0stanbloom.jpg",
+    "latitude": 41.072936,
+    "longitude": 29.011548,
+    "state": null,
+    "wikidata": "Q117800163"
+  },
+  {
+    "name": "Süzer Plaza",
+    "year": "2000",
+    "height": 153.6,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ritz-Carlton%2C%20Istanbul%20%28seen%20from%20the%20Bosphorus%29.jpg",
+    "latitude": 41.0402,
+    "longitude": 28.9922,
+    "state": null,
+    "wikidata": "Q3511624"
+  },
+  {
+    "name": "Istanbul Tower 205",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20Tower%20205%2C%20Istanbul.jpg",
+    "latitude": 41.081215705,
+    "longitude": 29.01010421,
+    "state": null,
+    "wikidata": "Q30738712"
+  },
+  {
+    "name": "Q30752661",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q30752661"
+  },
+  {
+    "name": "Mistral Office Tower",
+    "year": "2017",
+    "height": 216.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mistral%20Office%20Tower%2001.jpg",
+    "latitude": 38.448027777,
+    "longitude": 27.179388888,
+    "state": null,
+    "wikidata": "Q30752740"
+  },
+  {
+    "name": "Nurol Life",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 41.105423902,
+    "longitude": 28.992063239,
+    "state": null,
+    "wikidata": "Q30752960"
+  },
+  {
+    "name": "Q55004168",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dikmen%20Vadisi%2022082012%20-%20panoramio.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q55004168"
+  },
+  {
+    "name": "Q56381061",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 41.102248,
+    "longitude": 28.985551,
+    "state": null,
+    "wikidata": "Q56381061"
+  },
+  {
+    "name": "Q56381090",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 41.102773,
+    "longitude": 28.986731,
+    "state": null,
+    "wikidata": "Q56381090"
+  },
+  {
+    "name": "Q57279439",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gandi%20Street%20-%20%C3%87ankaya.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q57279439"
+  },
+  {
+    "name": "İnci Mega",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 38.4475,
+    "longitude": 27.176666666,
+    "state": null,
+    "wikidata": "Q135471429"
+  },
+  {
+    "name": "Biva Tower",
+    "year": "2022",
+    "height": 151.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Biva%20Tower.jpg",
+    "latitude": 38.452638888,
+    "longitude": 27.182722222,
+    "state": null,
+    "wikidata": "Q135471481"
+  },
+  {
+    "name": "Fors İzmir",
+    "year": "2025",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fors%20%C4%B0zmir%20Rezidans.jpg",
+    "latitude": 38.431638888,
+    "longitude": 27.1595,
+    "state": null,
+    "wikidata": "Q135471590"
+  }
+]

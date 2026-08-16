@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Capital Fort",
+    "year": "2015",
+    "height": 126.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsarigradsko%20Shose%20and%20Capital%20Fort.png",
+    "latitude": 42.6464,
+    "longitude": 23.3958,
+    "state": null,
+    "wikidata": "Q5035571"
+  },
+  {
+    "name": "Sky Fort",
+    "year": null,
+    "height": 202.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Batch-IMG-0079.jpg",
+    "latitude": 42.6464,
+    "longitude": 23.3958,
+    "state": null,
+    "wikidata": "Q28405790"
+  }
+]

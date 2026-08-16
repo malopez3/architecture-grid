@@ -1,0 +1,922 @@
+[
+  {
+    "name": "Torre Moeve",
+    "year": "2008",
+    "height": 248.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Cepsa%20%28Madrid%29%2001.jpg",
+    "latitude": 40.475555555,
+    "longitude": -3.687777777,
+    "state": null,
+    "wikidata": "Q519568"
+  },
+  {
+    "name": "Edificio España",
+    "year": "1953",
+    "height": 117.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20Espa%C3%B1a%202025.jpg",
+    "latitude": 40.424191666,
+    "longitude": -3.710944444,
+    "state": null,
+    "wikidata": "Q649426"
+  },
+  {
+    "name": "Torre Glòries",
+    "year": "2005",
+    "height": 144.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Agbar%20-%20Barcelona%2C%20Spain%20-%20Jan%202007.jpg",
+    "latitude": 41.403489,
+    "longitude": 2.189519,
+    "state": null,
+    "wikidata": "Q336246"
+  },
+  {
+    "name": "Q12256565",
+    "year": null,
+    "height": 72.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mondrag%C3%B3n%20-%20Torre%20Eguzki%203.jpg",
+    "latitude": 43.06084722,
+    "longitude": -2.50039722,
+    "state": null,
+    "wikidata": "Q12256565"
+  },
+  {
+    "name": "Q12257379",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Etxetxu.jpg",
+    "latitude": 43.25666667,
+    "longitude": -2.945,
+    "state": null,
+    "wikidata": "Q12257379"
+  },
+  {
+    "name": "Q12257381",
+    "year": "1968",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Etxezuri.jpg",
+    "latitude": 43.26055556,
+    "longitude": -2.94638889,
+    "state": null,
+    "wikidata": "Q12257381"
+  },
+  {
+    "name": "Dorre Barriak",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dorre%20Barriak%201.jpg",
+    "latitude": 43.26083333,
+    "longitude": -2.94944444,
+    "state": null,
+    "wikidata": "Q12258202"
+  },
+  {
+    "name": "Q12265178",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 43.25911944,
+    "longitude": -1.94654167,
+    "state": null,
+    "wikidata": "Q12265178"
+  },
+  {
+    "name": "Pormetxeta tower",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 43.29916667,
+    "longitude": -2.98111111,
+    "state": null,
+    "wikidata": "Q12266132"
+  },
+  {
+    "name": "Salburu bulebarra 31",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salburua%20Bulebarra%2031.jpg",
+    "latitude": 42.84519444,
+    "longitude": -2.64888889,
+    "state": null,
+    "wikidata": "Q12266788"
+  },
+  {
+    "name": "Q12268077",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 38.53552222,
+    "longitude": -0.1083,
+    "state": null,
+    "wikidata": "Q12268077"
+  },
+  {
+    "name": "Q12268081",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ordizia%2002.JPG",
+    "latitude": 43.05308611,
+    "longitude": -2.18086111,
+    "state": null,
+    "wikidata": "Q12268081"
+  },
+  {
+    "name": "Unzaga Dorrea",
+    "year": "1968",
+    "height": 77.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eibar%20-%20Torre%20Unzaga%202.JPG",
+    "latitude": 43.18406,
+    "longitude": -2.47246,
+    "state": null,
+    "wikidata": "Q12268593"
+  },
+  {
+    "name": "Vallehermoso Dorrea",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vallehermoso%20dorrea.jpg",
+    "latitude": 43.29,
+    "longitude": -2.98944444,
+    "state": null,
+    "wikidata": "Q12268818"
+  },
+  {
+    "name": "Residential Intempo",
+    "year": null,
+    "height": 187.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/InTempo%2C%20Benidorm%2C%20Espa%C3%B1a%2C%202014-07-02%2C%20DD%2028.JPG",
+    "latitude": 38.538045,
+    "longitude": -0.154645,
+    "state": null,
+    "wikidata": "Q14530911"
+  },
+  {
+    "name": "Estudiotel Alicante",
+    "year": "1962",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Estudiotel%20Alicante%20%28El%20Riscal%29.JPG",
+    "latitude": 38.3445042,
+    "longitude": -0.4904419,
+    "state": null,
+    "wikidata": "Q14753676"
+  },
+  {
+    "name": "Torre de Cristal",
+    "year": "2009",
+    "height": 249.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20de%20Cristal%20%28Madrid%29%2005a.jpg",
+    "latitude": 40.478055555,
+    "longitude": -3.687222222,
+    "state": null,
+    "wikidata": "Q953610"
+  },
+  {
+    "name": "Torre de Madrid",
+    "year": "1957",
+    "height": 142.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20de%20Madrid%202025.jpg",
+    "latitude": 40.424444444,
+    "longitude": -3.712222222,
+    "state": null,
+    "wikidata": "Q1063195"
+  },
+  {
+    "name": "Hotel Arts",
+    "year": "1994",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Arts.jpg",
+    "latitude": 41.386666666,
+    "longitude": 2.196111111,
+    "state": null,
+    "wikidata": "Q1425790"
+  },
+  {
+    "name": "Torre Werfen",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Werfen.JPG",
+    "latitude": 41.356465,
+    "longitude": 2.127647,
+    "state": null,
+    "wikidata": "Q1443364"
+  },
+  {
+    "name": "La Caixa towers",
+    "year": "1979",
+    "height": 85.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torres%20de%20la%20Caixa.jpg",
+    "latitude": 41.38751,
+    "longitude": 2.12668,
+    "state": null,
+    "wikidata": "Q6461435"
+  },
+  {
+    "name": "Gate of Europe",
+    "year": "1996",
+    "height": 114.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Castellana300308.JPG",
+    "latitude": 40.466388888,
+    "longitude": -3.687777777,
+    "state": null,
+    "wikidata": "Q1141262"
+  },
+  {
+    "name": "Torre Inbisa",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Inbisa.JPG",
+    "latitude": 41.3571,
+    "longitude": 2.1278,
+    "state": null,
+    "wikidata": "Q1189214"
+  },
+  {
+    "name": "Hotel Catalonia Plaza Europa",
+    "year": "2011",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renaissance%20Barcelona%20Fira%20Hotel%2010.jpg",
+    "latitude": 41.356372833,
+    "longitude": 2.123102903,
+    "state": null,
+    "wikidata": "Q1189222"
+  },
+  {
+    "name": "Torre Realia BCN",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hospitalet%20de%20Llobregat%20-%20Plaza%20de%20Europa%2C%20Torres%20de%20Toyo%20Ito%20%28Torres%20Porta%20Fira%29%2C%20Torre%20Realia%20BCN%205.JPG",
+    "latitude": 41.35555,
+    "longitude": 2.12511,
+    "state": null,
+    "wikidata": "Q1189521"
+  },
+  {
+    "name": "Hotel Porta Fira",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hospitalet%20de%20Llobregat%20-%20Plaza%20de%20Europa%2C%20Torres%20de%20Toyo%20Ito%20%28Torres%20Porta%20Fira%29%2C%20Hotel%20Porta%20Fira%2016.JPG",
+    "latitude": 41.35489,
+    "longitude": 2.12554,
+    "state": null,
+    "wikidata": "Q1189944"
+  },
+  {
+    "name": "La Unión y el Fénix Español building",
+    "year": "1931",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20La%20Uni%C3%B3n%20y%20el%20F%C3%A9nix%20Espa%C3%B1ol%20%28Madrid%29%2007.jpg",
+    "latitude": 40.418246,
+    "longitude": -3.699372,
+    "state": null,
+    "wikidata": "Q1284550"
+  },
+  {
+    "name": "Emperador Castellana Tower",
+    "year": "2008",
+    "height": 230.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Espacio%20%28Madrid%29%2005a.jpg",
+    "latitude": 40.478888888,
+    "longitude": -3.686666666,
+    "state": null,
+    "wikidata": "Q1364354"
+  },
+  {
+    "name": "Torre Picasso",
+    "year": "1988",
+    "height": 157.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Picasso%20-%2001.jpg",
+    "latitude": 40.450277777,
+    "longitude": -3.6925,
+    "state": null,
+    "wikidata": "Q1364394"
+  },
+  {
+    "name": "Torre Puig",
+    "year": "2014",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hospitalet%20de%20Llobregat%20-%20Plaza%20de%20Europa%2C%20Torre%20Puig%202.JPG",
+    "latitude": 41.357292175,
+    "longitude": 2.122281074,
+    "state": null,
+    "wikidata": "Q16641572"
+  },
+  {
+    "name": "Torre Núñez y Navarro",
+    "year": "1993",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barcelona%2033B%202013.jpg",
+    "latitude": 41.378410339,
+    "longitude": 2.145068883,
+    "state": null,
+    "wikidata": "Q17093744"
+  },
+  {
+    "name": "Diagonal Zero Zero",
+    "year": "2011",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Diagonal%20ZeroZero%2001.jpg",
+    "latitude": 41.412012,
+    "longitude": 2.220321,
+    "state": null,
+    "wikidata": "Q5270361"
+  },
+  {
+    "name": "Edificio Allianz, Barcelona",
+    "year": "1993",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Allianz%20Barcelona%20-%20001.jpg",
+    "latitude": 41.376580783,
+    "longitude": 2.147108954,
+    "state": null,
+    "wikidata": "Q5338039"
+  },
+  {
+    "name": "Edifici Colon",
+    "year": "1970",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20ramblas.jpg",
+    "latitude": 41.3765,
+    "longitude": 2.17524,
+    "state": null,
+    "wikidata": "Q5338045"
+  },
+  {
+    "name": "Torre PwC",
+    "year": "2008",
+    "height": 236.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Sacyr%20Vallehermoso%20%28Madrid%29%2005a.jpg",
+    "latitude": 40.476666666,
+    "longitude": -3.687777777,
+    "state": null,
+    "wikidata": "Q651643"
+  },
+  {
+    "name": "Bilbao Exhibition Centre",
+    "year": "2004",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baracaldo%20-%20Bilbao%20Exhibition%20Center%20%28BEC%29%2051.jpg",
+    "latitude": 43.28944444,
+    "longitude": -2.98972222,
+    "state": null,
+    "wikidata": "Q4907607"
+  },
+  {
+    "name": "Torre La Sagrera",
+    "year": null,
+    "height": 148.0,
+    "image": null,
+    "latitude": 41.429793,
+    "longitude": 2.19732,
+    "state": null,
+    "wikidata": "Q1805449"
+  },
+  {
+    "name": "Gratacel Urquinaona",
+    "year": "1936",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gratacels%20Urquinaona%20%28Edifici%20F%C3%A0bregas%29%20-%20%28Barcelona%29.jpg",
+    "latitude": 41.3888,
+    "longitude": 2.17397,
+    "state": null,
+    "wikidata": "Q17374428"
+  },
+  {
+    "name": "Torre Banc de Sabadell",
+    "year": "1969",
+    "height": 83.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20120309%20MG%205358.JPG",
+    "latitude": 41.395,
+    "longitude": 2.155388888,
+    "state": null,
+    "wikidata": "Q7826946"
+  },
+  {
+    "name": "Alfredo Mahou Building",
+    "year": "1990",
+    "height": 85.19,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20Alfredo%20Mahou%20%28Madrid%29%2002.jpg",
+    "latitude": 40.448419444,
+    "longitude": -3.694183333,
+    "state": null,
+    "wikidata": "Q7826967"
+  },
+  {
+    "name": "Torre de Francia",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edifici.JPG",
+    "latitude": 39.4597,
+    "longitude": -0.3525,
+    "state": null,
+    "wikidata": "Q7826984"
+  },
+  {
+    "name": "Torre Europa",
+    "year": "1985",
+    "height": 120.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Europa%20%28Madrid%29.JPG",
+    "latitude": 40.451666666,
+    "longitude": -3.691666666,
+    "state": null,
+    "wikidata": "Q2421828"
+  },
+  {
+    "name": "Torre Beni Beach",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benidorm%20-%20Torre%20Beni%20Beach%203.jpg",
+    "latitude": 38.537644561,
+    "longitude": -0.141441606,
+    "state": null,
+    "wikidata": "Q100709519"
+  },
+  {
+    "name": "Bizkaia Dorrea",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bizkaia%20Dorrea%20-%20Bilbao.jpg",
+    "latitude": 43.260793137,
+    "longitude": -2.950645265,
+    "state": null,
+    "wikidata": "Q100876214"
+  },
+  {
+    "name": "A Torre Building",
+    "year": "1968",
+    "height": 76.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ourense%2C%20Galicia%2C%20Espa%C3%B1a.%20Torre%20do%20Hotel%20San%20Mart%C3%ADn.jpg",
+    "latitude": 42.345015186,
+    "longitude": -7.864923974,
+    "state": null,
+    "wikidata": "Q102772751"
+  },
+  {
+    "name": "Hotel Barcelona Princess",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barcelona%20-%20Hotel%20Barcelona%20Princess%2011.jpg",
+    "latitude": 41.410833333,
+    "longitude": 2.218611111,
+    "state": null,
+    "wikidata": "Q5911239"
+  },
+  {
+    "name": "Hotel Torre Catalunya",
+    "year": "1977",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nobu%20Hotel%2C%20Barcelona%20%28P1170741%29.jpg",
+    "latitude": 41.3797,
+    "longitude": 2.1425,
+    "state": null,
+    "wikidata": "Q5912045"
+  },
+  {
+    "name": "Torre Titania",
+    "year": "2013",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Titania%20%28Madrid%29%2006.jpg",
+    "latitude": 40.446763888,
+    "longitude": -3.694522222,
+    "state": null,
+    "wikidata": "Q6150288"
+  },
+  {
+    "name": "W Barcelona",
+    "year": "2009",
+    "height": 98.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/14-08-05-barcelona-RalfR-001.jpg",
+    "latitude": 41.3686286,
+    "longitude": 2.1900022,
+    "state": null,
+    "wikidata": "Q2648632"
+  },
+  {
+    "name": "Woermann Tower",
+    "year": "2005",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Woermann%2C%20Las%20Palmas%20de%20Gran%20Canaria.jpg",
+    "latitude": 28.1456,
+    "longitude": -15.4298,
+    "state": null,
+    "wikidata": "Q8029040"
+  },
+  {
+    "name": "Anoeta tower (Donostia-San Sebastián)",
+    "year": "1977",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anoetako%20dorrea%202.jpg",
+    "latitude": 43.302611,
+    "longitude": -1.975401,
+    "state": null,
+    "wikidata": "Q22812464"
+  },
+  {
+    "name": "Castellana 81",
+    "year": "1981",
+    "height": 107.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20del%20Banco%20de%20Bilbao%2015.jpg",
+    "latitude": 40.447777777,
+    "longitude": -3.691944444,
+    "state": null,
+    "wikidata": "Q2916305"
+  },
+  {
+    "name": "Torres de Colón",
+    "year": "1976",
+    "height": 116.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torres%20de%20Col%C3%B3n%2C%20Madrid%2C%202017-11-01%2C%20Tripleca%C3%B1a%2004.jpg",
+    "latitude": 40.425833333,
+    "longitude": -3.691111111,
+    "state": null,
+    "wikidata": "Q2919969"
+  },
+  {
+    "name": "Hyatt Regency Barcelona Tower",
+    "year": "2006",
+    "height": 105.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spain.Catalonia.Hospitalet.Hotel.Hesperia.Plantilla.JPG",
+    "latitude": 41.34611111,
+    "longitude": 2.10833333,
+    "state": null,
+    "wikidata": "Q3044181"
+  },
+  {
+    "name": "Hilton Valencia",
+    "year": "2006",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Hilton%20Valencia%20002.JPG",
+    "latitude": 39.49444444,
+    "longitude": -0.40111111,
+    "state": null,
+    "wikidata": "Q3062297"
+  },
+  {
+    "name": "Water Tower",
+    "year": null,
+    "height": 76.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Expo%202008%20zaragoza%20torre%20del%20agua.jpg",
+    "latitude": 41.6704,
+    "longitude": -0.907528,
+    "state": null,
+    "wikidata": "Q3063065"
+  },
+  {
+    "name": "Iberdrola Tower",
+    "year": "2012",
+    "height": 165.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iberdrola%20Tower%202019.jpg",
+    "latitude": 43.2675,
+    "longitude": -2.938611111,
+    "state": null,
+    "wikidata": "Q3121267"
+  },
+  {
+    "name": "Torre Diagonal",
+    "year": "2016",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Diagonal%20de%20Barcelona.jpg",
+    "latitude": 41.405967,
+    "longitude": 2.199717,
+    "state": null,
+    "wikidata": "Q108862098"
+  },
+  {
+    "name": "Torre de las Mercedes",
+    "year": "1964",
+    "height": 70.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20de%20las%20Mercedes%20Valladolid%20%28cropped%29.jpg",
+    "latitude": 41.639514179,
+    "longitude": -4.73885924,
+    "state": null,
+    "wikidata": "Q110954364"
+  },
+  {
+    "name": "Torre Zaisa",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ir%C3%BAn%20-%20Behobia%2C%20Torre%20Zaisa%203.JPG",
+    "latitude": 43.34290833,
+    "longitude": -1.75885,
+    "state": null,
+    "wikidata": "Q24088393"
+  },
+  {
+    "name": "Errotaburuko dorreak",
+    "year": "1992",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Errotaburuko%20dorreak%2C%20Donostia.%20Gipuzkoa%2C%20Euskal%20Herria.jpg",
+    "latitude": 43.30109167,
+    "longitude": -2.003875,
+    "state": null,
+    "wikidata": "Q25474437"
+  },
+  {
+    "name": "Q25475315",
+    "year": "1975",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pamplona%20-%20Caja%20Rural%20de%20Navarra.jpg",
+    "latitude": 42.81293333,
+    "longitude": -1.64596111,
+    "state": null,
+    "wikidata": "Q25475315"
+  },
+  {
+    "name": "Edificio Banco Pastor, A Coruña",
+    "year": "1925",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Coru%C3%B1a%20-%20Banco%20Pastor%203.JPG",
+    "latitude": 43.367824,
+    "longitude": -8.403815,
+    "state": null,
+    "wikidata": "Q25511393"
+  },
+  {
+    "name": "Illa del Mar",
+    "year": "1993",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/086%20Edificis%20Illa%20del%20Mar%2C%20Diagonal%20Mar%20%28Barcelona%29%2C%20des%20del%20passeig%20del%20Taulat.jpg",
+    "latitude": 41.40674,
+    "longitude": 2.21645,
+    "state": null,
+    "wikidata": "Q12060684"
+  },
+  {
+    "name": "Edificio Bel Air",
+    "year": "1960",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Teide%20-%202007%20-%20view%20from%20Puerto%20de%20la%20Cruz.jpg",
+    "latitude": 28.4148,
+    "longitude": -16.5479,
+    "state": null,
+    "wikidata": "Q12163956"
+  },
+  {
+    "name": "Edificio Albia",
+    "year": "1970",
+    "height": 70.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20Albia%203.jpg",
+    "latitude": 43.26472222,
+    "longitude": -2.9275,
+    "state": null,
+    "wikidata": "Q12253090"
+  },
+  {
+    "name": "Atotxa tower",
+    "year": "1972",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Atotxa%20dorrea%20Donostia%202003-09-29.JPG",
+    "latitude": 43.31805556,
+    "longitude": -1.97527778,
+    "state": null,
+    "wikidata": "Q12254431"
+  },
+  {
+    "name": "Q12254613",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 43.266331,
+    "longitude": -2.95418483,
+    "state": null,
+    "wikidata": "Q12254613"
+  },
+  {
+    "name": "Q12254614",
+    "year": null,
+    "height": 98.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ansio%20geltokia%20bec.jpg",
+    "latitude": 43.29,
+    "longitude": -2.98944444,
+    "state": null,
+    "wikidata": "Q12254614"
+  },
+  {
+    "name": "Q12255208",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 43.26694444,
+    "longitude": -2.945,
+    "state": null,
+    "wikidata": "Q12255208"
+  },
+  {
+    "name": "Q12256339",
+    "year": null,
+    "height": 75.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20vizente.jpg",
+    "latitude": 43.29305556,
+    "longitude": -3.00388889,
+    "state": null,
+    "wikidata": "Q12256339"
+  },
+  {
+    "name": "Antares",
+    "year": "2022",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20Antares.jpg",
+    "latitude": 41.411815724,
+    "longitude": 2.219269489,
+    "state": null,
+    "wikidata": "Q116532959"
+  },
+  {
+    "name": "Torre de la Rosaleda",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ponferrada%20-%20Barrio%20de%20la%20Rosaleda%20-%20Torre%20de%20la%20Rosaleda%2005.JPG",
+    "latitude": 42.5591,
+    "longitude": -6.60965,
+    "state": null,
+    "wikidata": "Q3532455"
+  },
+  {
+    "name": "Hotel Sky",
+    "year": "2008",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PereIV-HabitatSky.jpg",
+    "latitude": 41.40617778,
+    "longitude": 2.20079444,
+    "state": null,
+    "wikidata": "Q3749929"
+  },
+  {
+    "name": "Edificio Kronos",
+    "year": null,
+    "height": 140.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20Kronos.jpg",
+    "latitude": 38.546389,
+    "longitude": -0.121389,
+    "state": null,
+    "wikidata": "Q3753845"
+  },
+  {
+    "name": "Neguri Gane",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neguri%20Gane.JPG",
+    "latitude": 38.54448056,
+    "longitude": -0.12144444,
+    "state": null,
+    "wikidata": "Q3757252"
+  },
+  {
+    "name": "Rascacielos de la avenida Tres de Mayo",
+    "year": "1974",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SAM%200369.JPG",
+    "latitude": 28.46027778,
+    "longitude": -16.25305556,
+    "state": null,
+    "wikidata": "Q3930372"
+  },
+  {
+    "name": "Torres Blancas",
+    "year": "1969",
+    "height": 81.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torres%20Blancas%20%28Madrid%29%2004.jpg",
+    "latitude": 40.4397,
+    "longitude": -3.67201,
+    "state": null,
+    "wikidata": "Q3995702"
+  },
+  {
+    "name": "Torre Urquinaona",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Urquinaona%2C%20Barcelona.jpg",
+    "latitude": 41.389786111,
+    "longitude": 2.172883333,
+    "state": null,
+    "wikidata": "Q33083140"
+  },
+  {
+    "name": "Delfín Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Delfin%20Tower%2C%20Tripleca%C3%B1a%2C%202021-10-31.jpg",
+    "latitude": 38.532316666,
+    "longitude": -0.159533333,
+    "state": null,
+    "wikidata": "Q35516695"
+  },
+  {
+    "name": "Torre Chamartín Merlin",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Chamart%C3%ADn%20Merlin%2C%20Madrid.%2003.%20March%202018%20%28cropped%29.JPG",
+    "latitude": 40.485909,
+    "longitude": -3.6720759,
+    "state": null,
+    "wikidata": "Q47066126"
+  },
+  {
+    "name": "Edifici Atalaya",
+    "year": "1970",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/268%20Avinguda%20Diagonal%2C%20523-525%20%28Barcelona%29%2C%20edificis%20Atalaya%20i%20Naturgy.jpg",
+    "latitude": 41.390865325,
+    "longitude": 2.139342069,
+    "state": null,
+    "wikidata": "Q47170894"
+  },
+  {
+    "name": "Edificio Mapfre Vida, Madrid",
+    "year": "1988",
+    "height": 70.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20Mapfre.%20Avenida%20de%20Burgos.%20Madrid.JPG",
+    "latitude": 40.474011,
+    "longitude": -3.674686,
+    "state": null,
+    "wikidata": "Q54534434"
+  },
+  {
+    "name": "Edificio Génesis, Madrid",
+    "year": "1990",
+    "height": 72.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20G%C3%A9nesis.%20Avenida%20de%20Burgos.%20Madrid.JPG",
+    "latitude": 40.473537,
+    "longitude": -3.674849,
+    "state": null,
+    "wikidata": "Q54534958"
+  },
+  {
+    "name": "Puerta de Europa I",
+    "year": "1996",
+    "height": 114.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20Castilla%20%2811440623843%29.jpg",
+    "latitude": 40.467025,
+    "longitude": -3.690136111,
+    "state": null,
+    "wikidata": "Q56787231"
+  },
+  {
+    "name": "Puerta de Europa II",
+    "year": "1996",
+    "height": 114.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cuatro%20Torres%20%2811439914364%29.jpg",
+    "latitude": 40.466747222,
+    "longitude": -3.688244444,
+    "state": null,
+    "wikidata": "Q56787345"
+  },
+  {
+    "name": "Bolueta Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bilbao%20-%20Torres%20de%20Bolueta%2002.jpg",
+    "latitude": 43.246294166,
+    "longitude": -2.909516388,
+    "state": null,
+    "wikidata": "Q59654775"
+  },
+  {
+    "name": "Hilton Diagonal Mar",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barcelona%20-%20Hotel%20Hilton%20Diagonal%20Mar%205.jpg",
+    "latitude": 41.408688888,
+    "longitude": 2.217330555,
+    "state": null,
+    "wikidata": "Q124363161"
+  },
+  {
+    "name": "Representantes building",
+    "year": "1960",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20de%20los%20Representantes%20%28Alicante%29.jpg",
+    "latitude": 38.352203,
+    "longitude": -0.486754,
+    "state": null,
+    "wikidata": "Q130013586"
+  },
+  {
+    "name": "Q131177279",
+    "year": "2024",
+    "height": null,
+    "image": null,
+    "latitude": 36.73099621,
+    "longitude": -4.426421597,
+    "state": null,
+    "wikidata": "Q131177279"
+  },
+  {
+    "name": "Q134456085",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Madrid%20Nuevo%20Norte%20%E2%80%93%20Representation%20of%20projected%20future%20appearance%20of%20the%20area.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q134456085"
+  },
+  {
+    "name": "Q134521487",
+    "year": "2023",
+    "height": null,
+    "image": null,
+    "latitude": 38.534277777,
+    "longitude": -0.162472222,
+    "state": null,
+    "wikidata": "Q134521487"
+  }
+]

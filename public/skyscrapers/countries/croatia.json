@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Riječki neboder",
+    "year": "1942",
+    "height": 53.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rije%C4%8Dki%20neboder.jpg",
+    "latitude": 45.32802827,
+    "longitude": 14.43803072,
+    "state": null,
+    "wikidata": "Q12641225"
+  },
+  {
+    "name": "HOTO Tower",
+    "year": "2004",
+    "height": 64.5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HOTO%20toranj%20Savska%20Zagreb.jpg",
+    "latitude": 45.8017802,
+    "longitude": 15.9633889,
+    "state": null,
+    "wikidata": "Q951553"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Torre Latinoamericana",
+    "year": "1956",
+    "height": 182.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mexico%20df%20-%20Torre%20Latinoamerica.jpg",
+    "latitude": 19.433888888,
+    "longitude": -99.140555555,
+    "state": null,
+    "wikidata": "Q947870"
+  },
+  {
+    "name": "Torre Ejecutiva Pemex",
+    "year": "1982",
+    "height": 211.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20ejecutiva%20de%20PEMEX.jpg",
+    "latitude": 19.438889,
+    "longitude": -99.174722,
+    "state": null,
+    "wikidata": "Q948178"
+  },
+  {
+    "name": "Torre AXA México",
+    "year": "1982",
+    "height": 132.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Axa%20%282024%29%201.jpg",
+    "latitude": 19.3964,
+    "longitude": -99.165,
+    "state": null,
+    "wikidata": "Q53088"
+  },
+  {
+    "name": "Torre Mayor",
+    "year": "2003",
+    "height": 230.4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Mayor%2C%20M%C3%A9xico%20D.F.%2C%20M%C3%A9xico%2C%202014-10-13%2C%20DD%2011.JPG",
+    "latitude": 19.424166666,
+    "longitude": -99.175555555,
+    "state": null,
+    "wikidata": "Q844813"
+  },
+  {
+    "name": "Edificio Miguel E. Abed",
+    "year": "1952",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20E%20Abed%20Ciudad%20de%20M%C3%A9xico.JPG",
+    "latitude": 19.4242,
+    "longitude": -99.1756,
+    "state": null,
+    "wikidata": "Q5338054"
+  },
+  {
+    "name": "Arcos Bosques Torre 1",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pantalon.jpg",
+    "latitude": 19.386097222,
+    "longitude": -99.253841666,
+    "state": null,
+    "wikidata": "Q16641519"
+  },
+  {
+    "name": "Q19385412",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q19385412"
+  },
+  {
+    "name": "Torre Virreyes",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Virreyes%20-%20Lomas%20de%20Chapultepec%20-%20Ciudad%20de%20M%C3%A9xico.jpg",
+    "latitude": 19.425,
+    "longitude": -99.203333333,
+    "state": null,
+    "wikidata": "Q15993877"
+  },
+  {
+    "name": "Green View Tower",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Green%20View%20TIJ.jpg",
+    "latitude": 32.513333333,
+    "longitude": -117.009722222,
+    "state": null,
+    "wikidata": "Q16250808"
+  },
+  {
+    "name": "Centro Bursatil",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MexicoCityStockExchange01.jpg",
+    "latitude": 19.4295,
+    "longitude": -99.1643,
+    "state": null,
+    "wikidata": "Q16537105"
+  },
+  {
+    "name": "Torre Titanium",
+    "year": "2008",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre.titanium.terminada.jpg",
+    "latitude": 20.7091,
+    "longitude": -103.415,
+    "state": null,
+    "wikidata": "Q7826975"
+  },
+  {
+    "name": "Torre del Caballito",
+    "year": "1988",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20del%20Caballito%202009.JPG",
+    "latitude": 19.436197,
+    "longitude": -99.149339,
+    "state": null,
+    "wikidata": "Q7826993"
+  },
+  {
+    "name": "Torre Altus",
+    "year": "1998",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Altus%20Mex%20DF%202007.JPG",
+    "latitude": 19.3802,
+    "longitude": -99.2674,
+    "state": null,
+    "wikidata": "Q2266944"
+  },
+  {
+    "name": "Oceanic 2000",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Acapulco-Hot-Icacos%20-%20Oceanic2000.JPG",
+    "latitude": 16.8469,
+    "longitude": -99.8511,
+    "state": null,
+    "wikidata": "Q6048391"
+  },
+  {
+    "name": "Torre BBVA Mexico",
+    "year": "2016",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20BBVA%20Mexico%202019.jpg",
+    "latitude": 19.4227,
+    "longitude": -99.1747,
+    "state": null,
+    "wikidata": "Q6150039"
+  },
+  {
+    "name": "Torre Mitikah",
+    "year": "2018",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Mitikah%20en%20construcci%C3%B3n.jpg",
+    "latitude": 19.359261,
+    "longitude": -99.168482,
+    "state": null,
+    "wikidata": "Q6150196"
+  },
+  {
+    "name": "Torre de Acapulco",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Acapulco-Hot-Icacos%20-%20TorreAca2.JPG",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q6150326"
+  },
+  {
+    "name": "World Trade Center Mexico City",
+    "year": "1972",
+    "height": 207.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20wtc%20mexico.jpg",
+    "latitude": 19.394666666,
+    "longitude": -99.173861111,
+    "state": null,
+    "wikidata": "Q2712478"
+  },
+  {
+    "name": "Torre Insignia",
+    "year": "1962",
+    "height": 127.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vista%20de%20la%20cara%20norte%20de%20la%20Torre%20Insignia%20desde%20un%20puente%20peatonal%20en%20Insurgentes%20Nte.%2002.jpg",
+    "latitude": 19.4545369,
+    "longitude": -99.1511089,
+    "state": null,
+    "wikidata": "Q2779414"
+  },
+  {
+    "name": "Q2836987",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q2836987"
+  },
+  {
+    "name": "Torre Cube II",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": 20.707083,
+    "longitude": -103.4150475,
+    "state": null,
+    "wikidata": "Q26260970"
+  },
+  {
+    "name": "Torre Reforma",
+    "year": "2016",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Reforma1707.jpg",
+    "latitude": 19.4246,
+    "longitude": -99.1743,
+    "state": null,
+    "wikidata": "Q3433389"
+  },
+  {
+    "name": "University Tower",
+    "year": null,
+    "height": 203.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vista%20UT.jpg",
+    "latitude": 19.430527554,
+    "longitude": -99.157832275,
+    "state": null,
+    "wikidata": "Q119271002"
+  },
+  {
+    "name": "Platea Tower",
+    "year": "2021",
+    "height": 155.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Platea%20desde%20el%20centro%20comercial%20Angel%C3%B3polis%2002.jpg",
+    "latitude": 19.029217184,
+    "longitude": -98.228268729,
+    "state": null,
+    "wikidata": "Q119836112"
+  },
+  {
+    "name": "Inxignia tower",
+    "year": "2022",
+    "height": 265.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Inxignia%20desde%20el%20CCU%20BUAP%2003.jpg",
+    "latitude": 19.022510009,
+    "longitude": -98.244941446,
+    "state": null,
+    "wikidata": "Q119853699"
+  },
+  {
+    "name": "Q120930627",
+    "year": null,
+    "height": null,
+    "image": null,
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q120930627"
+  },
+  {
+    "name": "Metropolitan Center Complex",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Safi%20Metropolitan%20SPGG.jpg",
+    "latitude": 25.65058,
+    "longitude": -100.33302,
+    "state": null,
+    "wikidata": "Q30753443"
+  },
+  {
+    "name": "HSBC Tower",
+    "year": "2006",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HSBC%20Tower%2C%20Mexico%20City.jpg",
+    "latitude": 19.4278,
+    "longitude": -99.1686,
+    "state": null,
+    "wikidata": "Q3995199"
+  },
+  {
+    "name": "Torre Paradox",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Paradox%20-%20La%20Mexicana.jpg",
+    "latitude": 19.357222222,
+    "longitude": -99.273333333,
+    "state": null,
+    "wikidata": "Q30753498"
+  },
+  {
+    "name": "Manacar",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TorreManacar201802p3.jpg",
+    "latitude": 19.3686079,
+    "longitude": -99.1810455,
+    "state": null,
+    "wikidata": "Q48808239"
+  },
+  {
+    "name": "Q130301089",
+    "year": "2010",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20Bicentenario%20frente.jpg",
+    "latitude": 23.75249,
+    "longitude": -99.098466,
+    "state": null,
+    "wikidata": "Q130301089"
+  }
+]

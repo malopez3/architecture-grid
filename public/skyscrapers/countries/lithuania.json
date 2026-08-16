@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Hanner Business Centre",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vilniaus%20Hanneris.JPG",
+    "latitude": 54.69944444,
+    "longitude": 25.26194444,
+    "state": null,
+    "wikidata": "Q12656394"
+  },
+  {
+    "name": "Radisson Blu Hotel Lietuva",
+    "year": "1966",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lietuva%20by%20Augustas%20Didzgalvis.jpg",
+    "latitude": 54.694955,
+    "longitude": 25.274971,
+    "state": null,
+    "wikidata": "Q12670658"
+  },
+  {
+    "name": "3 burės",
+    "year": "2008",
+    "height": 68.0,
+    "image": null,
+    "latitude": 54.69666667,
+    "longitude": 25.27888889,
+    "state": null,
+    "wikidata": "Q12677599"
+  },
+  {
+    "name": "Europa Tower",
+    "year": "2004",
+    "height": 148.0,
+    "image": null,
+    "latitude": 54.696,
+    "longitude": 25.278,
+    "state": null,
+    "wikidata": "Q1345944"
+  },
+  {
+    "name": "Helios City",
+    "year": "2006",
+    "height": 96.0,
+    "image": null,
+    "latitude": 54.679328309,
+    "longitude": 25.25787294,
+    "state": null,
+    "wikidata": "Q110880059"
+  },
+  {
+    "name": "Q111987864",
+    "year": "2003",
+    "height": 99.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arfa%20ir%20Swedbank.JPG",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q111987864"
+  },
+  {
+    "name": "Pilsotas",
+    "year": "2007",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pilsotasminijosg1.jpg",
+    "latitude": 55.691111111,
+    "longitude": 21.146944444,
+    "state": null,
+    "wikidata": "Q3905052"
+  }
+]

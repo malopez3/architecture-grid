@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Innovatoren",
+    "year": "2009",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Innovatoren-nacht.jpg",
+    "latitude": 51.40306,
+    "longitude": 6.12528,
+    "state": null,
+    "wikidata": "Q13732862"
+  },
+  {
+    "name": "Hoftoren",
+    "year": "2003",
+    "height": 142.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hoftoren%201.jpg",
+    "latitude": 52.080638888,
+    "longitude": 4.322388888,
+    "state": null,
+    "wikidata": "Q1623326"
+  },
+  {
+    "name": "Delftse Poort",
+    "year": "1991",
+    "height": 151.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nationale%20Nederlanden%2C%20Rotterdam.jpg",
+    "latitude": 51.92397,
+    "longitude": 4.471951,
+    "state": null,
+    "wikidata": "Q1184156"
+  },
+  {
+    "name": "Maupoleum",
+    "year": "1970",
+    "height": 151.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Maupoleum.jpg/1280px-Maupoleum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "latitude": 51.92397,
+    "longitude": 4.471951,
+    "state": null,
+    "wikidata": "ADD0807932"
+  },
+  {
+    "name": "Serviceflat De Prinsenwiek",
+    "year": "1974",
+    "height": 151.0,
+    "image": "https://live.staticflickr.com/3590/3346974647_e40b31caaf_z.jpg",
+    "latitude": 51.92397,
+    "longitude": 4.471951,
+    "state": null,
+    "wikidata": "ADD0807935"
+  },
+  {
+    "name": "The Lee Towers complex",
+    "year": "1975",
+    "height": 151.0,
+    "image": "https://images.skyscrapercenter.com/building/Europoint-II-1687906241566.jpg",
+    "latitude": 51.92397,
+    "longitude": 4.471951,
+    "state": null,
+    "wikidata": "ADD080793501"
+  },
+  {
+    "name": "Montevideo",
+    "year": "1999",
+    "height": 152.3,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%20montevideotoren.jpg",
+    "latitude": 51.903611,
+    "longitude": 4.485556,
+    "state": null,
+    "wikidata": "Q176278"
+  },
+  {
+    "name": "World Port Center",
+    "year": "1995",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Port%20Center%20from%20Euromast.jpg",
+    "latitude": 51.904722222,
+    "longitude": 4.484722222,
+    "state": null,
+    "wikidata": "Q828343"
+  },
+  {
+    "name": "Haagsche Zwaan",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Haagsche%20Zwaan.jpg",
+    "latitude": 52.077778,
+    "longitude": 4.334444,
+    "state": null,
+    "wikidata": "Q2221125"
+  },
+  {
+    "name": "Het Strijkijzer",
+    "year": "2005",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Netherlands%2C%20The%20Hague%20%28Den%20Haag%29%2C%20Stationsbuurt%2C%20Strijkijzer.JPG",
+    "latitude": 52.071389,
+    "longitude": 4.324167,
+    "state": null,
+    "wikidata": "Q2198522"
+  },
+  {
+    "name": "Toren van Oud",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toren%20van%20Oud.JPG",
+    "latitude": 52.091933,
+    "longitude": 4.281975,
+    "state": null,
+    "wikidata": "Q2143714"
+  },
+  {
+    "name": "Maastoren",
+    "year": "2010",
+    "height": 164.8,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maastoren%20IMG%205117.jpg",
+    "latitude": 51.908611,
+    "longitude": 4.493333,
+    "state": null,
+    "wikidata": "Q2143957"
+  },
+  {
+    "name": "Millennium Tower",
+    "year": "1997",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%2C%20Millenniumtoren.jpg",
+    "latitude": 51.9225,
+    "longitude": 4.471667,
+    "state": null,
+    "wikidata": "Q2180366"
+  },
+  {
+    "name": "Alpha Tower",
+    "year": "2008",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphatoren.jpg",
+    "latitude": 52.216208,
+    "longitude": 6.900867,
+    "state": null,
+    "wikidata": "Q2194432"
+  },
+  {
+    "name": "Romertoren",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Romertoren.jpg",
+    "latitude": 51.368611,
+    "longitude": 6.165556,
+    "state": null,
+    "wikidata": "Q2262649"
+  },
+  {
+    "name": "Ito-toren",
+    "year": "2005",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zuidas4.jpg",
+    "latitude": 52.336944,
+    "longitude": 4.872778,
+    "state": null,
+    "wikidata": "Q2269636"
+  },
+  {
+    "name": "Rembrandt Tower",
+    "year": "1994",
+    "height": 150.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandttoren%20in%202019%20%281%29.jpg",
+    "latitude": 52.345083333,
+    "longitude": 4.917011111,
+    "state": null,
+    "wikidata": "Q2361620"
+  },
+  {
+    "name": "Porthos",
+    "year": "2006",
+    "height": 101.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porthos%20Eindhoven.jpg",
+    "latitude": 51.467778,
+    "longitude": 5.474444,
+    "state": null,
+    "wikidata": "Q2376061"
+  },
+  {
+    "name": "The Red Apple",
+    "year": "2002",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%20toren%20red%20apple.jpg",
+    "latitude": 51.917222,
+    "longitude": 4.489167,
+    "state": null,
+    "wikidata": "Q2401375"
+  },
+  {
+    "name": "VermeerToren",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/VermeerToren.JPG",
+    "latitude": 52.012778,
+    "longitude": 4.337778,
+    "state": null,
+    "wikidata": "Q2467339"
+  },
+  {
+    "name": "Millennium Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Millennium%20Tower%20Amsterdam%20Westpoort%20Reed%20Elsevier%2020140622.JPG",
+    "latitude": 52.393333,
+    "longitude": 4.837222,
+    "state": null,
+    "wikidata": "Q2662373"
+  },
+  {
+    "name": "De Rotterdam",
+    "year": "2013",
+    "height": 149.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Rotterdam%20south%20side.jpg",
+    "latitude": 51.906667,
+    "longitude": 4.488056,
+    "state": null,
+    "wikidata": "Q2741526"
+  },
+  {
+    "name": "Q3079782",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boulevard%20Vlissingen.JPG",
+    "latitude": 51.447,
+    "longitude": 3.562897,
+    "state": null,
+    "wikidata": "Q3079782"
+  },
+  {
+    "name": "Pontsteiger building",
+    "year": "2007",
+    "height": 82.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20220702%20Pontsteiger%20zonsondergang.jpg",
+    "latitude": 52.393055555,
+    "longitude": 4.886111111,
+    "state": null,
+    "wikidata": "Q25998014"
+  },
+  {
+    "name": "StadsHeer",
+    "year": "2007",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stadsheer.jpg",
+    "latitude": 51.560353,
+    "longitude": 5.078378,
+    "state": null,
+    "wikidata": "Q2571995"
+  },
+  {
+    "name": "FIRST Rotterdam",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FIRST%20Rotterdam%20complex%2C%202019.jpg",
+    "latitude": 51.92220278,
+    "longitude": 4.46870833,
+    "state": null,
+    "wikidata": "Q22005648"
+  },
+  {
+    "name": "Westpoint Tower",
+    "year": "2004",
+    "height": 142.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tilburg%20westpoint2.jpg",
+    "latitude": 51.560131,
+    "longitude": 5.065147,
+    "state": null,
+    "wikidata": "Q3648568"
+  },
+  {
+    "name": "Crystal Tower",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20Tower%20Amsterdam%20Sloterdijk.jpg",
+    "latitude": 52.390833,
+    "longitude": 4.836944,
+    "state": null,
+    "wikidata": "Q4551555"
+  },
+  {
+    "name": "Amstel Tower",
+    "year": null,
+    "height": 100.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amstel%20tower%20-%20Q56682937%20-%201.jpg",
+    "latitude": 52.345696,
+    "longitude": 4.918985,
+    "state": null,
+    "wikidata": "Q56682937"
+  },
+  {
+    "name": "Up:Town",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%20UpTown.jpg",
+    "latitude": 51.916575,
+    "longitude": 4.486403,
+    "state": null,
+    "wikidata": "Q60269767"
+  },
+  {
+    "name": "Q138036134",
+    "year": "2026",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Woontoren%20POST%20Rotterdam%20voor%20oplevering.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q138036134"
+  },
+  {
+    "name": "Q138208441",
+    "year": "2026",
+    "height": 159.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20BaanTower%20in%20aanbouw.jpg",
+    "latitude": null,
+    "longitude": null,
+    "state": null,
+    "wikidata": "Q138208441"
+  },
+  {
+    "name": "Q139744708",
+    "year": null,
+    "height": 125.0,
+    "image": null,
+    "latitude": 51.922086111,
+    "longitude": 4.469555555,
+    "state": null,
+    "wikidata": "Q139744708"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Kone Building",
+    "year": "2001",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Konebuilding1.jpg",
+    "latitude": 60.17222222,
+    "longitude": 24.82888889,
+    "state": null,
+    "wikidata": "Q18660143"
+  },
+  {
+    "name": "Q18661684",
+    "year": "1990",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Reimarintorni%20Kivenlahti%20Espoo%202019-8-22%20b.png",
+    "latitude": 60.155,
+    "longitude": 24.635,
+    "state": null,
+    "wikidata": "Q18661684"
+  },
+  {
+    "name": "Meritorni",
+    "year": "1999",
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meritorni%20talvi.jpg",
+    "latitude": 60.151,
+    "longitude": 24.6339,
+    "state": null,
+    "wikidata": "Q3306513"
+  },
+  {
+    "name": "Majakka",
+    "year": "2019",
+    "height": 134.0,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Majakka%2C%20Kalasatama%2C%20Helsinki%20%28July%202019%29.jpg",
+    "latitude": 60.187527777,
+    "longitude": 24.97975,
+    "state": null,
+    "wikidata": "Q26723784"
+  },
+  {
+    "name": "The Node",
+    "year": null,
+    "height": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Node%20office%20skyscraper%20from%20Veturitie%20%28Pasila%2C%20Helsinki%2C%20Finland%29%20under%20construction%20Jul%2018%2C%202026.jpg",
+    "latitude": 60.197139,
+    "longitude": 24.932817,
+    "state": null,
+    "wikidata": "Q136905590"
+  }
+]
