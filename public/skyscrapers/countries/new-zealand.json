@@ -20,6 +20,26 @@
     "wikidata": "Q5254307"
   },
   {
+    "name": "Christchurch Town Hall",
+    "year": "1972",
+    "height": 100.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Christchurch_Town_Hall_of_the_Performing_Arts%2C_New_Zealand.jpg/1280px-Christchurch_Town_Hall_of_the_Performing_Arts%2C_New_Zealand.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "latitude": -36.84617,
+    "longitude": 174.76661,
+    "state": null,
+    "wikidata": "ADD44381620261972"
+  },
+  {
+    "name": "The Beehive",
+    "year": "1977",
+    "height": 100.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Beehive%2C_Wellington%2C_New_Zealand.jpg/960px-Beehive%2C_Wellington%2C_New_Zealand.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "latitude": -36.84617,
+    "longitude": 174.76661,
+    "state": null,
+    "wikidata": "ADD443816202619722"
+  },
+  {
     "name": "Elliot Tower",
     "year": null,
     "height": null,

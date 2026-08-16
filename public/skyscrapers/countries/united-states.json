@@ -16660,6 +16660,56 @@
     "wikidata": "Q131261923"
   },
   {
+    "name": "Block 185",
+    "year": "2021",
+    "height": 116.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Block_185_from_Lady_Bird_Lake.jpg/500px-Block_185_from_Lady_Bird_Lake.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "latitude": 34.047806764,
+    "longitude": -118.261852833,
+    "state": "Texas",
+    "wikidata": "ADD61981620262021"
+  },
+  {
+    "name": "Moody Center (UT Austin)",
+    "year": "2022",
+    "height": 116.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Moody_Center_-_UT_Austin_%2854984998424%29.jpg/960px-Moody_Center_-_UT_Austin_%2854984998424%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "latitude": 34.047806764,
+    "longitude": -118.261852833,
+    "state": "Texas",
+    "wikidata": "ADD61981620262022"
+  },
+  {
+    "name": "Ismaili Center Houston",
+    "year": "2025",
+    "height": 116.0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UUOl_PdGNx3bAGtmO2zIYxaUURjb9bMspn0ZbD1yVtlfcEdQdDP6Km0&s=10",
+    "latitude": 34.047806764,
+    "longitude": -118.261852833,
+    "state": "Texas",
+    "wikidata": "ADD619816202620226212025"
+  },
+  {
+    "name": "San Antonio Central Library",
+    "year": "1993",
+    "height": 116.0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4f5Yu7eaDdRPxqR81bq4wv6YH9D63A2z_OUL370l4yJEHKiH21KLDHc&s=10",
+    "latitude": 34.047806764,
+    "longitude": -118.261852833,
+    "state": "Texas",
+    "wikidata": "ADD19936252026"
+  },
+  {
+    "name": "Chapel of St. Basil",
+    "year": "1997",
+    "height": 116.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2024-0105-Chapel_of_St._Basil_north_elevation.jpg/960px-2024-0105-Chapel_of_St._Basil_north_elevation.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "latitude": 34.047806764,
+    "longitude": -118.261852833,
+    "state": "Texas",
+    "wikidata": "ADD64881620261997"
+  },
+  {
     "name": "Ralph H. Metcalfe Federal Building",
     "year": "1991",
     "height": null,
