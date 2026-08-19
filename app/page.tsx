@@ -158,6 +158,9 @@ useEffect(() => {
     }));
   }
 
+  // Close the selection panel
+  setSelectedCell(null);
+
   return;
 }
 

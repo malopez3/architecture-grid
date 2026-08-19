@@ -20,6 +20,36 @@
     "wikidata": "Q632566"
   },
   {
+    "name": "Mata Atlantica Tower, São Paulo",
+    "year": "2024",
+    "height": 118.43,
+    "image": "https://static.dezeen.com/uploads/2024/11/rosewood-sao-paulo_jean-nouvel_philippe-starck_dezeen_2364_sq_0-1704x1135-1.jpg",
+    "latitude": -23.546611,
+    "longitude": -46.644361,
+    "state": null,
+    "wikidata": "ADD51681920262024"
+  },
+  {
+    "name": "AGE360, Curitiba",
+    "year": "2024",
+    "height": 118.43,
+    "image": "https://static.dezeen.com/uploads/2025/03/age360-by-triptyque-brazil_dezeen_2364_sq-1-1704x1704.jpg",
+    "latitude": -23.546611,
+    "longitude": -46.644361,
+    "state": null,
+    "wikidata": "ADD51781920262024AGE360"
+  },
+  {
+    "name": "Yachthouse, Balneário Camboriú",
+    "year": "2022",
+    "height": 118.43,
+    "image": "https://static.dezeen.com/uploads/2025/03/yachthouse-balneario-camboriu-brazil-pininfarnia_dezeen_2364_tallest-sksc-1704x1704.jpg",
+    "latitude": -23.546611,
+    "longitude": -46.644361,
+    "state": null,
+    "wikidata": "ADD5188192026YACHT"
+  },
+  {
     "name": "Joelma Building",
     "year": null,
     "height": 94.0,
@@ -263,11 +293,11 @@
     "name": "Terrazzo Imperiale",
     "year": "2007",
     "height": 125.0,
-    "image": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0zSGXtvvlBMaV1Ej5kn1xZSU8RoQ0atvw0SJBhmI8d80bA5FPOqeG1g&s=10",
     "latitude": -13.001716666,
     "longitude": -38.488516666,
     "state": null,
-    "wikidata": "Q105452906"
+    "wikidata": "ADDTERRAZZOIMPEPRIALE611"
   },
   {
     "name": "Centro Médico Empresarial Vitraux",
@@ -383,7 +413,7 @@
     "name": "Mansão Margarida Costa Pinto",
     "year": "2008",
     "height": 154.0,
-    "image": null,
+    "image": "https://images.skyscrapercenter.com/building/mansaomargaridacostapinto_ext-full2_(c)arquiteto__ivan__smarcevscki.jpg",
     "latitude": -12.992633,
     "longitude": -38.525371,
     "state": null,
