@@ -17130,6 +17130,46 @@
     "wikidata": "Q137824462"
   },
   {
+    "name": "Westin Virginia Beach Town Center",
+    "year": "2008",
+    "height": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Virginia_Beach_Town_Center_-_Westin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "latitude": 37.535638888,
+    "longitude": -77.440644444,
+    "state": "Virginia",
+    "wikidata": "ADD20087128192026WEST"
+  },
+  {
+    "name": "Taubman Museum of Art — Roanoke ",
+    "year": "2008",
+    "height": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJ1BvsCA02tYnwbvX_XtD3DZH8GajuHk78yvaeRbOeUcvXBhMzgz782Q&s=10",
+    "latitude": 37.535638888,
+    "longitude": -77.440644444,
+    "state": "Virginia",
+    "wikidata": "ADD20087128192026"
+  },
+  {
+    "name": "National Museum of the United States Army — Fort Belvoir",
+    "year": "2020",
+    "height": null,
+    "image": "https://images.adsttc.com/media/images/5fad/86a8/63c0/17d2/ee00/0131/large_jpg/NMUSA_SOM_DaveBurk_002_jpg.jpg?1605207684",
+    "latitude": 37.535638888,
+    "longitude": -77.440644444,
+    "state": "Virginia",
+    "wikidata": "ADD20207158192026"
+  },
+  {
+    "name": "Metropolitan Park — Arlington",
+    "year": "2023",
+    "height": null,
+    "image": "https://www.clarkconstruction.com/sites/default/files/styles/gallery_image/public/2023-07/MB20230517_ZGF_IMG_7932_jpg.jpg?itok=dLzqU54q",
+    "latitude": 37.535638888,
+    "longitude": -77.440644444,
+    "state": "Virginia",
+    "wikidata": "ADD20207158192026MET"
+  },
+  {
     "name": "Tribeca Tower",
     "year": null,
     "height": 148.0,
