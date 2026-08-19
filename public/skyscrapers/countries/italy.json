@@ -90,16 +90,6 @@
     "wikidata": "Q98545390"
   },
   {
-    "name": "Q16593926",
-    "year": "2008",
-    "height": null,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20skyline%20with%20Unicredit%20Tower%20and%20Bosco%20Verticale.jpg",
-    "latitude": 45.50515889,
-    "longitude": 9.25291833,
-    "state": null,
-    "wikidata": "Q16593926"
-  },
-  {
     "name": "Piacentini Tower",
     "year": "1940",
     "height": null,
@@ -230,7 +220,7 @@
     "wikidata": "Q3775872"
   },
   {
-    "name": "Piedmont Region Headquarters",
+    "name": "Piedmont Region Skyscraper",
     "year": "2022",
     "height": 209.0,
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torino%2C%20grattacielo%20della%20Regione%20Piemonte%20%2803%29.jpg",
@@ -350,6 +340,16 @@
     "wikidata": "Q3995246"
   },
   {
+    "name": "Inalpi Arena",
+    "year": "2005",
+    "height": null,
+    "image": "https://networksites.livenationinternational.com/networksites/pitnectb/4.jpg?format=webp&width=3840&quality=75",
+    "latitude": 41.466218,
+    "longitude": 12.893389,
+    "state": null,
+    "wikidata": "ADD62781920262005INALPI"
+  },
+  {
     "name": "Torre Servizi Tecnici Comunali",
     "year": null,
     "height": null,
@@ -410,6 +410,16 @@
     "wikidata": "Q3995301"
   },
   {
+    "name": "Auditorium Parco della Musica",
+    "year": "2002",
+    "height": 129.0,
+    "image": "https://www.auditorium.com/wp-content/uploads/2022/12/auditorium-parco-della-musica-roma.jpeg",
+    "latitude": 40.8582,
+    "longitude": 14.2797,
+    "state": null,
+    "wikidata": "ADD2002AUDITORIUMPARCO625"
+  },
+  {
     "name": "Torre di Porta Romana",
     "year": "1959",
     "height": 90.0,
@@ -440,16 +450,6 @@
     "wikidata": "Q124413102"
   },
   {
-    "name": "Torre NC71",
-    "year": "1993",
-    "height": null,
-    "image": null,
-    "latitude": 45.454532571,
-    "longitude": 10.966200924,
-    "state": null,
-    "wikidata": "Q124424478"
-  },
-  {
     "name": "Torri Giume",
     "year": "1958",
     "height": 42.0,
@@ -458,25 +458,5 @@
     "longitude": 9.227765596,
     "state": null,
     "wikidata": "Q131905286"
-  },
-  {
-    "name": "Torri di Fuksas",
-    "year": "2005",
-    "height": null,
-    "image": null,
-    "latitude": null,
-    "longitude": null,
-    "state": null,
-    "wikidata": "Q134530478"
-  },
-  {
-    "name": "Q134620277",
-    "year": null,
-    "height": 54.0,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Matitino%20-%20panoramio.jpg",
-    "latitude": 44.301432,
-    "longitude": 8.474193,
-    "state": null,
-    "wikidata": "Q134620277"
   }
 ]
