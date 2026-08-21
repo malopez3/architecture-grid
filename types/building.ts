@@ -6,6 +6,5 @@ export interface Building {
   latitude: number | null;
   longitude: number | null;
   state: string | null;
-  country: string | null;
   wikidata: string;
 }
