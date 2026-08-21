@@ -60,6 +60,36 @@
     "wikidata": "ADD080793501"
   },
   {
+    "name": "Netherlands Dance Theater in The Hague",
+    "year": "1987",
+    "height": 151.0,
+    "image": "https://www.re-thinkingthefuture.com/wp-content/uploads/2025/04/A13962-Lost-in-Time-Netherlands-Dance-Theater-The-Hague-1987-%E2%80%93-2015-Image-2.jpg?w=999",
+    "latitude": 51.92397,
+    "longitude": 4.471951,
+    "state": null,
+    "wikidata": "ADD4088212026"
+  },
+  {
+    "name": "Witte Anna — The Hague",
+    "year": "1987",
+    "height": 151.0,
+    "image": "https://hoog500.nl/afbeeldingen/profiel/10587.jpg",
+    "latitude": 51.92397,
+    "longitude": 4.471951,
+    "state": null,
+    "wikidata": "ADD4098212026"
+  },
+  {
+    "name": "Zandkasteel (Sandcastle)",
+    "year": "1986",
+    "height": 151.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/ING_Hoofdkantoor%2C_Amsterdam_%281%29.jpg?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "latitude": 51.92397,
+    "longitude": 4.471951,
+    "state": null,
+    "wikidata": "ADD4168212026"
+  },
+  {
     "name": "Montevideo",
     "year": "1999",
     "height": 152.3,
@@ -300,33 +330,23 @@
     "wikidata": "Q60269767"
   },
   {
-    "name": "Q138036134",
-    "year": "2026",
+    "name": "Depot Boijmans Van Beuningen — Rotterdam",
+    "year": "2021",
     "height": null,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Woontoren%20POST%20Rotterdam%20voor%20oplevering.jpg",
+    "image": "https://api.mvrdv.com/media/uploads/project/10/19_Depot%20BVB_may%202021_%C2%A9Ossip%20van%20Duivenbode.jpg?width=1920",
     "latitude": null,
     "longitude": null,
     "state": null,
-    "wikidata": "Q138036134"
+    "wikidata": "ADD4418212026"
   },
   {
-    "name": "Q138208441",
-    "year": "2026",
+    "name": "Valley - Amsterdam",
+    "year": "2022",
     "height": 159.0,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20BaanTower%20in%20aanbouw.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLq2IaCfA8yEuG2hpQxaFu_bTYpn7JXIJAZhvvE1fcSa1tfaE9Lv_Xna9s&s=10",
     "latitude": null,
     "longitude": null,
     "state": null,
-    "wikidata": "Q138208441"
-  },
-  {
-    "name": "Q139744708",
-    "year": null,
-    "height": 125.0,
-    "image": null,
-    "latitude": 51.922086111,
-    "longitude": 4.469555555,
-    "state": null,
-    "wikidata": "Q139744708"
+    "wikidata": "ADD4428212026"
   }
 ]
