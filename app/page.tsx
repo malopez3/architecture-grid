@@ -16,12 +16,16 @@ export default function Home() {
 
 const [buildings, setBuildings] = useState<Building[]>([]);
 const [gameMode, setGameMode] = useState<"learner" | "game">("learner");
-const [tries, setTries] = useState(0);
+const [cellTries, setCellTries] = useState<Record<string, number>>({});
 const [selectedBuilding, setSelectedBuilding] = useState<Building | null>(null);
 const [incorrectBuildings, setIncorrectBuildings] = useState<Building[]>([]);
 const [gameResult, setGameResult] = useState<"correct" | "incorrect" | "failed" | null>(null);
 const [completedCells, setCompletedCells] = useState<
   Record<string, Building>
+>({});
+
+const [cellGameStatus, setCellGameStatus] = useState<
+  Record<string, string>
 >({});
 
   useEffect(() => {
@@ -105,8 +109,7 @@ useEffect(() => {
 
     setBuildings(correctBuildings);
 
-    // Reset game state
-    setTries(0);
+    // Reset temporary game state
     setGameResult(null);
     setSelectedBuilding(null);
 
@@ -141,32 +144,29 @@ useEffect(() => {
     return null;
   }
 
-  // Controls what happens after click depending on learner mode or game mode
   function handleBuildingClick(building: Building) {
+  if (!selectedCell) return;
+
+  const cellKey =
+    selectedCell.location.name + "-" + selectedCell.decade;
+
   // Learner Mode
   if (gameMode === "learner") {
-  setSelectedBuilding(building);
-  setGameResult("correct");
-
-  if (selectedCell) {
-    const cellKey =
-      selectedCell.location.name + "-" + selectedCell.decade;
+    setSelectedBuilding(building);
+    setGameResult("correct");
 
     setCompletedCells((previous) => ({
       ...previous,
       [cellKey]: building,
     }));
+
+    // Close the selection panel
+    setSelectedCell(null);
+
+    return;
   }
 
-  // Close the selection panel
-  setSelectedCell(null);
-
-  return;
-}
-
   // Game Mode
-  if (!selectedCell) return;
-
   const startYear = Number(
     selectedCell.decade.slice(0, 4)
   );
@@ -184,27 +184,55 @@ useEffect(() => {
     setSelectedBuilding(building);
     setGameResult("correct");
 
-    const cellKey =
-      selectedCell.location.name + "-" + selectedCell.decade;
-
     setCompletedCells((previous) => ({
       ...previous,
       [cellKey]: building,
     }));
 
+    // Remove any previous failure message
+    setCellGameStatus((previous) => {
+      const updated = { ...previous };
+      delete updated[cellKey];
+      return updated;
+    });
+
+    // Close the selector
+    setSelectedCell(null);
+
     return;
   }
 
   // Incorrect answer
-  const newTries = tries + 1;
+const currentTries = cellTries[cellKey] || 0;
+const newTries = currentTries + 1;
 
-  setTries(newTries);
+setCellTries((previous) => ({
+  ...previous,
+  [cellKey]: newTries,
+}));
 
-  if (newTries >= 3) {
-    setGameResult("failed");
-  } else {
-    setGameResult("incorrect");
-  }
+if (newTries >= 3) {
+  setCellGameStatus((previous) => ({
+    ...previous,
+    [cellKey]: "You ran out of chances",
+  }));
+
+  setGameResult("failed");
+} else {
+  const chancesLeft = 3 - newTries;
+
+  setCellGameStatus((previous) => ({
+    ...previous,
+    [cellKey]: `You have ${chancesLeft} ${
+      chancesLeft === 1 ? "chance" : "chances"
+    } left`,
+  }));
+
+  setGameResult("incorrect");
+}
+
+  // Close the selector
+  setSelectedCell(null);
 }
 
 const answerChoices =
@@ -270,12 +298,16 @@ const answerChoices =
                   return (
                     <td
                       key={cellKey}
-                      onClick={() =>
+                      onClick={() => {
+                        if (cellGameStatus[cellKey] === "You ran out of chances") {
+                          return;
+                        }
+
                         setSelectedCell({
                           location,
                           decade,
-                        })
-                      }
+                        });
+                      }}
                       className="
                         w-20 h-20
                         sm:w-28 sm:h-28
@@ -303,6 +335,10 @@ const answerChoices =
                         <div className="w-full h-full flex items-center justify-center p-2 text-white text-center text-sm font-bold">
                           {completedBuilding.name}
                         </div>
+                      ) : cellGameStatus[cellKey] ? (
+                        <div className="w-full h-full flex items-center justify-center p-4 text-white text-center text-base font-bold">
+                          {cellGameStatus[cellKey]}
+                        </div>
                       ) : null}
                     </td>
                   );
@@ -319,7 +355,6 @@ const answerChoices =
           onClick={() => {
             setGameMode("learner");
             setSelectedCell(null);
-            setTries(0);
             setGameResult(null);
             setSelectedBuilding(null);
           }}
@@ -336,7 +371,6 @@ const answerChoices =
           onClick={() => {
             setGameMode("game");
             setSelectedCell(null);
-            setTries(0);
             setGameResult(null);
             setSelectedBuilding(null);
           }}
