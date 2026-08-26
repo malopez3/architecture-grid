@@ -730,6 +730,66 @@
     "wikidata": "Q12641294"
   },
   {
+    "name": "Conoco-Phillips Building",
+    "year": "1983",
+    "height": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Conoco-Phillips_Building_%28Anchorage%29.jpg/1280px-Conoco-Phillips_Building_%28Anchorage%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "latitude": 61.2152,
+    "longitude": -149.893,
+    "state": "Alaska",
+    "wikidata": "ADD198310438252026"
+  },
+  {
+    "name": "Alaska Native Heritage Center",
+    "year": "1999",
+    "height": null,
+    "image": "https://uploads.alaska.org/suppliers/activities/A/alaska-native-heritage-museum/_1600xAUTO_crop_center-center_65_none/Alaska-Native-Heritage-Center-Welcome-House-small-opt2019.jpg",
+    "latitude": 61.2152,
+    "longitude": -149.893,
+    "state": "Alaska",
+    "wikidata": "ADD199910448252026"
+  },
+  {
+    "name": "Alaska Native Science & Engineering Program Building ",
+    "year": "2006",
+    "height": null,
+    "image": "https://www.ansep.net/wp-content/uploads/2020/11/ansep-building01.jpg",
+    "latitude": 61.2152,
+    "longitude": -149.893,
+    "state": "Alaska",
+    "wikidata": "ADD200610458252026"
+  },
+  {
+    "name": "Hilton Anchorage East Tower ",
+    "year": "1971",
+    "height": null,
+    "image": "https://images.skyscrapercenter.com/building/hiltonanchorage_ext-overall_(c)stevenhenry.jpg",
+    "latitude": 61.2152,
+    "longitude": -149.893,
+    "state": "Alaska",
+    "wikidata": "ADD19718252026"
+  },
+  {
+    "name": "Engineering & Industry Building, UAA",
+    "year": "2015",
+    "height": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5VGf5h5tH2qSqqzjcVq9X6J2YRu7RIh-7OZ8cbsgE-LtXAeyrHjsurQ&s=10",
+    "latitude": 61.2152,
+    "longitude": -149.893,
+    "state": "Alaska",
+    "wikidata": "ADD201510478252026"
+  },
+  {
+    "name": "Lake Clark Air Hangar & Terminal",
+    "year": "2021",
+    "height": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-zCf0ppPH1W9hIUbge-aCudXKJDaVUigbrAmg3ZoA7A0MqHnvrj2VXo&s=10",
+    "latitude": 61.2152,
+    "longitude": -149.893,
+    "state": "Alaska",
+    "wikidata": "ADD2015104782520262021"
+  },
+  {
     "name": "Orpheum Lofts",
     "year": "1931",
     "height": null,
