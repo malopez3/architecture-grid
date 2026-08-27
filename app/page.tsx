@@ -66,6 +66,8 @@ useEffect(() => {
   async function loadBuildings() {
     let allData: Building[];
 
+    // Safety check to make sure selectedCell is defined and not null
+    if (!selectedCell) return;
     // Load the appropriate JSON
     if (selectedCell.location.type === "country") {
       const filename = selectedCell.location.name
