@@ -20,6 +20,16 @@
     "wikidata": "Q1816400"
   },
   {
+    "name": "Iris Tower",
+    "year": "2020",
+    "height": 150.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Belgique_-_Bruxelles_-_Tour_Iris_-_01.jpg/960px-Belgique_-_Bruxelles_-_Tour_Iris_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "latitude": 50.83806,
+    "longitude": 4.33778,
+    "state": null,
+    "wikidata": "ADD6098272026"
+  },
+  {
     "name": "Arteveldetoren",
     "year": "2012",
     "height": 118.5,
