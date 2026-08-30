@@ -10,13 +10,33 @@
     "wikidata": "Q282968"
   },
   {
-    "name": "Oslo Plaza",
-    "year": "1990",
+    "name": "Norwegian Glacier Museum",
+    "year": "1991",
     "height": 117.0,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20Plaza%20og%20Postgirobygget2%20%28cropped%29.jpg",
+    "image": "https://api.architectuul.org/media/4d89ceaa-2900-41fc-94ab-67bf6d7b5f76/1600x900.jpg",
     "latitude": 59.91225,
     "longitude": 10.75525,
     "state": null,
-    "wikidata": "Q3499753"
+    "wikidata": "ADDGLACIER1558302026"
+  },
+  {
+    "name": "Radisson Blu Plaza Hotel, Oslo",
+    "year": "1989",
+    "height": 117.0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ71pazJHyEmUbmsbOFJ63F0FO1qKZrLAgHmUmV4i7SJA&s=10",
+    "latitude": 59.91225,
+    "longitude": 10.75525,
+    "state": null,
+    "wikidata": "ADD1518302026"
+  },
+  {
+    "name": "Under (Lindesnes)",
+    "year": "2019",
+    "height": 117.0,
+    "image": "https://www.architecturalrecord.com/ext/resources/Issues/2019/05-May/BTS/Under/1905-Under-Lindesnes-Norway-Snohetta-03.webp",
+    "latitude": 59.91225,
+    "longitude": 10.75525,
+    "state": null,
+    "wikidata": "ADD1518302026UNDER"
   }
 ]
