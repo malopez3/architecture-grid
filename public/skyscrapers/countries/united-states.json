@@ -13480,6 +13480,26 @@
     "wikidata": "Q3359758"
   },
   {
+    "name": "Rowan Pump Station",
+    "year": "2020",
+    "height": null,
+    "image": "https://architizer-prod.imgix.net/media/mediadata/uploads/1652668910338Rowan_0721_150dpi.jpg?w=1680&q=60&auto=format,compress&cs=strip",
+    "latitude": 38.2536,
+    "longitude": -85.7589,
+    "state": "Kentucky",
+    "wikidata": "ADD1029982026ROW"
+  },
+  {
+    "name": "400 West Market",
+    "year": "1993",
+    "height": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Aegoncenterlou.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "latitude": 38.2536,
+    "longitude": -85.7589,
+    "state": "Kentucky",
+    "wikidata": "ADD1030982026400WES"
+  },
+  {
     "name": "1501 Broadway",
     "year": "1927",
     "height": 131.5,
