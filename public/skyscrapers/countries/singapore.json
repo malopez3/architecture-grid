@@ -380,16 +380,6 @@
     "wikidata": "Q6052468"
   },
   {
-    "name": "Shangri-La Hotel Singapore",
-    "year": "1971",
-    "height": null,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Breakfast%20time%20by%20the%20pool%2C%20Shangri-La%20Hotel%20Singapore%20-%2020120826.jpg",
-    "latitude": 1.311043,
-    "longitude": 103.82659,
-    "state": null,
-    "wikidata": "Q6146488"
-  },
-  {
     "name": "Capital Tower",
     "year": "2000",
     "height": 255.0,
@@ -438,6 +428,16 @@
     "longitude": 103.847861111,
     "state": null,
     "wikidata": "Q2813490"
+  },
+  {
+    "name": "Pan Pacific Orchard",
+    "year": "2023",
+    "height": 561.0,
+    "image": "https://thursd.com/storage/media/81688/Outside-facade-of-the-Pan-Pacific-hotel-Singapore.jpg",
+    "latitude": 1.276833333,
+    "longitude": 103.847861111,
+    "state": null,
+    "wikidata": "ADD958982026"
   },
   {
     "name": "UOB Plaza One",
