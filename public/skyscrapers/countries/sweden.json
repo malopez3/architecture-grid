@@ -20,6 +20,26 @@
     "wikidata": "Q1032561"
   },
   {
+    "name": "Avicii Arena",
+    "year": "1989",
+    "height": null,
+    "image": "https://aviciiarena.se/uploads/sites/4/2025/02/aviciiarena-2024-5-stockholmlive-scaled-copy.jpg",
+    "latitude": 59.311944444,
+    "longitude": 18.073611111,
+    "state": null,
+    "wikidata": "ADD91920261050AVICII"
+  },
+  {
+    "name": "Karlatornet",
+    "year": "2024",
+    "height": null,
+    "image": "https://www.doka.com/revolution/webapp/cache/assets/a4cb4abdb661f059f35e2c3a3fca4306/karlatornet-800x1200_4-.jpg",
+    "latitude": 59.311944444,
+    "longitude": 18.073611111,
+    "state": null,
+    "wikidata": "ADD11079192026KAR"
+  },
+  {
     "name": "Scandic Victoria Tower",
     "year": "2011",
     "height": 117.0,
