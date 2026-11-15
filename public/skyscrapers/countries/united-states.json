@@ -14911,13 +14911,43 @@
   },
   {
     "name": "North Dakota State Capitol",
-    "year": null,
+    "year": "1932",
     "height": null,
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Dakota%20State%20Capitol%2002.jpg",
     "latitude": 46.8208,
     "longitude": -100.783,
     "state": "North Dakota",
     "wikidata": "Q3696010"
+  },
+  {
+    "name": "Lashkowitz High Rise (Fargo)",
+    "year": "1970",
+    "height": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2-k-2iNZU9hH7iEwzcC9qWrQJOYS8crHjb40Ma8DuwavL8rZignMkTrdL&s=10",
+    "latitude": 46.8208,
+    "longitude": -100.783,
+    "state": "North Dakota",
+    "wikidata": "ADD1970LASHKOWITZ"
+  },
+  {
+    "name": "Animal Nutrition and Physiology Center (NDSU)",
+    "year": "2001",
+    "height": null,
+    "image": "https://www.ndsu.edu/sites/default/files/styles/paragraph_image_default_medium/public/2025-06/Animal%20Nutrition%20and%20Physiology%20Center%20Exterior.jpg.webp?itok=I0TpEI1F&cb=6b419a31",
+    "latitude": 46.8208,
+    "longitude": -100.783,
+    "state": "North Dakota",
+    "wikidata": "ADD2001ANIMAL"
+  },
+  {
+    "name": "North Dakota State Heritage Center (Bismarck)",
+    "year": "1981",
+    "height": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/ND-heritage-center.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "latitude": 46.8208,
+    "longitude": -100.783,
+    "state": "North Dakota",
+    "wikidata": "ADD1981HERITAGE"
   },
   {
     "name": "Foshay Tower",
