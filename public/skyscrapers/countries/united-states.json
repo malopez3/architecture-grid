@@ -15350,6 +15350,36 @@
     "wikidata": "Q4546797"
   },
   {
+    "name": "Firestone Medical Research Building (University of Vermont)",
+    "year": "2022",
+    "height": null,
+    "image": "https://pcconstruction.com/app/uploads/2022/04/UVM-Firestone-Medical-Research-Building_11-1290x806.jpg",
+    "latitude": 38.9033,
+    "longitude": -77.0336,
+    "state": "Vermont",
+    "wikidata": "ADD11262026FIRESTONE"
+  },
+  {
+    "name": "Stafford Hall (University of Vermont)",
+    "year": "1991",
+    "height": null,
+    "image": "https://www.uvm.edu/~campus/stafford/stafford.jpg",
+    "latitude": 38.9033,
+    "longitude": -77.0336,
+    "state": "Vermont",
+    "wikidata": "ADD11262026STAFFORD"
+  },
+  {
+    "name": "Rowell Hall (University of Vermont)",
+    "year": "1973",
+    "height": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCjvtHDj5YsB9-DeAh-Wapu-vKgAzhiWuKqDYwpUfmsWmk_19PhsthtE&s=10",
+    "latitude": 38.9033,
+    "longitude": -77.0336,
+    "state": "Vermont",
+    "wikidata": "ADD11262026ROWELL"
+  },
+  {
     "name": "10 Lafayette Square",
     "year": null,
     "height": null,
