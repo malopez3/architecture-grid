@@ -10,13 +10,63 @@
     "wikidata": "Q7271131"
   },
   {
-    "name": "Q134577650",
-    "year": "1992",
+    "name": "DJI Sky City",
+    "year": "2022",
     "height": null,
-    "image": null,
-    "latitude": null,
-    "longitude": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/DJI_Headquarters_Tower_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "latitude": 22.277777777,
+    "longitude": 114.163888888,
     "state": null,
-    "wikidata": "Q134577650"
+    "wikidata": "ADD11262026DJI"
+  },
+  {
+    "name": "Oriental Pearl Tower",
+    "year": "1994",
+    "height": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Oriental_Pearl_Tower_20251126.jpg/960px-Oriental_Pearl_Tower_20251126.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "latitude": 22.277777777,
+    "longitude": 114.163888888,
+    "state": null,
+    "wikidata": "ADD1126641ORIENTAL"
+  },
+  {
+    "name": "Jin Mao Tower",
+    "year": "1999",
+    "height": null,
+    "image": "https://www.som.com/wp-content/uploads/2025/03/193140_000_N597_large-1742919157.jpg",
+    "latitude": 22.277777777,
+    "longitude": 114.163888888,
+    "state": null,
+    "wikidata": "ADD11262026JINMAO"
+  },
+  {
+    "name": "Beijing Hotel East Wing",
+    "year": "1974",
+    "height": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Beijing_Hotel_pic_3.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "latitude": 22.277777777,
+    "longitude": 114.163888888,
+    "state": null,
+    "wikidata": "ADD11262026BEIJINGHOTEL"
+  },
+  {
+    "name": "Mao Zedong Memorial Hall",
+    "year": "1977",
+    "height": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/62930-Beijing-Tiananmen-Square_%2828609067112%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "latitude": 22.277777777,
+    "longitude": 114.163888888,
+    "state": null,
+    "wikidata": "ADD11262026MAO"
+  },
+  {
+    "name": "Zhuhai Jinwan Civic Art Centre",
+    "year": "2023",
+    "height": null,
+    "image": "https://arquitecturaviva.com/assets/uploads/obras/56295/av_imagen.webp",
+    "latitude": 22.277777777,
+    "longitude": 114.163888888,
+    "state": null,
+    "wikidata": "ADD11262026ZHUHAI"
   }
 ]
